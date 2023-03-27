@@ -71,4 +71,4 @@ The following are resolutions for more specific scenarios:
 
 - If a group member is continually being disrespectful, argumentative, or noncooperative with the group: the group will reach out to the course staff.
 
-- In other situations: the group will attempt the conflict resolution strategies detailed here, but if unsuccessful in resolving conflicts or issues with the behavior of a group member or members, will reach out to the course staff.
+- In other situations: the group will attempt the conflict resolution strategies detailed here, but if unsuccessful in resolving conflicts or issues with the behavior of a group member or members, will reach out to the course staff. 
