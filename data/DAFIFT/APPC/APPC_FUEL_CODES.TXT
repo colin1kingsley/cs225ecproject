@@ -1,0 +1,24 @@
+FUEL_CODE	FLIP	NATO	AKA	EEFC	DESCRIPTION
+0	A+	None	 	 	Jet A+, Kerosene fuel, Type A, Jet A or JP-1 With icing inhibitor.
+1	A	None	JAA	 	Jet A, without icing inhibitor
+2	A1+	F-34	JA1	 	Jet A1+, Jet A1 with icing inhibitor.
+3	B	None	 	 	Jet B.  Wide cut turbine fuel.  Without icing inhibitor.
+4	J4	F-40	JP4	T2	JP-4, wide cut turbine fuel MIL Spec T-5624.
+5	J5	F-44	JP5	T1,T5,T6,T7	JP-5 Kerosene MIL Spec T-5624.
+6	A1	F-35	 	TS1	Jet A1, without icing inhibitor.
+7	None	None	 	 	JP-7 Jet Propellant type 7 (Glass Tank Fuel).
+8	J8	F-34	JP8	 	JP-8 SemiKerosene MIL Spec T-83133, with icing inhibitor.
+9	B+	None	 	 	Jet B+, wide cut turbine fuel with icing inhibitor.
+A	115	F-22	 	BA	115/145 octane gasoline, leaded, MIL-L-5572F (PURPLE)
+B	100	None	 	 	100/130 octane gasoline, leaded, MIL-L-5572F (GREEN)
+C	None	None	 	B91	91/96 octane gasoline, leaded, no MIL Spec.
+D	80	F-12	887	 	80/87 octane gasoline, leaded, MIL -L-5572F (RED)
+F	None	None	80NL	 	80 octane gasoline, unleaded, No MIL Spec.
+G	None	None	AvGas	 	Aviation Gasoline (AVGAS), octane unknown.
+H	None	None	 	 	108/135 octane gasoline, leaded. No MIL Spec
+J	J	None	 	 	Jet fuel available but type is unknown.
+K	None	None	73NL	 	73 octane gasoline, unleaded, No MIL Spec.
+L	100LL	F-18	B95,B100	 	100/130 MIL Spec, low lead, aviation gasoline (BLUE)
+U	 	 	 	 	Storage tanks are available but tank usage is unknown.
+X	 	 	 	 	Storage tanks available and fuel type unknown or the tanks were used at one time for aviation products but now store other products.
+

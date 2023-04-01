@@ -1,0 +1,18 @@
+FLUID_CODE	FLIP	DESCRIPTION
+A	AVBL	Available (Type unknown)
+B	ADI	Anti-Deonation Injection Fluid-Reciprocating Engine Aircraft
+C	W	Water Thrust Augmentation - Jet Aircraft
+D	WAI	Water-Alcohol Injection Type, Thrust Augmenation-Jet Aircraft
+F	SP	Single Point Refueling
+G	PRESAIR	Air Compressors rated 3,000PSI or more
+H	DE-ICE	Anti-icing/De-icing/Defrosting Fluid (MIL A 8243)
+J	LPOX	Low pressure oxygen servicing
+K	HPOX	High pressure oxygen servicing
+M	LHOX	Low and high pressure oxygen servicing
+N	LOX	Liquid oxygen servicing
+P	OXRB	Oxygen replacement bottles
+R	OX	Indicates oxygen servicing when type of servicing is unknown
+S	LPNIT	Low pressure nitrogen servicing
+T	HPNIT	High pressure nitrogen servicing
+V	LHNIT	Low and high pressure nitrogen servicing
+

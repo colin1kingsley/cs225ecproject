@@ -1,0 +1,735 @@
+MTR_IDENT	ORIG_ACT	SCH_ACT	ICAO_REGION	CTRY	LOC_HDATUM	WGS_DATUM	EFF_TIMES	CYCLE_DATE
+IR002	20 OSS/OSOA, Shaw AFB, SC 29152-5000 DSN 965-1121/1122, C 803-895-1121/1122, Fax	20 OSS/OSOS, Shaw AFB, SC 29152 Duty hrs DSN 965-1118/1119, C803-895-1118/1119.	KZ	US	WGE	WGE	Continuous	200604
+IR012	4 OSS/OSR, Seymour Johnson AFB, NC 27531-5004 DSN 722-2672, C919-722-2672.	4 OSS/OSOSF, Seymour Johnson AFB, NC 27531-5004 DSN 722-2129/2124, C919-722-2129	KZ	US	WGE	WGE	Continuous	199910
+IR015	347 OSS/OSKA, Moody AFB, GA 31699-1899 DSN 460-4131, C229-257-4131.	347 OSS/OSOS, Moody AFB, GA 31699-1899 Mon-Fri 0730-1630L exc holidays DSN 460-4	KZ	US	WGE	WGE	Continuous	200602
+IR016	347 OSS/OSKA, Moody AFB, GA 31699-1899 DSN 460-4131, C229-257-4131.	347 OSS/OSOS, Moody AFB, GA 31699-1899 Mon-Fri 0730-1630L exc holidays DSN 460-4	KZ	US	WGE	WGE	Continuous	200602
+IR017	187 FW, 5187 Selma Highway, Montgomery, AL 36108-4824 DSN 358-9255, C334-394-725	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+IR018	FACSFAC JAX, NAS Jacksonville, FL 32212 DSN 942-2004/2005, C904-542-2004/2005, A	Same as Originating Activity	KZ	US	WGE	WGE	0700-2400 local daily	199912
+IR019	FACSFAC JAX, NAS Jacksonville, FL 32212 DSN 942-2004/2005, C904-542-2004/2005, A	Same as Originating Activity	KZ	US	WGE	WGE	0700-2400 local daily	199912
+IR020	FACSFAC JAX, NAS Jacksonville, FL 32212 DSN 942-2004/2005, C904-542-2004/2005, A	Same as Originating Activity	KZ	US	WGE	WGE	0700-2400 local daily	199912
+IR021	FACSFACNPA, Pensacola, FL 32508-5217 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ Mon-Fri, occasionally on weekends	200009
+IR022	FACSFACNPA, Pensacola, FL 32508-5217 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ weekdays, occasional weekends	200009
+IR023	CG MCAS CHERRY POINT, ATTN RAC-DIROPS, Cherry Point, NC 28533 DSN 582-3466, C252	Central Scheduling Division, MCAS Cherry Point, NC 28533 DSN 582-4040/4041, C252	KZ	US	WGE	WGE	Continuous	200309
+IR026	FACSFACJAX, PO Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005 C904-54	Same as Originating Activity	KZ	US	WGE	WGE	By NOTAM	200606
+IR027	FACSFACJAX, PO Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005 C904-54	Same as Originating Activity	KZ	US	WGE	WGE	By NOTAM	200606
+IR030	Commander Naval Air Warfare Center, Weapons Division, Code 52911GE, NAWS, Point	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours only, daily	200009
+IR031	Commander Naval Air Warfare Center, Weapons Division, Code 52911GE, NAWS, Point	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours only, daily	200009
+IR032	Commander Naval Air Warfare Center, Weapons Division, Code 52911GE, NAWS, Point	Commander Fleet Area Control and Surveillance Facility Jacksonville, Naval Air S	KZ	US	WGE	WGE	Daylight hours	200103
+IR033	Commander Naval Air Warfare Center, Weapons Division, Code 52911GE, NAWS, Point	Commander Fleet Area Control and Surveillance Facility Jacksonville, Naval Air S	KZ	US	WGE	WGE	Daylight hours	200009
+IR034	347 Rescue Wing, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33	347 Rescue Wing, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 3	KZ	US	WGE	WGE	0600-2400 local	200313
+IR035	437 AW/C-17 OSS/OSOT Charleston AFB, SC 29404 DSN 673-5613, C803-566-5613.	20 OSS/OSOS, Shaw AFB, SC 29152-5000 Duty hours DSN 965-1118/1119 C803-895-1118,	KZ	US	WGE	WGE	0600-2200 local, daily	200011
+IR036	437 AW/C-17 OSS/OSOT Charleston AFB, SC 29404 DSN 673-5613, C803-566-5613.	20 OSS/OSOS, Shaw AFB, SC 29152-5000 Duty hours DSN 965-1118/1119 C803-895-1118,	KZ	US	WGE	WGE	0600-2200 local, daily	200011
+IR037	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	Mon-Fri 1200-0400Z++, occasional weekends	200009
+IR038	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C904-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset, Mon-Fri, occasional weekends	200009
+IR040	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	Mon-Fri 1200-0400Z++, occasional weekends	200009
+IR044	COMTRAWING ONE, NAS Meridian, MS 39309-0136 DSN 637-2487, C601-637-2487.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	199905
+IR046	347 Rescue Wing, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33	347 Rescue Wing, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 3	KZ	US	WGE	WGE	0700-2400 local, daily	200313
+IR047	347 Rescue Wing, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33	347 Rescue Wing, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 3	KZ	US	WGE	WGE	0700-2400 local, daily	200313
+IR048	347 Rescue Wing, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33	347 Rescue Wing, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 3	KZ	US	WGE	WGE	0700-2400 local, daily	200313
+IR049	347 Rescue Wing, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33	347 Rescue Wing, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 3	KZ	US	WGE	WGE	0700-2400 local, daily	200109
+IR050	347 Rescue Wing, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33	347 Rescue Wing, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 3	KZ	US	WGE	WGE	0700-2400 local, daily	200109
+IR051	347 Rescue Wing, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33	347 Rescue Wing, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 3	KZ	US	WGE	WGE	0700-2400 local, daily	200109
+IR053	347 Rescue Wing, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33	347 Rescue Wing, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 3	KZ	US	WGE	WGE	0600-2400 local, daily	200313
+IR055	347 WG, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33621-5205	347 WG, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 33621-5205	KZ	US	WGE	WGE	0600-2400 local, daily	200101
+IR056	347 WG, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33621-5205	347 WG, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 33621-5205	KZ	US	WGE	WGE	0600-2400 local	200101
+IR057	16 OSS/DOAA, Hurlburt Field, FL 32544 DSN 579-7409, C850-884-7409.	16 OSS/DOO, Hurlburt Field, FL 32544 DSN 579-6877/7812, C850-884-6877/7812.	KZ	US	WGE	WGE	Continuous	200006
+IR059	16 OSS/DOAA, Hurlburt Field, FL 32544 DSN 579-7409, C850-884-7409.	16 OSS/DOO, Hurlburt Field, FL 32544 DSN 579-6877/7812, C850-884-6877/7812.	KZ	US	WGE	WGE	Continuous	200006
+IR062	COMSTRKFIGHTWINGLANT, Oceana NAS, Virginia Beach, VA 23460 DSN 433-4013, C757-43	FACSFAC VACAPES, Oceana , NAS Virginia Beach, VA 23460 DSN 433-1228, C757-433-12	KZ	US	WGE	WGE	Continuous	200505
+IR066	14 OSS/OSOP, Columbus AFB, MS 39710 DSN 742-7560/7633, C662-434-7560/7633.	50 FTS, Columbus AFB, MS 39710 DSN 742-7734/7735, C662-434-7734/7735.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri	200606
+IR067	14 OSS/OSOP, Columbus AFB, MS 39710 DSN 742-7560/7633, C662-434-7560/7633.	48 FTS, Columbus AFB, MS 39710 DSN 742-7840/7847, C662-434-7840/7847.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri	200606
+IR068	14 OSS/OSOP, Columbus AFB, MS 39710 DSN 742-7560/7633, C662-434-7560/7633.	48 FTS, Columbus AFB, MS 39710 DSN 742-7840/7847, C662-434-7840/7847.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri	200606
+IR070	14 OSS/OSOP, Columbus AFB, MS 39710-5000 DSN 742-7560/7633, C662-434-7560/7633.	48 FTS, Columbus AFB, MS 39710 DSN 742-7840/7847, C662-434-7840/7847.	KZ	US	WGE	WGE	Sunrise-Sunset daily	200606
+IR074	20 OSS/OSOA, Shaw AFB, SC 29152-5000 DSN 965-1121/1122, C803-895-1121/1122, Fax	20 OSS/OSOS, Shaw AFB, SC 29152 Duty hrs DSN 965-1118/1119, C803-895-1118/1119.	KZ	US	WGE	WGE	0600-2400 local, daily, OT require prior approval by Atlanta ARTCC	200602
+IR077	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ Mon-Fri; occasional weekends	200009
+IR078	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ Mon-Fri; occasional weekends	199905
+IR079	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ Mon-Fri; occasional weekends	199905
+IR080	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ Mon-Fri; occasional weekends	199905
+IR081	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ Mon-Fri; occasional weekends	199905
+IR082	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ Mon-Fri; occasional weekends	199905
+IR083	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ Mon-Fri; occasional weekends	199905
+IR089	437 OSS/OSOT, Charleston AFB, SC 29404 DSN 673-5554, C843-963-5554.	437 OSS/OSOT, Charleston AFB, SC 29404 DSN 673-5552, C843-963-5552. Non duty hrs	KZ	US	WGE	WGE	0600-2400 local, daily, Jan, Mar, May, Jul, Sep and Nov only	200606
+IR090	437 OSS/OSOT, Charleston AFB, SC 29404 DSN 673-5554, C843-963-5554.	437 OSS/OSOT, Charleston AFB, SC 29404 DSN 673-5552, C843-963-5552. Non duty hrs	KZ	US	WGE	WGE	0600-2400 local, daily, Feb, Apr, Jun, Aug, Oct and Dec only	200606
+IR091	14 OSS/OSOP Columbus AFB, MS 39710 DSN 742-7560/7633 C662-434-7560/7633.	50 FTS Columbus AFB, MS 39710 DSN 742-7734/7735, C662-434-7734/7735.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri	200606
+IR102	49 OSS/OSTA, 700 Delaware Ave., Holloman AFB, NM 88330-8017 DSN 572-3244, C505-5	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	Daylight hours by NOTAM	200011
+IR103	301 OG/SUA, NAS JRB Fort Worth, TX 76127 DSN 739-6903/6904/6905, C817-782-6903/6	Same as Originating Activity	KZ	US	WGE	WGE	0600-2200 local, daily	200109
+IR105	301 OG/SUA, NAS JRB, Ft. Worth, TX 76127 DSN 739-6903/6904/6905, C817-782-6903/6	Same as Originating Activity.	KZ	US	WGE	WGE	0600-2200 local, daily	200513
+IR107	27 OSS/OSOH 110 E. Sextant Ave., Suite 1081, Cannon AFB, NM 88103 DSN 681-2279 C	27 OSS/OSOS 110 E. Sextant Ave., Suite 1080, Cannon AFB, NM 88103 DSN 681-2276.	KZ	US	WGE	WGE	Continuous	200210
+IR109	27 OSS/OSOH 110 E. Sextant Ave., Suite 1081, Cannon AFB, NM 88103 DSN 681-2279.	27 OSS/OSOS 110 E. Sextant Ave., Suite 1080, Cannon AFB, NM 88103 DSN 681-2276,	KZ	US	WGE	WGE	Continuous	200406
+IR111	27 OSS/OSOH 110 E. Sextant Ave., Suite 1081, Cannon AFB, NM 88103 DSN 681-2279 C	27 OSS/OSOS 110 E. Sextant Ave., Suite 1080, Cannon AFB, NM 88103 DSN 681-2276.	KZ	US	WGE	WGE	Continuous	200210
+IR112	58 OSS/DOO, Kirtland AFB, NM 87117-5861 DSN 263-5979/5888, C505-853-5979/5888/57	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200410
+IR113	27 OSS/OSOH 110 E. Sextant Ave., Suite 1081, Cannon AFB, NM 88103 DSN 681-2279 C	27 OSS/OSOS 110 E. Sextant Ave., Suite 1080, Cannon AFB,NM 88103. Req for use sh	KZ	US	WGE	WGE	Continuous	200501
+IR115	49 OSS/OSTA, 700 Delaware Ave., Holloman AFB, NM 88330-8017 DSN 572-3244, C505-5	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	Daylight hours by NOTAM	200011
+IR116	49 OSS/OSTA, 700 Delaware Ave., Holloman AFB, NM 88330-8017 DSN 572-3244, C505-5	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	Daylight hours by NOTAM	200011
+IR117	188 FW/XP, 4850 Leigh Ave., Fort Smith, AR 72903-6096 DSN 778-5185/5271.	Same as Originating Activity. Route scheduled no more than 24 hr in advance. Min	KZ	US	WGE	WGE	Continuous (except Sunday 1000-1200 local)	200305
+IR120	188 FW/XP, 4850 Leigh Ave., Fort Smith, AR 72903-6096 DSN 778-5185/5271.	Same as Originating Activity. Route scheduled no more than 24 hr in advance. Min	KZ	US	WGE	WGE	Continuous (except Sunday 1000-1200 local)	200305
+IR121	188 FW/XP, 4850 Leigh Ave., Fort Smith, AR 72903-6096 DSN 778-5185/5271.	Same as Originating Activity. Route scheduled no more than 24 hr in advance. Min	KZ	US	WGE	WGE	Continuous (except Sunday 1000-1200 local)	200305
+IR122	49 OSS/OSTA, 700 Delaware Ave., Holloman AFB, NM 88330-8017 DSN 572-3244, C505-5	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	Continuous (except Sunday 1000-1200 local)	200011
+IR123	301 OG/SUA, NAS JRB Fort Worth, TX 76127 DSN 739-6903/6904/6905, C817-782-6903/6	Same as Originating Activity	KZ	US	WGE	WGE	0700-2200 local	200109
+IR124	301 OG/SUA, NAS JRB Fort Worth, TX 76127 DSN 739-6903/6904/6905, C817-782-6903/6	Same as Originating Activity	KZ	US	WGE	WGE	0700-2200 local	200109
+IR126	7 OSS/OSOR, 966 Ave. D-4, Ste. 118, Dyess AFB, TX 79607 DSN 461-3666, C325-696-3	7 OSS/OSOR, 966 Ave. D-4, Ste. 118, Dyess AFB, TX 79607 DSN 461-3665, C325-696-3	KZ	US	WGE	WGE	Continuous	200410
+IR127	2 OSS/OSOSB, 41 Orville Wright Ave., Barksdale AFB, LA 71110 DSN 781-3828/5396,	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200010
+IR128	7 OSS/OSOR, 966 Ave. D-4, Ste. 118, Dyess AFB, TX 79607 DSN 461-3666, C325-696-3	7 OSS/OSOR, 966 Ave. D-4, Ste. 118, Dyess AFB, TX 79607 DSN 461-3665, C325-696-3	KZ	US	WGE	WGE	Continuous	200410
+IR129	2 OSS/OSOSB, 41 Orville Wright Ave., Barksdale AFB, LA 71110 DSN 781-3828/5396,	Same as Originating Activity	KZ	US	WGE	WGE	0700-2200 local	200010
+IR130	49 OSS/OSTA, 700 Delaware Ave., Holloman AFB, NM 88330-8017 DSN 572-3244, C505-5	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	Daylight hours by NOTAM	200011
+IR131	49 OSS/OSTA, 700 Delaware Ave., Holloman AFB, NM 88330-8017 DSN 572-3244, C505-5	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	Daylight hours by NOTAM	200011
+IR132	49 OSS/OSTA, 700 Delaware Ave., Holloman AFB, NM 88330-8017 DSN 572-3244, C505-5	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	Daylight hours by NOTAM	200011
+IR133	49 OSS/OSOA, 700 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3244, C505-5	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	0700-2300 local	200610
+IR134	49 OSS/OSOA, 700 Delaware Ave., Holloman AFB, NM 88440-8014 DSN 572-3244, C505-5	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	Sunrise-0600Z++	200610
+IR135	COMTRAWING TWO, NAS Kingsville, TX 78363 DSN 876-6518/6283/6108, C361-516-6518/6	Same as Originating Activity. Scheduling hrs 0800-1600 Mon-Fri ONLY (excluding h	KZ	US	WGE	WGE	Sunrise-Sunset, daily	200309
+IR136	COMTRAWING TWO, NAS Kingsville, TX 78363 DSN 876-6518/6283/6108, C361-516-6518/6	Same as Originating Activity. Scheduling hrs 0800-1600 Mon-Fri ONLY (excluding h	KZ	US	WGE	WGE	Sunrise-Sunset, daily	200309
+IR137	58 OSS/DOO, Kirtland AFB, NM 87117-5861 DSN 263-5979/5888, C505-853-5979/5888/57	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200410
+IR139	301 OG/SUA, NAS JRB Fort Worth, TX 76127 DSN 739-6903/6904/6905, C817-782-6903/6	Same as Originating Activity	KZ	US	WGE	WGE	0600-2200 local, daily	200109
+IR141	49 OSS/OSTA, 700 Delaware Ave., Holloman AFB, NM 88330-8017 DSN 572-3244, C505-5	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	Daylight hours by NOTAM	200011
+IR142	49 OSS/OSOA, 700 Delaware Ave., Ste. 131, Holloman AFB, NM 88330-8014 DSN 572-32	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	Sunrise-0600Z++	200610
+IR144	97 OSS/DOA, 400 N. Sixth Street, Altus AFB, OK 73521, DSN 866-6098, C580-481-609	Same as Originating Activity	KZ	US	WGE	WGE	0830-0230 local Mon-Fri	200513
+IR145	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850, C580-213-7850.	25 FTS/DISP, Vance AFB, OK 73705-5202 DSN 448-6038, C580-213-6038.	KZ	US	WGE	WGE	30 min after Sunrise-30 min before Sunset and active days per local directives	200311
+IR146	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850, C580-213-7850.	25 FTS/DISP, Vance AFB, OK 73705-5202 DSN 448-6038, C580-213-6038.	KZ	US	WGE	WGE	30 min after Sunrise-30 min before Sunset and active days per local directives	200311
+IR147	COMTRAWING TWO, NAS Kingsville, TX 78363 DSN 876-6518/6283/6108, C361-516-6518/6	Same as Originating Activity. Scheduling hrs 0800-1600 Mon-Fri ONLY (excluding h	KZ	US	WGE	WGE	Sunrise to 30 minutes after Sunset, daily	200309
+IR148	COMTRAWING TWO, NAS Kingsville, TX 78363 DSN 876-6518/6283/6108, C361-516-6518/6	Same as Originating Activity. Scheduling hrs 0800-1600 Mon-Fri ONLY (excluding h	KZ	US	WGE	WGE	Daily 0600-2230 local	200309
+IR149	COMTRAWING TWO, NAS Kingsville, TX 78363 DSN 876-6518/6283/6108, C361-516-6518/6	Same as Originating Activity. Scheduling hrs 0800-1600 Mon-Fri ONLY (excluding h	KZ	US	WGE	WGE	Daily 0600-2230 local	200309
+IR150	7 OSS/OSOR, 966 Ave. D-4, Ste. 117, Dyess AFB, TX 79607 DSN 461-3666, C325-696-3	7 OSS/OSOR, 966 Ave. D-4, Ste. 117, Dyess AFB, TX 79607 DSN 461-3665, C325-696-3	KZ	US	WGE	WGE	Continuous	200408
+IR154	97 OSS/DOA, 400 N. Sixth Street, Bldg 164, Rm 4, Altus AFB, OK 73522 DSN 866-609	97 OSS/OSK, 516 S. Sixth Street, Ste A, Altus AFB, OK 73523 DSN 866-7110/6617.	KZ	US	WGE	WGE	0830-0230 local Mon-Fri	200410
+IR155	97 OSS/DOA, 400 N. Sixth Street, Bldg 164, Rm 4, Altus AFB, OK 73522 DSN 866-609	97 OSS/OSK, 516 S. Sixth Street, Ste A, Altus AFB, OK 73523 DSN 866-7110/6617.	KZ	US	WGE	WGE	0830-0230 local Mon-Fri	200410
+IR164	188 FW/XP, 4850 Leigh Ave., Fort Smith, AR 72903-6096 DSN 778-5185/5271.	Same as Originating Activity. Route scheduled no more than 24 hr in advance. Min	KZ	US	WGE	WGE	Continuous (except Sunday 1000-1200 local)	200305
+IR166	COMTRAWING TWO, NAS Kingsville, TX 78363 DSN 876-6518/6283/6108, C361-516-6518/6	Same as Originating Activity. Scheduling hrs 0800-1600 Mon-Fri ONLY (excluding h	KZ	US	WGE	WGE	0600-2400 local, daily	200309
+IR167	COMTRAWING TWO, NAS Kingsville, TX 78363 DSN 876-6518/6283/6108, C361-516-6518/6	Same as Originating Activity. Scheduling hrs 0800-1600 Mon-Fri ONLY (excluding h	KZ	US	WGE	WGE	0600-2400 local, daily	200309
+IR169	47 OSS/OSOR, 570 2nd Street, Ste. 6, Laughlin AFB, TX 78843-5222 DSN 732-5864, C	87 FTS/DOS, 570 2nd Street, Laughlin AFB, TX 78843 DSN 732-5484, C830-298-5484.	KZ	US	WGE	WGE	Sunrise-Sunset daily	200408
+IR170	47 OSS/OSOR, 570 2nd Street, Ste. 6, Laughlin AFB, TX 78843-5222 DSN 732-5864, C	87 FTS/DOS, 570 2nd Street, Laughlin AFB, TX 78843 DSN 732-5484, C830-298-5484.	KZ	US	WGE	WGE	Sunrise-Sunset daily	200408
+IR171	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850, C580-213-7850.	25 FTS/DISP, Vance AFB, OK 73705-5202 DSN 448-6038, C580-213-6038.	KZ	US	WGE	WGE	30 min after Sunrise-30 min before Sunset and active days per local directives	200311
+IR172	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850, C580-213-7850.	Same as Originating Activity.	KZ	US	WGE	WGE	30 min after Sunrise-30 min before Sunset and active days per local directives	200311
+IR173	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850, C580-213-7850.	Same as Originating Activity.	KZ	US	WGE	WGE	30 min after Sunrise-30 min before Sunset and active days per local directives	200311
+IR174	509 OSS/OSKA, 905 Spirit Blvd., Whiteman AFB, MO 65305 DSN 975-1713/1754, C660-6	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200402
+IR175	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850, C580-213-7850.	25 FTS/DISP, Vance AFB, OK 73705-5202 DSN 448-6038, C580-213-6038.	KZ	US	WGE	WGE	30 min after Sunrise-30 min before Sunset and active days per local directives	200311
+IR177	7 OSS/OSOR, 966 Ave. D-4, Ste. 117, Dyess AFB, TX 79607 DSN 461-3666, C325-696-3	7 OSS/OSOR, 966 Ave. D-4, Ste. 117, Dyess AFB, TX 79607 DSN 461-3665, C325-696-3	KZ	US	WGE	WGE	Continuous	200408
+IR178	7 OSS/OSOR, 966 Ave. D-4, Ste. 117, Dyess AFB, TX 79607 DSN 461-3666, C325-696-3	7 OSS/OSOR, 966 Ave. D-4, Ste. 117, Dyess AFB, TX 79607 DSN 461-3665, C325-696-3	KZ	US	WGE	WGE	Continuous	200408
+IR180	7 OSS/OSOR, 966 Ave. D-4, Ste. 118, Dyess AFB, TX 79607 DSN 461-3666, C325-696-3	7 OSS/OSOR, 966 Ave. D-4, Ste. 118, Dyess AFB, TX 79607 DSN 461-3665, C325-696-3	KZ	US	WGE	WGE	Continuous	200410
+IR181	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850, C580-213-7850.	25 FTS/DISP, Vance AFB, OK 73705-5202 DSN 448-6038, C580-213-6038.	KZ	US	WGE	WGE	30 min after Sunrise-30 min before Sunset and active days per local directives	200311
+IR182	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850, C580-213-7850.	Same as Originating Activity.	KZ	US	WGE	WGE	30 min after Sunrise-30 min before Sunset and active days per local directives	200311
+IR183	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850, C580-213-7850.	Same as Originating Activity.	KZ	US	WGE	WGE	30 min after Sunrise-30 min before Sunset and active days per local directives	200311
+IR184	97 OSS/DOA, 400 N. Sixth Street, Altus AFB, OK 73521, DSN 866-6098, C580-481-609	Same as Originating Activity	KZ	US	WGE	WGE	0830-0230 local Mon-Fri	200513
+IR185	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850, C580-213-7850.	25 FTS/DISP, Vance AFB, OK 73705-5202 DSN 448-6038, C580-213-6038.	KZ	US	WGE	WGE	30 min after Sunrise-30 min before Sunset and active days per local directives	200311
+IR190	97 OSS/DOA, 400 N. Sixth Street, Altus AFB, OK 73521, DSN 866-6098, C580-481-609	Same as Originating Activity	KZ	US	WGE	WGE	0830-0230 local Mon-Fri	200513
+IR191	97 OSS/DOA, 400 N. Sixth Street, Altus AFB, OK 73521, DSN 866-6098, C580-481-609	Same as Originating Activity	KZ	US	WGE	WGE	0830-0230 Local Mon-Fri	200513
+IR192	49 OSS/OSOA, 700 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3244, C505-5	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	Sunrise-0600Z++	200610
+IR194	49 OSS/OSOA, 700 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3244, C505-5	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	Sunrise-0600Z++	200610
+IR195	49 OSS/OSOA, 700 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3244, C505-5	49 OSS/OSOS, 744 Delaware Ave., Holloman AFB, NM 88330-8014 DSN 572-3536, C505-5	KZ	US	WGE	WGE	Sunrise-0600Z++	200610
+IR200	Commander Naval Air Warfare Center, Weapons Division, Code P529800E, (Naval Base	Commander Naval Air Warfare Center, Weapons Division, Code P529800E, (Naval Base	KZ	US	WGE	WGE	Sunrise-Sunset by NOTAM	200103
+IR203	Commander Strike Fighter Wing, US. Pacific Fleet, 001 (K) Street, Room 121, NAS	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200009
+IR206	Commander Naval Air Warfare Center, Weapons Division, Code P3524, NAWS, Pt. Mugu	Commander Naval Air Warfare Center, Weapons Division, Code P3506, NAWS, Pt. Mugu	KZ	US	WGE	WGE	Daylight hours by NOTAM	199905
+IR207	Commander Strike Fighter Wing, US. Pacific Fleet, 001 (K) Street, Room 121, NAS	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200009
+IR211	G-3, 3D MAW, MCAS Miramar, San Diego, CA 92145 DSN 267-9462, C858-577-9462. Non-	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+IR212	G-3, 3D MAW, MCAS Miramar, San Diego, CA 92145 DSN 267-9462, C858-577-9462. Non-	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+IR213	G-3, 3D MAW, MCAS Miramar, San Diego, CA 92145 DSN 267-9462, C858-577-9462. Non-	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+IR214	G-3, 3D MAW, MCAS Miramar, San Diego, CA 92145 DSN 267-9462, C858-577-9462. Non-	Same as Originating Activity	KZ	US	WGE	WGE	Even numbered days only	200406
+IR216	G-3, 3D MAW, MCAS Miramar, San Diego, CA 92145 DSN 267-9462, C858-577-9462. Non-	Same as Originating Activity	KZ	US	WGE	WGE	Even numbered days- daylight only	200406
+IR217	G-3, 3D MAW, MCAS Miramar, San Diego, CA 92145 DSN 267-9462, C858-577-9462. Non-	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+IR218	G-3, 3D MAW, MCAS Miramar, San Diego, CA 92145 DSN 267-9462, C858-577-9462. Non-	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+IR234	Commander AFFTC, 412 OSS/OSAA, 235 S Flightline Rd, Edwards AFB, CA 93523-6460 D	Commander AFFTC, 412 OSS/OSR, 300 E Yeager Blvd, Edwards AFB, CA 93524 DSN 527-4	KZ	US	WGE	WGE	Daylight hours by NOTAM	200606
+IR235	Commander AFFTC, 412 OSS/OSAA, 235 S Flightline Rd, Edwards AFB, CA 93523-6460 D	Commander AFFTC, 412 OSS/OSR, 300 E Yeager Blvd, Edwards AFB, CA 93524 DSN 527-4	KZ	US	WGE	WGE	Daylight hours by NOTAM	200606
+IR236	Commander AFFTC, 412 OSS/OSAA, 235 S Flightline Rd, Edwards AFB, CA 93523-6460 D	Commander AFFTC, 412 OSS/OSR, 300 E Yeager Blvd, Edwards AFB, CA 93524 DSN 527-4	KZ	US	WGE	WGE	0600-2200 local, daily	200606
+IR237	Commander AFFTC, 412 OSS/OSAA, 235 S Flightline Rd, Edwards AFB, CA 93523-6460 D	Commander AFFTC, 412 OSS/OSR, 300 E Yeager Blvd, Edwards AFB, CA 93524 DSN 527-4	KZ	US	WGE	WGE	Daylight hours by NOTAM	200606
+IR238	Commander AFFTC, 412 OSS/OSAA, 235 S Flightline Rd, Edwards AFB, CA 93523-6460 D	Commander AFFTC, 412 OSS/OSCS, 306 E. Popson, Edwards AFB, CA 93524-6680 DSN 527	KZ	US	WGE	WGE	Daylight hours by NOTAM	200606
+IR250	G-3, 3D MAW, MCAS Miramar, San Diego, CA 92145 DSN 267-9462, C858-577-9462. Non-	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours on even even numbered days	200406
+IR252	G-3, 3D MAW, MCAS Miramar, San Diego, CA 92145 DSN 267-9462, C858-577-9462. Non-	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours on odd numbered days	200406
+IR254	G-3, 3D MAW, MCAS Miramar, San Diego, CA 92145 DSN 267-9462, C858-577-9462. Non-	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, Mon-Fri	200406
+IR255	G-3, 3D MAW, MCAS Miramar, San Diego, CA 92145 DSN 267-9462, C858-577-9462. Non-	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, daily	200406
+IR264	366 OSS/OSTA, Mountain Home AFB, ID 83648 DSN 728-4722, C208-828-4722.	366 OSS/OSOS, Mountain Home AFB, ID 83648 DSN 728-2172, C208-828-4722.	KZ	US	WGE	WGE	By NOTAM	199908
+IR266	7 OSS/OSOR, 966 Ave. D-4, Ste. 118, Dyess AFB, TX 79607 DSN 461-3666, C325-696-3	7 OSS/OSOR, 966 Ave. D-4, Ste. 117, Dyess AFB, TX 79607 DSN 461-3663, C325-696-3	KZ	US	WGE	WGE	Continuous	200410
+IR275	366 OSS/OSTA, Mountain Home AFB, ID 83648 DSN 728-4722, C208-828-4722.	366 OSS/OSOS, Mountain Home AFB, ID 83648 DSN 728-2172, C208-828-2172.	KZ	US	WGE	WGE	By NOTAM	199910
+IR279	57 OSS/OSM, Nellis AFB, NV 89191 DSN 682-7891, C702-652-7891.	57 OSS/OSOS, 4450 Tyndall Ave., Nellis AFB, NV 89191 DSN 682-2040, C702-652-2040	KZ	US	WGE	WGE	Continuous	200013
+IR280	366 OSS/OSTA, Mountain Home AFB, ID 83648 DSN 728-4722, C208-828-4722.	366 OSS/OSOS Mountain Home AFB, ID 83648 DSN 728-2172, C208-828-2172. 366 WG/CP	KZ	US	WGE	WGE	By NOTAM	199912
+IR281	366 OSS/OSTA, Mountain Home AFB, ID 83648 DSN 728-4722, C208-828-4722.	366 OSS/OSOS Mountain Home AFB, ID 83648 DSN 728-2172, C208-828-2172. 366 WG/CP	KZ	US	WGE	WGE	By NOTAM	199912
+IR282	366 OSS/OSTA, Mountain Home AFB, ID 83648 DSN 728-4722, C208-828-4722.	366 OSS/OSOS Mountain Home AFB, ID 83648 DSN 728-2172, C208-828-2172. 366 WG/CP	KZ	US	WGE	WGE	By NOTAM	199912
+IR286	57 OSS/OSM, Nellis AFB, NV 89191 DSN 682-7891, C702-652-7891.	57 OSS/OSOS, 4450 Tyndall Ave., Nellis AFB, NV 89191 DSN 682-2040, C702-652-2040	KZ	US	WGE	WGE	Continuous	200013
+IR293	366 OSS/OSOS, Mountain Home AFB, ID 83648 DSN 728-2172/4607 C208-828-2172. Airsp	Same as Originating Activity. Scheduling requests 0730-1630 local Mon-Fri. After	KZ	US	WGE	WGE	By NOTAM	200604
+IR300	366 OSS/OSOS, Mountain Home AFB, ID 83648 DSN 728-2172/4607 C208-828-2172. Airsp	Same as Originating Activity. Scheduling requests 0730-1630 local Mon-Fri. After	KZ	US	WGE	WGE	By NOTAM	200604
+IR301	124 WG/OGAM (ANG), 3996 W. Aeronca St., Boise Air Terminal, ID 83705-8004 DSN 42	124 WG/OSS (ANG), 3996 W. Aeronca St., Boise Air Terminal, ID 83705-8004 DSN 422	KZ	US	WGE	WGE	Continuous or by NOTAM	200006
+IR302	124 WG/OGAM (ANG), 3996 W. Aeronca St., Boise Air Terminal, ID 83705-8004 DSN 42	124 WG/OSS (ANG), 3996 W. Aeronca St., Boise Air Terminal, ID 83705-8004 DSN 422	KZ	US	WGE	WGE	Continuous or by NOTAM	200006
+IR303	366 OSS/OSOS, Mountain Home AFB, ID 83648 DSN 728-2172/4607 C208-828-2172. Airsp	Same as Originating Activity. Scheduling requests 0730-1630 local Mon-Fri. After	KZ	US	WGE	WGE	By NOTAM	200604
+IR304	366 OSS/OSOS, Mountain Home AFB, ID 83648 DSN 728-2172/4607 C208-828-2172. Airsp	Same as Originating Activity. Scheduling requests 0730-1630 local Mon-Fri. After	KZ	US	WGE	WGE	By NOTAM	200604
+IR305	124 WG/OGAM (ANG), 3996 W. Aeronca St., Boise Air Terminal, ID 83705-8004 DSN 42	124 WG/OSS (ANG), 3996 W. Aeronca St., Boise Air Terminal, ID 83705-8004 DSN 422	KZ	US	WGE	WGE	Continuous or by NOTAM	200006
+IR307	124 WG/OGAM (ANG), 3996 W. Aeronca St., Boise Air Terminal, ID 83705-8004 DSN 42	124 WG/OSS (ANG), 3996 W. Aeronca St., Boise Air Terminal, ID 83705-8004 DSN 422	KZ	US	WGE	WGE	Continuous or by NOTAM	200006
+IR308	58 OSS/DOO, Kirtland AFB, NM 87117-5861 DSN 263-5979/5888, C505-853-5979/5888/57	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200410
+IR320	7 OSS/OSOR, 966 Ave. D-4, Ste. 118, Dyess AFB, TX 79607 DSN 461-3666, C325-696-3	7 OSS/OSOR, 1001 Ave. D-4, Ste. 107, Dyess AFB, TX 79607 DSN 461-3665, C325-696-	KZ	US	WGE	WGE	Continuous	200507
+IR324	62 OSS/OSK, 305 Pitsenberger Blvd., McCord AFB, WA 98438 DSN 382-4057, C253-982-	62 OSS/OSO, 100 Main St., McChord AFB, WA 98438 DSN 382-9925, C253-982-9925. Dut	KZ	US	WGE	WGE	Continuous	200610
+IR325	62 OSS/OSK, 305 Pitsenberger Blvd., McCord AFB, WA 98438 DSN 382-4057, C253-982-	62 OSS/OSO, 100 Main St., McChord AFB, WA 98438 DSN 382-9925, C253-982-9925. Dut	KZ	US	WGE	WGE	Continuous	200610
+IR326	62 OSS/OSK, 305 Pitsenberger Blvd., McCord AFB, WA 98438 DSN 382-4057, C253-982-	62 OSS/OSO, 100 Main St., McChord AFB, WA 98438 DSN 382-9925, C253-982-9925. Dut	KZ	US	WGE	WGE	Continuous	200610
+IR327	62 OSS/OSK, 305 Pitsenberger Blvd., McCord AFB, WA 98438 DSN 382-4057, C253-982-	62 OSS/OSO, 100 Main St., McChord AFB, WA 98438 DSN 382-9925, C253-982-9925. Dut	KZ	US	WGE	WGE	Continuous	200610
+IR328	62 OSS/OSK, 305 Pitsenberger Blvd., McCord AFB, WA 98438 DSN 382-4057, C253-982-	62 OSS/OSO, 100 Main St., McChord AFB, WA 98438 DSN 382-9925, C253-982-9925. Dut	KZ	US	WGE	WGE	Continuous	200610
+IR329	62 OSS/OSK, 305 Pitsenberger Blvd., McCord AFB, WA 98438 DSN 382-4057, C253-982-	62 OSS/OSO, 100 Main St., McChord AFB, WA 98438 DSN 382-9925, C253-982-9925. Dut	KZ	US	WGE	WGE	Continuous	200610
+IR330	62 OSS/OSK, 305 Pitsenberger Blvd., McCord AFB, WA 98438 DSN 382-4057, C253-982-	62 OSS/OSO, 100 Main St., McChord AFB, WA 98438 DSN 382-9925, C253-982-9925. Dut	KZ	US	WGE	WGE	Continuous	200610
+IR341	Commanding Officer (N38), NAS Whidbey Island, 3730 N. Charles Porter Ave., Oak H	Same as Originating Activity. Scheduling hours 0700-1600 local, Mon-Fri only. Sa	KZ	US	WGE	WGE	Continuous	200507
+IR342	Commanding Officer (N38), NAS Whidbey Island, 3730 N. Charles Porter Ave., Oak H	Same as Originating Activity. Scheduling hours 0700-1600 local, Mon-Fri only. Sa	KZ	US	WGE	WGE	Continuous	200507
+IR343	Commanding Officer (N38), NAS Whidbey Island, 3730 N. Charles Porter Ave., Oak H	Same as Originating Activity. Scheduling hours 0700-1600 local, Mon-Fri only. Sa	KZ	US	WGE	WGE	Continuous	200511
+IR344	Commanding Officer (N38), NAS Whidbey Island, 3730 N. Charles Porter Ave., Oak H	Same as Originating Activity. Scheduling hours 0700-1600 local, Mon-Fri only. Sa	KZ	US	WGE	WGE	Continuous	200511
+IR346	Commanding Officer (N38), NAS Whidbey Island, 3730 N. Charles Porter Ave., Oak H	Same as Originating Activity. Scheduling hours 0700-1600 local, Mon-Fri only. Sa	KZ	US	WGE	WGE	Continuous	200511
+IR348	Commanding Officer (N38), NAS Whidbey Island, 3730 N. Charles Porter Ave., Oak H	Same as Originating Activity. Scheduling hours 0700-1600 local, Mon-Fri only. Sa	KZ	US	WGE	WGE	Continuous	200511
+IR409	140th OG/CC Buckley ANGB Aurora, CO 80011-9546 DSN 847-9466, C720-847-9466.	140th OG/CC Buckley AFB Aurora, CO 80011-9546. Duty Hrs 0700-1700 DSN 847-9472,	KZ	US	WGE	WGE	0800-1600 local, Tue-Sat	200408
+IR414	140th Wing/Airspace Office Buckley AFB Aurora, CO 80011-9546 DSN 847-9470/9471,	140th Wing/Airspace Office Buckley AFB Aurora, CO 80011-9546. Duty Hrs 0700-1700	KZ	US	WGE	WGE	0800-1600 local, Tue-Sat; OT by NOTAM	200602
+IR415	140th OG/CC Buckley ANGB Aurora, CO 80011-9546 DSN 847-9466, C720-847-9466.	140th OG/CC Buckley AFB Aurora, CO 80011-9546. Duty Hrs 0700-1700 DSN 847-9472,	KZ	US	WGE	WGE	0800-1600 local, Tue-Sat; OT by NOTAM	200507
+IR416	140th Wing/Airspace Office Buckley AFB Aurora, CO 80011-9546 DSN 847-9470/9471,	140th Wing/Airspace Office Buckley AFB Aurora, CO 80011-9546. Duty Hrs 0700-1700	KZ	US	WGE	WGE	0800-1600 local, Tue-Sat; OT by NOTAM	200602
+IR418	388 RANS/RST, 5887 D. Ave., Bldg 120, Hill AFB, UT 84056-5232 DSN 777-9384, C801	388 RANS/RST, 6066 Cedar Lane, Hill AFB, UT 84056-5812 DSN 777-4401, C801-777-44	KZ	US	WGE	WGE	0700-2400 local Mon-Thu, 0700-1800 local Fri, 0800-1700 local Sat	200602
+IR420	388 RANS/RST, 5887 D Ave., Bldg 120, Hill AFB, UT 84056-5232 DSN 777-9384, C801-	388 RANS/RST, 6066 Cedar Lane, Hill AFB, UT 84056-5812 DSN 777-4401, C801-777-44	KZ	US	WGE	WGE	0700-2400 local Mon-Thu, 0700-1800 local Fri, 0800-1700 local Sat	200602
+IR424	140th Wing/Airspace Office Buckley AFB Aurora, CO 80011-9546 DSN 847-9470/9471,	140th Wing/Airspace Office Buckley AFB Aurora, CO 80011-9546. Duty Hrs 0700-1700	KZ	US	WGE	WGE	0800-1600 local, Tue-Sat; OT by NOTAM	200602
+IR425	Commander AFFTC, 412 OSS/OSAA, 235 S. Flightline Rd. Edwards AFB, CA 93523-6460	Commander AFFTC, 412 OSS/OSR, 300 E Yeager Blvd, Edwards AFB, CA 93524 DSN 527-4	KZ	US	WGE	WGE	Sunrise-Sunset by NOTAM	200606
+IR473	28 OSS/OSXA, 1956 Scott Dr., Ste. 201, Ellsworth AFB, SD 57706-4710 DSN 675-1230	28 OSS/OSXS, 1956 Scott Dr., Ste. 201, Ellsworth AFB, SD 57706-4710 DSN 675-4246	KZ	US	WGE	WGE	Continuous	200507
+IR479	120 FW/OSAD (ANG) 2800 Airport Ave. B, Great Falls, MT 59404 DSN 791-0186, C406-	Same as Originating Activity	KZ	US	WGE	WGE	By NOTAM	200505
+IR480	120 FW/OSAD (ANG) 2800 Airport Ave. B, Great Falls, MT 59404 DSN 791-0186, C406-	Same as Originating Activity	KZ	US	WGE	WGE	By NOTAM	200505
+IR485	28 OSS/OSXA, 1956 Scott Dr., Ste. 201, Ellsworth AFB, SD 57706-4710 DSN 675-1230	28 OSS/OSXS, 1956 Scott Dr., Ste. 201, Ellsworth AFB, SD 57706-4710 DSN 675-4246	KZ	US	WGE	WGE	Continuous	200404
+IR492	28 OSS/OSXA, 1956 Scott Dr., Ste. 201, Ellsworth AFB, SD 57706-4710 DSN 675-1230	28 OSS/OSXS, 1956 Scott Dr., Ste. 201, Ellsworth AFB, SD 57706-4710 DSN 675-4246	KZ	US	WGE	WGE	Continuous	200404
+IR499	28 OSS/OSXA, 1956 Scott Dr., Ste. 201, Ellsworth AFB, SD 57706-4710 DSN 675-1230	28 OSS/OSXS, 1956 Scott Dr., Ste. 201, Ellsworth AFB, SD 57706-4710 DSN 675-4246	KZ	US	WGE	WGE	Continuous	200408
+IR500	7 OSS/OSOR, 966 Ave. D-4, Ste. 117, Dyess AFB, TX 79607 DSN 461-3666, C325-696-3	7 OSS/OSOR, 966 Ave. D-4, Ste. 117, Dyess AFB, TX 79607 DSN 461-3665, C325-696-3	KZ	US	WGE	WGE	Continuous	200408
+IR501	7 OSS/OSOR, 966 Ave. D-4, Ste. 117, Dyess AFB, TX 79607 DSN 461-3666, C325-696-3	7 OSS/OSOR, 966 Ave. D-4, Ste. 117, Dyess AFB, TX 79607 DSN 461-3665, C325-696-3	KZ	US	WGE	WGE	Continuous	200408
+IR503	184 ARW, Det 1, (SHANGR), Smoky Hill ANG Range, 8429 West Farrelly Road, Salina,	184 ARW (Kansas ANG), McConnell AFB, KS 67221-9010 (1330-2215Z wkd, sked rqr 2 h	KZ	US	WGE	WGE	Continuous	200406
+IR504	509 OSS/OSKA, 905 Spirit Blvd., Whiteman AFB, MO 65305 DSN 975-1713/1754, C660-6	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200402
+IR505	114 FW (ANG), Joe Foss Field, Siouz Falls, SD 57104-0264 DSN 798-7754/46, C605-9	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, Mon-Sat, OT By NOTAM	200602
+IR508	114 FW (ANG), Joe Foss Field, Sioux Falls, SD 57104-0264 DSN 798-7745, C605-988-	114 FW (ANG), Joe Foss Field, Sioux Falls, SD 57104-0264 DSN 798-7754/7746, C605	KZ	US	WGE	WGE	Daylight hours, Mon-Sat, OT by NOTAM	200408
+IR509	114 FW (ANG), Joe Foss Field, Sioux Falls, SD 57104-0264 DSN 798-7745, C605-988-	114 FW (ANG), Joe Foss Field, Sioux Falls, SD 57104-0264 DSN 798-7754/7746, C605	KZ	US	WGE	WGE	Daylight hours, Tue-Sat, OT by NOTAM	200408
+IR514	114 FW (ANG), Joe Foss Field, Sioux Falls, SD 57104-0264 DSN 798-7754/46, C605-9	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, Tue-Sat, OT by NOTAM	200602
+IR518	114 FW (ANG), Joe Foss Field, Sioux Falls, SD 57104-0264 DSN 798-7745, C605-988-	114 FW (ANG), Joe Foss Field, Sioux Falls, SD 57104-0264 DSN 798-7754/7746, C605	KZ	US	WGE	WGE	Daylight hours, Mon-Sat, OT by NOTAM	200408
+IR527	183 FW/OSF, Capital Airport, Springfield, IL 62707 DSN 892-8202.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200212
+IR592	509 OSS/OSKA, 905 Spirit Blvd., Whiteman AFB, MO 65305 DSN 975-1683, C660-687-16	509 OSS/OSOS, 905 Spirit Blvd., Whiteman AFB, MO 65305 DSN 975-1713/1754, C660-6	KZ	US	WGE	WGE	Continuous	200505
+IR605	148th FIG (ANG), Duluth Intl., MN 55811 DSN 825-7265.	Same as Originating Activity	KZ	US	WGE	WGE	Daily 1400-0500Z++, available OT	200009
+IR606	148th FIG (ANG), Duluth Intl., MN 55811 DSN 825-7265.	Same as Originating Activity	KZ	US	WGE	WGE	Daily 1400-0500Z++, Usage between 0500-1400Z++ is allowable	199905
+IR608	FACSFACNPA, Pensacola NAS, FL 32508 DSN 922-2735, C904-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ Mon-Fri, weekends by NOTAM	200009
+IR609	5 OSS/OSTC, 300 Summit Dr., Minot AFB, ND 58705-5044 DSN 453-2967, C701-723-2967	23 BS/DOS, 300 Summit Dr., Minot AFB, ND 58705 DSN 453-2002/3527, C701-723-2002.	KZ	US	WGE	WGE	Continuous	200305
+IR610	5 OSS/OSTC, 300 Summit Dr., Minot AFB, ND 58705-5044 DSN 453-2967, C701-723-2967	23 BS/DOS, 300 Summit Dr., Minot AFB, ND 58705 DSN 453-2002/3527, C701-723-2002/	CZ	CA	WGE	WGE	Continuous	200011
+IR613	114 FW (ANG), Joe Foss Field, Sioux Falls, SD 57104-0264 DSN 798-7754/46, C605-9	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, Tue-Sat, OT by NOTAM	200602
+IR614	183 FW/OSF, Capital Airport, Springfield, IL 62707 DSN 892-8202.	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours	200212
+IR618	181 FW (ANG), Hulman Regional Airport, 1100 S. Petercheff St., Tere Haute, IN 47	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset, Tue-Sun, OT by NOTAM	200009
+IR644	5 OSS/OSTC, 300 Summit Dr., Minot AFB, ND 58705-5044 DSN 453-2967, C701-723-2967	23 BS/DOS, 300 Summit Dr., Minot AFB, ND 58705 DSN 453-2639/3527, C701-723-2639/	KZ	US	WGE	WGE	Continuous	200212
+IR649	5 OSS/OSTC, 300 Summit Dr., Minot AFB, ND 58705-5044 DSN 453-2967, C701-723-2967	23 BS/DOS, 300 Summit Dr., Minot AFB, ND 58705 DSN 453-2639/3527, C701-723-2639/	KZ	US	WGE	WGE	Continuous	200212
+IR654	5 OSS/OSTC, 300 Summit Dr., Minot AFB, ND 58705-5044 DSN 453-2967, C701-723-2967	23 BS/DOS, 300 Summit Dr., Minot AFB, ND 58705 DSN 453-2002/3527, C701-723-2002/	CZ	CA	WGE	WGE	Continuous	200204
+IR655	5 OSS/OSTC, 300 Summit Dr., Minot AFB, ND 58705-5044 DSN 453-2967, C701-723-2967	23 BS/DOS, 300 Summit Dr., Minot AFB, ND 58705 DSN 453-2002/3527, C701-723-2002/	CZ	CA	WGE	WGE	Continuous	200204
+IR656	5 OSS/OSTC, 300 Summit Dr., Minot AFB, ND 58705-5044 DSN 453-2967, C701-723-2967	23 BS/DOS, 300 Summit Dr., Minot AFB, ND 58705 DSN 453-2002/3527, C701-723-2002/	CZ	CA	WGE	WGE	Continuous	200204
+IR678	5 OSS/A-3C, 300 Summit Dr., Minot AFB, ND 58705-5044 DSN 453-2967, C701-723-2967	23 BS/DOS, 300 Summit Dr., Minot AFB, ND 58705-5044 DSN 453-2002/3527, C701-723-	KZ	US	WGE	WGE	Continuous	200305
+IR714	COMSTRKFIGHTWINGLANT, Oceana NAS, Virginia Beach, VA 23460 DSN 433-4013, C757-43	FACSFAC VACAPES, Oceana NAS, Virginia Beach, VA 23460 DSN 433-1228, C757-433-122	KZ	US	WGE	WGE	Continuous	200505
+IR715	COMSTRKFIGHTWINGLANT, Oceana NAS, Virginia Beach, VA 23460 DSN 433-4013, C757-43	FACSFAC VACAPES, Oceana NAS, Virginia Beach, VA 23460 DSN 433-1228, C757-433-122	KZ	US	WGE	WGE	Continuous	200505
+IR718	COMSTRKFIGHTWINGLANT, Oceana NAS, Virginia Beach, VA 23460 DSN 433-4013, C757-43	FACSFAC VACAPES, Oceana NAS, Virginia Beach, VA 23460 DSN 433-1228, C757-433-122	KZ	US	WGE	WGE	Continuous	200505
+IR719	COMSTRKFIGHTWINGLANT, Oceana NAS, Virginia Beach, VA 23460 DSN 433-4013, C757-43	FACSFAC VACAPES, Oceana NAS, Virginia Beach, VA 23460 DSN 433-1228, C757-433-122	KZ	US	WGE	WGE	Continuous	200505
+IR720	COMSTRKFIGHTWINGLANT, Oceana NAS, Virginia Beach, VA 23460 DSN 433-4013, C757-43	FACSFAC VACAPES, Oceana NAS, Virginia Beach, VA 23460 DSN 433-1228, C757-433-122	KZ	US	WGE	WGE	Continuous	200505
+IR721	20 OSS/OSOA, Shaw AFB, SC 29152-5000 DSN 965-1121/1122, C803-895-1121/1122, Fax	20 OSS/OSOS, Shaw AFB, SC 29152 Duty hrs DSN 965-1118/1119, C803-895-1118/1119.	KZ	US	WGE	WGE	Continuous	200602
+IR723	FACSFACNPA, NAS Penscola, FL DSN 922-2735, C904-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ Mon-Fri, occasionally weekends	200103
+IR726	20 OSS/OSOA, Shaw AFB, SC 29152-5000 DSN 965-1121/1122, C803-895-1121/1122, Fax	20 OSS/OSOS, Shaw AFB, SC 29152-5000 Duty hours DSN 965-1118/1119, C803-895-1118	KZ	US	WGE	WGE	Continuous	200602
+IR743	20 OSS/OSOA, Shaw AFB, SC 29152-5000 DSN 965-1121/1122, C803-895-1121/1122, Fax	20 OSS/OSOS, Shaw AFB, SC 29152 Duty hrs DSN 965-1118/1119, C803-895-1118/1119.	KZ	US	WGE	WGE	Continuous	200602
+IR760	COMSTRKFIGHTWINGLANT, Oceana NAS, Virginia Beach, VA 23460 DSN 433-4013, C757-43	FACSFAC VACAPES, Oceana NAS, Virginia Beach, VA 23460 DSN 433-1228, C757-433-122	KZ	US	WGE	WGE	Continuous	200505
+IR761	COMSTRKFIGHTWINGLANT, Oceana NAS, Virginia Beach, VA 23460 DSN 433-4013, C757-43	FACSFAC VACAPES, Oceana NAS, Virginia Beach, VA 23460 DSN 433-1228, C757-433-122	KZ	US	WGE	WGE	Continuous	200505
+IR762	COMSTRKFIGHTWINGLANT, Oceana NAS, Virginia Beach, VA 23460 DSN 433-4013, C757-43	FACSFAC VACAPES, Oceana NAS, Virginia Beach, VA 23460 DSN 433-1228, C757-433-122	KZ	US	WGE	WGE	Continuous	200505
+IR800	104 FW, Barnes ANGB, Westfield, MA 01085-1385 DSN 636-9228/9229, C413-568-9151 e	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+IR801	174 FW, Det 1, Ft. Drum, NY 13608 DSN 772-5990/2835, C315-772-5990.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+IR802	5 OSS/OSTC, 300 Summit Dr., Minot AFB, ND 58705-5044 DSN 453-2967, C701-723-2967	23 BS/DOS, 300 Summit Dr., Minot AFB, ND 58705 DSN 453-2002/3527, C701-723-2002/	CZ	CA	WGE	WGE	Continuous	200011
+IR803	5 OSS/OSTC, 300 Summit Dr., Minot AFB, ND 58705-5044 DSN 453-2967, C701-723-2967	23 BS/DOS, 300 Summit Dr., Minot AFB, ND 58705 DSN 453-2002/3527, C701-723-2002/	CZ	CA	WGE	WGE	Continuous	200011
+IR804	5 OSS/OSTC, 300 Summit Dr., Minot AFB, ND 58705-5044 DSN 453-2967, C701-723-2967	23 BS/DOS, 300 Summit Dr., Minot AFB, ND 58705 DSN 453-2002/3527, C701-723-2002/	KZ	US	WGE	WGE	Continuous	200011
+IR805	5 OSS/OSTC, 300 Summit Dr., Minot AFB, ND 58705-5044 DSN 453-2967, C701-723-2967	23 BS/DOS, 300 Summit Dr., Minot AFB, ND 58705 DSN 453-2002/3527, C701-723-2002/	CZ	CA	WGE	WGE	Continuous	200011
+IR850	Commander, Naval Air Warfare Center Weapons Division, Code 52EOOOE, NAWS, Pt. Mu	Commander, Naval Air Warfare Center Weapons Division, Code 52911GE, NAWS, Pt. Mu	KZ	US	WGE	WGE	Sunrise-Sunset by NOTAM	200009
+IR851	Commander, Naval Air Warfare Center Weapons Division, Code 52EOOOE, NAWS, Pt. Mu	Commander, Naval Air Warfare Center Weapons Division, Code 52911GE, NAWS, Pt. Mu	KZ	US	WGE	WGE	Daily Sunrise-Sunset	200009
+IR852	Commander, Naval Air Warfare Center Weapons Division, Code 52EOOOE, NAWS, Pt. Mu	Commander, Naval Air Warfare Center Weapons Division, Code 52911GE, NAWS, Pt. Mu	KZ	US	WGE	WGE	Sunrise-Sunset	199906
+IR900	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR901	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	3 OSS/OSOS, Elmendorf AFB, AK 99506 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR902	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	3 OSS/OSOS, Elmendorf AFB, AK 99506 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR903	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	3 OSS/OSOS, Elmendorf AFB, AK 99506 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR905	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	3 OSS/OSOS, Elmendorf AFB, AK 99506 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR909	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR911	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	3 OSS/OSOS, Elmendorf AFB, AK 99506 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR912	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	3 OSS/OSOS, Elmendorf AFB, AK 99506 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR913	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	3 OSS/OSOS, Elmendorf AFB, AK 99506 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR915	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	3 OSS/OSOS, Elmendorf AFB, AK 99506 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR916	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR917	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR918	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR919	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR921	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR922	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR923	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR926	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR927	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR928	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR929	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR939	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR952	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR953	611 AOG/CC, 9480 Pease Ave., Ste. 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+IR983	PACAF/DOCS, 25 E ST, SUITE I232, HICKAM AFB, HI 96853-5426 DSN 449-4173.	36 OSS/OSA, UNIT 14035, APO AP 96542-4035 DSN(315)-366-2770.	PG	GQ	GUA	WGE	Continuous	200206
+SR038	Base Operations, Lawson AAF, Fort Benning, Ga. DSN 835-3524/2857 C706-545-3524.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200404
+SR039	Base Operations, Lawson AAF, Fort Benning, Ga. DSN 835-3524/2857 C706-545-3524.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200404
+SR040	94/OSS Dobbins AFB, GA 30069-5009 DSN 625-3498, C678-655-3498.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0300Z ++	200505
+SR059	118 AW, 240 Knapp Blvd, Nashville, TN 37217, DSN 778-6362/6342, C615-399-5662/56	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+SR060	118 AW, 240 Knapp Blvd, Nashville, TN 37217, DSN 778-6362/6342, C615-399-5662/56	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+SR061	118 AW, 240 Knapp Blvd, Nashville, TN 37217, DSN 778-6362/6342, C615-399-5662/56	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+SR062	118 AW, 240 Knapp Blvd, Nashville, TN 37217, DSN 778-6362/6342, C615-399-5662/56	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+SR069	908 AW, 401 W Maxwell Blvd, Maxwell AFB, AL 36112-6591 DSN 493-5016, C334-953-50	Same as Originating Activity	KZ	US	WGE	WGE	1400-0400Z++	200010
+SR070	908 AW, 401 W Maxwell Blvd, Maxwell AFB, AL 36112-6591 DSN 493-5016, C334-953-50	Same as Originating Activity	KZ	US	WGE	WGE	1400-0400Z++	200011
+SR071	908 AW, 401 W Maxwell Blvd, Maxwell AFB, AL 36112-6591 DSN 493-5016, C334-953-50	Same as Originating Activity	KZ	US	WGE	WGE	1300-0500Z++	200009
+SR072	908 AW, 401 W Maxwell Blvd, Maxwell AFB, AL 36112-6591 DSN 493-5016, C334-953-50	Same as Originating Activity	KZ	US	WGE	WGE	1300-0500Z++	200009
+SR073	164 AW (ANG), Memphis Intl, TN 38118 DSN 726-7131.	Columbus AFB, MS DSN 742-7840/7847 C662-434-7840/7847.	KZ	US	WGE	WGE	Continuous	200511
+SR074	164 AW (ANG), Memphis Intl, TN 38118 DSN 726-7131.	Columbus AFB, MS DSN 742-7840/7847 C662-434-7840/7847.	KZ	US	WGE	WGE	Continuous	200511
+SR075	164 AW (ANG), Memphis Intl, TN 38118 DSN 726-7131.	Columbus AFB, MS DSN 742-7840/7847 C662-434-7840/7847.	KZ	US	WGE	WGE	Continuous	200511
+SR1001	3 OSS/DOH, 10460 L Street, Elmendorf AFB, AK 99506-2670 DSN 317-552-4658, C907-5	3 OSS/DOTS, DSN 317-552-3457, C907-552-3457.	PA	US	WGE	WGE	Continuous	200011
+SR1002	3 OSS/DOH, 10460 L Street, Elmendorf AFB, AK 99506-2670 DSN 317-552-4658, C907-5	3 OSS/DOTS, DSN 317-552-3457, C907-552-3457.	PA	US	WGE	WGE	Continuous	200011
+SR1003	3 OSS/DOH, 10460 L Street, Elmendorf AFB, AK 99506-2670 DSN 317-552-4658, C907-5	3 OSS/DOTS, DSN 317-552-3457, C907-552-3457.	PA	US	WGE	WGE	Continuous	200011
+SR1004	3 OSS/DOH, 10460 L Street, Elmendorf AFB, AK 99506-2670 DSN 317-552-4658, C907-5	3 OSS/DOTS, DSN 317-552-3457, C907-552-3457.	PA	US	WGE	WGE	Continuous	200011
+SR1005	3 OSS/DOH, 10460 L Street, Elmendorf AFB, AK 99506-2670 DSN 317-552-4658, C907-5	3 OSS/DOTS, DSN 317-552-3457, C907-552-3457.	PA	US	WGE	WGE	Continuous	200011
+SR1006	3 OSS/DOH, 10460 L Street, Elmendorf AFB, AK 99506-2670 DSN 317-552-4658, C907-5	3 OSS/DOTS, DSN 317-552-3457, C907-552-3457.	PA	US	WGE	WGE	Continuous	200011
+SR1007	3 OSS/DOH, 10460 L Street, Elmendorf AFB, AK 99506-2670 DSN 317-552-4658, C907-5	3 OSS/DOTS, DSN 317-552-3457, C907-552-3457.	PA	US	WGE	WGE	Continuous	200011
+SR1008	3 OSS/DOH, 10460 L Street, Elmendorf AFB, AK 99506-2670 DSN 317-552-4658, C907-5	3 OSS/DOTS, DSN 317-552-3457, C907-552-3457.	PA	US	WGE	WGE	Continuous	200011
+SR1009	3 OSS/DOH, 10460 L Street, Elmendorf AFB, AK 99506-2670 DSN 317-552-4658, C907-5	3 OSS/DOTS, DSN 317-552-3457, C907-552-3457.	PA	US	WGE	WGE	Continuous	200011
+SR101	16 OSS/DOO, Hurlburt Field, FL 32544 DSN 579-6877/7812, C850-884-6877/7812.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200011
+SR1010	3 OSS/DOH, 10460 L Street, Elmendorf AFB, AK 99506-2670 DSN 317-552-4658, C907-5	3 OSS/DOTS, DSN 317-552-3457, C907-552-3457.	PA	US	WGE	WGE	Continuous	200011
+SR102	16 OSS/DOO, Hurlburt Field, FL 32544 DSN 579-6877/7812, C850-884-6877/7812.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200109
+SR103	16 OSS/DOO, Hurlburt Field, FL 32544 DSN 579-6877/7812, C850-884-6877/7812.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200011
+SR104	16 OSS/DOO, Hurlburt Field, FL 32544 DSN 579-6877/7812, C850-884-6877/7812.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200011
+SR105	16 OSS/DOO, Hurlburt Field, FL 32544 DSN 579-6877/7812, C850-884-6877/7812.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200011
+SR106	16 OSS/DOO, Hurlburt Field, FL 32544 DSN 579-6877/7812, C850-884-6877/7812.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200011
+SR119	16 OSS/DOO, Hurlburt Field, FL 32544 DSN 579-6877/7812, C850-884-6877/7812.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200011
+SR137	14 OSS/OSOP, Columbus AFB, MS 39710-5000 DSN 742-7560/7633, C662-434-7560/7633.	37/41 FTS, Columbus AFB, MS 39710-5000 DSN 742-7666/7667, C662-434-7666/7667.	KZ	US	WGE	WGE	SR-SS, Daily	200513
+SR138	14 OSS/OSOP, Columbus AFB, MS 39710-5000 DSN 742-7560/7633, C662-434-7560/7633.	37/41 FTS, Columbus AFB, MS 39710-5000 DSN 742-7666/7667, C662-434-7666/7667.	KZ	US	WGE	WGE	SR-SS, Daily	200513
+SR166	437 0SS/0STA, Charleston AFB, SC 29404-5054 DSN 673-5613, C843-963-5613.	20 OSS/OSOS, Shaw AFB, SC 29152-5000 DSN 965-1118/1119, C803-895-1118/1119, FAX	KZ	US	WGE	WGE	Continuous	200507
+SR200	58 OSS/DOO, Kirtland AFB, NM 87117-5861 DSN 263-5979/5888/5701, C505-853-5979/58	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200408
+SR201	58 OSS/DOO, Kirtland AFB, NM 87117-5861 DSN 263-5979/5888/5701, C505-853-5979/58	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200408
+SR205	97 OSS/DOA, 400 N. 6th Street, Altus AFB, OK 73521 DSN 866-6098, C580-481-6098.	97 OSS/OSK 400 N. 6th Street, Suite 12, Altus AFB, OK 73521 DSN 866-7110, C580-4	KZ	US	WGE	WGE	0830-0230 Local Mon-Fri	200608
+SR206	97 OSS/DOA, 400 N. 6th Street, Altus AFB, OK 73521 DSN 866-6098, C580-481-6098.	97 OSS/OSK 400 N. 6th Street, Suite 12, Altus AFB, ok 73521 dsn 866-7110, C580-4	KZ	US	WGE	WGE	0830-0230 Local Mon-Fri	200608
+SR208	97 OSS/DOA, 400 N. 6th Street, Altus AFB, OK 73521 DSN 866-6098, C580-481-6098.	97 OSS/OSK, 400 N. 6th Street, Suite 12, Altus AFB, OK DSN 866-7110, C580-481-71	KZ	US	WGE	WGE	0830-0230 Local Mon-Fri	200608
+SR210	58 OSS/DOO, Kirtland AFB, NM 87117-5861 DSN 263-5979/5888/5701, C505-853-5979/58	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200408
+SR211	58 OSS/DOO, Kirtland AFB, NM 871175861 DSN 263-5979/5888/5701, C505-853-5979/588	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200408
+SR212	58 SOW, 4249 Hercules Way SE, Kirtland AFB, NM 87117 DSN 263-5701, C505-853-5701	58 OSS/DOO, 4249 Hercules Way SE, Kirtland AFB, NM 87117 DSN 263-5701, C505-853-	KZ	US	WGE	WGE	Continuous	200009
+SR213	58 SOW, 4249 Hercules Way SE, Kirtland AFB, NM 87117 DSN 263-5701, C505-853-5701	58 OSS/DOO, 4249 Hercules Way SE, Kirtland AFB, NM 87117 DSN 263-5701, C505-853-	KZ	US	WGE	WGE	Continuous	200009
+SR214	58 SOW, 4249 Hercules Way SE, Kirtland AFB, NM 87117 DSN 263-5701, C505-853-5701	58 OSS/DOO, 4249 Hercules Way SE, Kirtland AFB, NM 87117 DSN 263-5701, C505-853-	KZ	US	WGE	WGE	Continuous	200009
+SR216	97 OSS/DOA, 400 N. 6th Street, Altus AFB, OK 73521 DSN 866-6098, C580-481-6098.	97 OSS/OSK, 400 N. 6th Street, Suite 12, Altus AFB, OK 73521 DSN 866-7110, C580-	KZ	US	WGE	WGE	0830-0230 Local Mon-Fri	200608
+SR217	97 OSS/DOA, 400 N. 6th Street, Altus AFB, OK 73521 DSN 866-6098, C580-481-6098.	97 OSS/OSK, 400 N. 6th Street, Suite 12, Altus AFB, OK 73521 DSN 866-7110, C580-	KZ	US	WGE	WGE	0830-0230 Local Mon-Fri	200608
+SR218	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR219	314 OSS/OSK, 380 CMSGT WilliamsDrive, Little Rock AFB, AR 72099-4983 DSN 731-330	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4983 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR220	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR221	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4836 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4983 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR222	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR223	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR224	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR225	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR226	314 OSS/OSK, 380 CMSGT Williams Street, Little Rock AFB, AR 72099-4976 DSN 731-3	314 OSS/OSK, 380 CMSGT Williams Street, Little Rock AFB, AR 72099-4976 DSN 731-3	KZ	US	WGE	WGE	Continuous	200505
+SR227	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR228	301 OG/SUA, NAS JRB Fort Worth, TX DSN 739-6903/6904/6905, C817-782-6903/6904/69	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200610
+SR229	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR230	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR231	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR232	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR233	7 WG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+SR234	7 WG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+SR235	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850 C580-213-7850.	8 FTS/DOO, Vance AFB, OK 73705-5202 DSN 448-6037 C580-213-6037	KZ	US	WGE	WGE	Sunrise -Sunset and active days per local directives	200309
+SR236	317 AG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200608
+SR237	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR238	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR239	314 OSS/OSK, 380 CMSGT Williams Street, Little Rock AFB, AR 72099-4976 DSN 731-3	314 OSS/OSK, 380 CMSGT Williams Street, Little Rock AFB, AR 72099-4976 DSN 731-3	KZ	US	WGE	WGE	Continuous	200505
+SR240	7 WG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+SR241	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850 C580-213-7850.	8 FTS/DOO, Vance AFB, OK 73705-5202 DSN 448-6037 C580-213-6037.	KZ	US	WGE	WGE	Sunrise-Sunset and active days per local directives	200309
+SR242	317 AG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200608
+SR243	7 WG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+SR244	317 AG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200608
+SR245	7 WG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+SR246	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-33	314 OSS/OSK, 380 CMSGT Williams Drive, Little Rock AFB, AR 72099-4976 DSN 731-37	KZ	US	WGE	WGE	Continuous	200505
+SR247	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850 C580-213-7850.	8 FTS/DOO, Vance AFB, OK 73705-5202 DSN 448-6037 C580-213-6037.	KZ	US	WGE	WGE	Sunrise-Sunset and active days per local directives	200309
+SR249	7 WG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+SR250	317 AG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200608
+SR251	7 WG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200608
+SR253	71 FTS/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850 C580-213-7850.	8FTS/DOO, Vance AFB, OK 73705-5202 DSN 448-6037 C580-213-6037.	KZ	US	WGE	WGE	Sunrise-Sunset and active days per local directives	200309
+SR255	7 WG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+SR258	317 WG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+SR261	317 WG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+SR267	7 WG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+SR270	301 OG/SUA, NAS JRB Fort Worth, TX DSN 739-6903/6904/6905, C817-782-6903/6904/69	Same as Originating Activity	KZ	US	WGE	WGE	0700-2200 local	200610
+SR273	7 WG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+SR274	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850, C580-213-7850.	32 FTS/DOOT, Vance AFB, OK 73705-5202 DSN 448-6251, C580-213-6251.	KZ	US	WGE	WGE	Sunrise to Sunset daily	200313
+SR275	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850, C580-213-7850.	32 FTS/DOOT, Vance AFB, OK 73705-5202 DSN 448-6251, C580-213-6251.	KZ	US	WGE	WGE	Sunrise to Sunset daily	200313
+SR276	47 OSS/OSOR, 570 2nd St., Ste 6, Laughlin AFB, TX 78843-5222 DSN 732-5864, C830-	86 FTS/DOS, 80 Rio Lobo Ln, Laughlin AFB, TX 78843 DSN 732-5584, C830-298-5584.	KZ	US	WGE	WGE	Sunrise-Sunset daily	200313
+SR277	47 OSS/OSOR, 570 2nd St., Ste. 6, Laughlin AFB, TX 78843-5222 DSN 732-5864, C830	86 FTS/DOS, 80 Rio Lobo Ln, Laughlin AFB, TX 78843 DSN 732-5584, C830-298-5584.	KZ	US	WGE	WGE	Sunrise-Sunset daily	200313
+SR280	7 WG, Dyess AFB, TX 79607 DSN 461-2318.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+SR281	47 OSS/OSOR, 570 2nd St., Ste 6, Laughlin AFB, TX 78843-5222 DSN 732-5864/5337,	85 FTS/DOS, 570 2nd St., Laughlin AFB, TX 78843-5220 DSN 732-5121/5429, C830-298	KZ	US	WGE	WGE	Sunrise-Sunset daily	200313
+SR282	47 OSS/OSOR, 570 2nd St., Ste. 6, Laughlin AFB, TX 78843-5222 DSN 732-5864/5337,	85 FTS/DOS, 570 2nd St., Laughlin AFB, TX 78843-5220 DSN 732-5121/5429, C830-298	KZ	US	WGE	WGE	Sunrise-Sunset daily	200313
+SR283	47 OSS/OSOR, 570 2nd St., Ste 6, Laughlin AFB, TX 78843-5222 DSN 732-5864, C830-	85 FTS/DOS, 570 2nd St., Laughlin AFB, TX 78843-5220 DSN 732-5121, C830-298-5121	KZ	US	WGE	WGE	Sunrise-Sunset daily	200404
+SR284	47 OSS/OSOR, 570 2nd St., Ste. 6, Laughlin AFB, TX 78843-5222 DSN 732-5864, C830	85 FTS/DOS, 570 2nd St., Laughlin AFB, TX 78843-5220 DSN 732-5121, C830-298-5121	KZ	US	WGE	WGE	Sunrise-Sunset daily	200313
+SR286	12 OSS/OSOA, Randolph AFB, TX 78150-5000 DSN 487-5580, C210-652-5580.	559 FTS, Randolph AFB, TX 78150 DSN 487-5661, C210-652-5661.	KZ	US	WGE	WGE	Sunrise-Sunset Daily, except holidays	200010
+SR287	12 OSS/OSOA, Randolph AFB, TX 78150-5000 DSN 487-5580, C210-652-5580.	559 FTS, Randolph AFB, TX 78150 DSN 487-5661, C210-652-5661.	KZ	US	WGE	WGE	Sunrise-Sunset Daily, except holidays	200010
+SR290	12 OSS/OSOA, Randolph AFB, TX 78150-5000 DSN 487-5580, C210-652-5580.	559 FTS, Randolph AFB, TX 78150 DSN 487-5661, C210-652-5661.	KZ	US	WGE	WGE	Sunrise-Sunset Daily, except holidays	200010
+SR292	12 OSS/OSOA, Randolph AFB, TX 78150-5000 DSN 487-5580, C210-652-5580.	559 FTS, Randolph AFB, TX 78150 DSN 487-5661, C210-652-5661.	KZ	US	WGE	WGE	Sunrise-Sunset daily except holidays	200009
+SR293	12 OSS/OSOA, Randolph AFB, TX 78150-5000 DSN 487-5580, C210-652-5580.	559 FTS, Randolph AFB, TX 78150 DSN 487-5661, C210-652-5661.	KZ	US	WGE	WGE	Sunrise- Sunset daily	200010
+SR294	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850 C580-213-7850.	8 FTS/DOO, Vance AFB, OK 73705-5202 DSN 448-6037 C580-213-6037.	KZ	US	WGE	WGE	Sunrise-Sunset	200309
+SR295	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850 C580-213-7850.	8 FTS/DOO, Vance AFB, OK 73705-5202 DSN 448-6037 C580-213-6037.	KZ	US	WGE	WGE	Sunrise-Sunset	200309
+SR296	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850 C580-213-7850.	8 FTS/DOO, Vance AFB, OK 73705-5202 DSN 448-6037 C580-213-6037.	KZ	US	WGE	WGE	Sunrise-Sunset	200309
+SR300	129 RQW/DOW, PO Box 103, Stop 14, Moffett Federal Afld, CA 94035-5000 DSN 359-93	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200010
+SR301	129 RQW/DOW, PO Box 103, Stop 14, Moffett Federal Afld, CA 94035-5000 DSN 359-93	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200010
+SR311	129 RQW/DOW, PO Box 103, Stop 14, Moffett Federal Afld, CA 94035-5000 DSN 359-93	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200010
+SR353	129 RQW/DOW, PO Box 103, Stop 14, Moffett Federal Afld, CA 94035-5000 DSN 359-93	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200010
+SR359	129 RQW/DOW, PO Box 103, Stop 14, Moffett Federal Afld, CA 94035-5000 DSN 359-93	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200011
+SR381	129 RQW/DOW, PO Box 103, Stop 14, Moffett Federal Afld, CA 94035-5000 DSN 359-93	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200011
+SR390	146 AW/DOXT (ANG), 106 Mulcahey Dr., Port Hueneme, CA 93041-4003 DSN 893-7590/75	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200404
+SR397	146 AW/DOXT (ANG), 106 Mulcahey Dr., Port Hueneme, CA 93041-4003 DSN 893-7590/75	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200404
+SR398	129 RQW/DOW, PO Box 103, Stop 14, Moffett Federal Afld, CA 94035-5000 DSN 359-93	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200011
+SR488	62 OSS/OSO, McChord AFB, WA 98438-1109 DSN 382-9925, C253-982-9925. During non-d	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200107
+SR489	62 OSS/OSO, McChord AFB, WA 98438-1109 DSN 382-9925, C253-982-9925. During non-d	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200107
+SR616	139 Airlift Wg., 705 Memorial Drive, St. Joseph, MO 64503-9307 DSN 356-3225/3470	Same as Originating Activity	KZ	US	WGE	WGE	1300-0500Z++ daily	200208
+SR617	139 Airlift Wg., 705 Memorial Drive, St. Joseph, MO 64503-9307 DSN 356-3225/3470	Same as Originating Activity	KZ	US	WGE	WGE	1300-0500Z++ daily	200208
+SR618	139 Airlift Wg., 705 Memorial Drive, St. Joseph, MO 64503-9307 DSN 356-3225/3470	Same as Originating Activity	KZ	US	WGE	WGE	1300-0500Z++ daily	200208
+SR619	139 Airlift Wg., 705 Memorial Drive, St. Joseph, MO 64503-9307 DSN 356-3225/3470	Same as Originating Activity	KZ	US	WGE	WGE	1300-0500Z++ daily	200208
+SR701	191 AG, Selfridge ANGB, MI 48045 DSN 273-4498/4441, C810-463-3664.	Same as Originating Activity	KZ	US	WGE	WGE	1600-0400Z++ Tue-Sat, 1600-2200Z++ Sun	200011
+SR702	191 AG, Selfridge ANGB, MI 48045 DSN 273-4498/4441, C810-463-3664.	Same as Originating Activity	KZ	US	WGE	WGE	1600-0400Z++ Tue-Sat, 1600-2200Z++ Sun	200011
+SR703	191 AG, Selfridge ANGB, MI 48045 DSN 273-4498/4441, C810-463-3664.	Same as Originating Activity	KZ	US	WGE	WGE	1600-0400Z++ Tue-Sat, 1600-2200Z++ Sun	200011
+SR707	179 AW, Mansfield Lahm Airport, OH 44903-0179 DSN 696-6165.	Same as Originating Activity	KZ	US	WGE	WGE	0700-2300 local daily	200011
+SR708	179 AW, Mansfield Lahm Airport, OH 44903-0179 DSN 696-6165.	Same as Originating Activity	KZ	US	WGE	WGE	0700-2300 local daily	200011
+SR709	179 AW, Mansfield Lahm Airport, OH 44903-0179 DSN 696-6165.	Same as Originating Activity	KZ	US	WGE	WGE	0700-2300 local daily	200011
+SR710	179 AW, Mansfield Lahm Airport, OH 44903-0179 DSN 696-6165.	Same as Originating Activity	KZ	US	WGE	WGE	0700-2300 local daily	200011
+SR711	179 AW, Mansfield Lahm Airport, OH 44903-0179 DSN 696-6165.	Same as Originating Activity	KZ	US	WGE	WGE	0700-2300 local daily	200011
+SR712	179 AW, Mansfield Lahm Airport, OH 44903-0179 DSN 696-6165.	Same as Originating Activity	KZ	US	WGE	WGE	0700-2300 local daily	200011
+SR713	179 AW, Mansfield Lahm Airport, OH 44903-0179 DSN 696-6165.	Same as Originating Activity	KZ	US	WGE	WGE	0700-2300 local daily	200011
+SR714	179 AW, Mansfield Lahm Airport, OH 44903-0179 DSN 696-6165.	Same as Originating Activity	KZ	US	WGE	WGE	0700-2300 local daily	200011
+SR715	179 AW, Mansfield Lahm Airport, OH 44903-0179 DSN 696-6165.	Same as Originating Activity	KZ	US	WGE	WGE	0700-2300 local daily	200011
+SR727	133 TAW, Minneapolis-St. Paul Intl, MN 55111, DSN 825-5680.	Same as Originating Activity	KZ	US	WGE	WGE	1930-2230 lcl Tue and Thu; 1000-1500 Lcl third Sat each month; OT by NOTAM	200011
+SR728	133 TAW, Minneapolis-St. Paul Intl, MN 55111, DSN 825-5680.	Same as Originating Activity	KZ	US	WGE	WGE	1930-2230 lcl Tue and Thu; 1000-1500 lcl third Sat each month; OT by NOTAM	200011
+SR729	133 TAW, Minneapolis-St. Paul Intl, MN 55111, DSN 825-5680.	Same as Originating Activity	KZ	US	WGE	WGE	1930-2230 lcl Tue and Thu; 1000-1500 lcl third Sat each month; OT by NOTAM	200011
+SR730	133 TAW, Minneapolis-St. Paul Intl, MN 55111, DSN 825-5680.	Same as Originating Activity	KZ	US	WGE	WGE	1930-2230 lcl Tue and Thu; 1000-1500 lcl third Sat each month; OT by NOTAM	200011
+SR731	133 TAW, Minneapolis-St. Paul Intl, MN 55111, DSN 825-5680.	Same as Originating Activity	KZ	US	WGE	WGE	1930-2230 lcl Tue and Thu; 1000-1500 lcl third Sat each month; OT by NOTAM	200011
+SR771	440 AW/DOO, General Mitchell IAP, Milwaukee, WI 53207, DSN 741-5155/5157, FAX DS	Same as Originating Activity	KZ	US	WGE	WGE	2200-0330Z++ Tue-Fri; 1500-2200Z++ Sat-Sun	200202
+SR776	440 AW/DOO, General Mitchell IAP, Milwaukee, WI 53207, DSN 741-5155/5157, FAX DS	Same as Originating Activity	KZ	US	WGE	WGE	2000-0400Z++ Tue-Fri; 1600-2200Z++ Sat-Sun	200202
+SR781	Alpena CRTC/OTM (ANG), 5884 A Street, Alpena MI 49707-8125 DSN 741-3509/3226.	Same as Originating Activity	KZ	US	WGE	WGE	0700-2300 local daily	200402
+SR782	Alpena CRTC/OTM (ANG), 5884 A Street, Alpena MI 49707-8125 DSN 741-3509/3226.	Same as Originating Activity	KZ	US	WGE	WGE	0700-2300 local daily	200402
+SR785	440 AW/DOO, General Mitchell IAP, Milwaukee, WI 53207, DSN 741-5155/5157, FAX DS	Same as Originating Activity	KZ	US	WGE	WGE	2000-0400Z++ Tue-Fri; 1600-2200Z++ Sat-Sun	200202
+SR800	913 AG (AFRC), Willow Grove ARS, Willow Grove, PA 19090 DSN 991-1910/1981, C215-	Same as Originating Activity	KZ	US	WGE	WGE	0800-2300 local	200011
+SR801	913 AG (AFRC), Willow Grove ARS, Willow Grove, PA 19090 DSN 991-1910/1981, C215-	Same as Originating Activity	KZ	US	WGE	WGE	0800-2300 local	200011
+SR802	167 AW, Eastern West Virginia Regional, Martinsburg, WV 25401 DSN 242-5250.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200602
+SR803	167 AW, Eastern West Virginia Regional, Martinsburg, WV 25401 DSN 242-5250.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200602
+SR804	167 AW, Eastern West Virginia Regional, Martinsburg, WV 25401 DSN 242-5250.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200602
+SR805	913 AG (AFRC), Willow Grove ARS, Willow Grove, PA 19090 DSN 991-1910/1981, C215-	Same as Originating Activity	KZ	US	WGE	WGE	0800-2300 local	200011
+SR806	167 AW, Eastern West Virginia Regional, Martinsburg, WV 25401 DSN 242-5250.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200602
+SR807	167 AW, Eastern West Virginia Regional, Martinsburg, WV 25401 DSN 242-5250.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200602
+SR808	167 AW, Eastern West Virginia Regional, Martinsburg, WV 25401 DSN 242-5250.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200602
+SR820	327 AS/DOXT,1146 Fairchild Street, Willow Grove ARS, PA DSN 991-1910, C215-443-1	Same as Originating Activity	KZ	US	WGE	WGE	0900-2300 local daily	200011
+SR821	327 AS/DOXT,1146 Fairchild Street, Willow Grove ARS, PA DSN 991-1910, C215-443-1	Same as Originating Activity	KZ	US	WGE	WGE	0900-2300 local daily	200011
+SR822	911 AW, Pittsburgh Intl, PA DSN 277-8722/8761.	Same as Originating Activity	KZ	US	WGE	WGE	1000-0300Z Mon-Sat	200011
+SR823	914 AW/328 AS,10460 Wagner Dr, Niagra Falls Intl Airport, NY 14304-5010, DSN 238	Same as Originating Activity	KZ	US	WGE	WGE	1500-0300Z++	200113
+SR825	914 AW/328 AS,10460 Wagner Dr, Niagra Falls Intl Airport, NY 14304-5010, DSN 238	Same as Originating Activity	KZ	US	WGE	WGE	1500-0300Z++	200113
+SR835	327 AS/DOXT,1146 Fairchild Street, Willow Grove ARS, PA DSN 991-1910, C215-443-1	Same as Originating Activity	KZ	US	WGE	WGE	0900-2300 local	200011
+SR844	166 Airlift Gp, 166 OSF/DOW, 2600 Spruance Dr, Corporate Commons, New Castle, DE	Same as Originating Activity	KZ	US	WGE	WGE	0800-2359 local	200011
+SR845	166 Airlift Gp, 166 OSF/DOW, 2600 Spruance Dr, Corporate Commons, New Castle, DE	Same as Originating Activity	KZ	US	WGE	WGE	0800-2359 local	200011
+SR846	166 Airlift Gp, 166 OSF/DOW, 2600 Spruance Dr, Corporate Commons, New Castle, DE	Same as Originating Activity	KZ	US	WGE	WGE	0800-2359 local	200011
+SR847	166 Airlift Gp, 166 OSF/DOW, 2600 Spruance Dr, Corporate Commons, New Castle, DE	Same as Originating Activity	KZ	US	WGE	WGE	0800-2359 local	200011
+SR867	Commander, Ft Pickett, VA 23824-5000 DSN 438-8506, C804-292-8506.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200011
+SR871	130 AG (ANG), Kanawha County, Charleston, WV 25311 DSN 366-6291.	Same as Originating Activity	KZ	US	WGE	WGE	0800-2300 local	200011
+SR872	130 AG (ANG), Kanawha County, Charleston, WV 25311 DSN 366-6291.	Same as Originating Activity	KZ	US	WGE	WGE	0800-2300 Local	200011
+SR873	130 AG (ANG), Kanawha County, Charleston, WV 25311 DSN 366-6291.	Same as Originating Activity	KZ	US	WGE	WGE	0800-2300 local	200011
+SR874	130 AG (ANG), Kanawha County, Charleston, WV 25311 DSN 366-6291.	Same as Originating Activity	KZ	US	WGE	WGE	0800-2300 local	200011
+SR900	143 AW/Operations, 7 Flightline Dr, North Kingstown, RI 02852-7548 DSN 476-3405,	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ Daily	200011
+SR901	143 AW/Operations, 7 Flightline Dr, North Kingstown, RI 02852-7548 DSN 476-3405,	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ Daily	200011
+SR902	143 AW/Operations, 7 Flightline Dr, North Kingstown, RI 02852-7548 DSN 476-3405,	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ Daily	200011
+SR904	143 AW/Operations, 7 Flightline Dr, North Kingstown, RI 02852-7548 DSN 476-3405,	Same as Originating Activity	KZ	US	WGE	WGE	1000-2200 local	200011
+SR905	143 AW/Operations, 7 Flightline Dr, North Kingstown, RI 02852-7548 DSN 476-3405,	Same as Originating Activity	KZ	US	WGE	WGE	1000-2200 local	200011
+VR025	GA ANG/CRTC/OTR Townsend Range P.O. BOX 220, GA 31331 DSN 860-3303 C912-963-3303	GA ANG/CRTC/OTR Townsend Range P.O. BOX 220, GA 31331 DSN 860-3007 C912-963-3007	KZ	US	WGE	WGE	0700-2200 LCL, other times by NOTAM	200606
+VR041	4 OSS/OSOR, Seymour Johnson AFB, NC 27531-5004 DSN 722-2672, C919-722-2672.	4 OSS/OSOS, Seymour Johnson AFB, NC 27531-5004 DSN 722-2129/2124, C919-722-2129/	KZ	US	WGE	WGE	Continuous	200608
+VR042	4 OSS/OSOR, Seymour Johnson AFB, NC 27531-5004 DSN 722-2672, C919-722-2672.	4 OSS/OSOS, Seymour Johnson AFB, NC 27531-5004 DSN 722-2129/2124, C919-722-2129/	KZ	US	WGE	WGE	Continuous	200608
+VR043	4 OSS/OSOR, Seymour Johnson AFB, NC 27531-5004 DSN 722-2672, C919-722-2672.	4 OSS/OSOS, Seymour Johnson AFB, NC 27531-5004 DSN 722-2129/2124, C919-722-2129/	KZ	US	WGE	WGE	Continuous	200608
+VR045	GA ANG/CRTC/OTR Townsend Range, P.O.BOX 220, Townsend, GA 31331, DSN 860-3007 C9	GA ANG/CRTC/OTR Townsend Range, P.O.BOX 220, Townsend, GA 31331, DSN 860-3303 C9	KZ	US	WGE	WGE	0700-2200 LCL, Mon-Fri, other time by NOTAM	200606
+VR054	4 OSS/OSR, Seymour Johnson AFB, NC 27531-5004 DSN 722-2672, C919-722-2672.	4 OSS/OSOSF, Seymour Johnson AFB, NC 27531-5004 DSN 722-2129/2124, C919-722-2129	KZ	US	WGE	WGE	0700-2100 local Mon-Fri, OT by NOTAM	200009
+VR058	20 OSS/OSTA, Shaw AFB, SC 29152 DSN 965-1121/1122, C803-895-1121/1122, Fax DSN 9	20 OSS/OSOS, Shaw AFB, SC 29152 DSN 965-1118/1119, C803-895-1118/1119. Non-duty	KZ	US	WGE	WGE	Continuous ( Jan, Mar, May, Jul, Sep, Nov) VR-092 reverse direction other months	200103
+VR060	187 FW, 5187 Selma Highway , Montgomery, AL 36108-4824 DSN 358-9255, C334-394-72	Same as Originating Activity	KZ	US	WGE	WGE	0700-1700 Local or by NOTAM	200406
+VR071	4 OSS/OSR, Seymour Johnson AFB, NC 27531-5004 DSN 722-2672, C919-722-2672.	4 OSS/OSOSF, Seymour Johnson AFB, NC 27531-5004 DSN 722-2129/2124, C919-722-2129	KZ	US	WGE	WGE	0700-2100 local Mon-Fri, OT by NOTAM	200009
+VR073	4 OSS/OSR, Seymour Johnson AFB, NC 27531-5004 DSN 722-2672, C919-722-2672.	4 OSS/OSOSF, Seymour Johnson AFB, NC 27531-5004 DSN 722-2129/2124, C919-722-2129	KZ	US	WGE	WGE	Continuous	199910
+VR083	4 OSS/OSE, Seymour Johnson AFB, NC 27531 DSN 722-2672, C919-722-2672	4 OSS/OSOSF, Seymour Johnson AFB, NC 27531-5004 DSN 722-2129/2124, C919-722-2129	KZ	US	WGE	WGE	Continuous	200503
+VR084	4 OSS/OSR, Seymour Johnson AFB, NC 27531-5004 DSN 722-2672, C919-722-2672.	4 OSS/OSOSF, Seymour Johnson AFB, NC 27531-5004 DSN 722-2129/2124, C919-722-2129	KZ	US	WGE	WGE	Continuous	200503
+VR085	4 OSS/OSR, Seymour Johnson AFB, NC 27531 DSN 722-2672, C919-722-2672.	4 OSS/OSOSF, Seymour Johnson AFB, NC 27531-5004 DSN 722-2129/2124, C919-722-2129	KZ	US	WGE	WGE	Continuous	200503
+VR086	4 OSS/OSR, Seymour Johnson AFB, NC 27531 DSN 722-2672, C919-722-2672.	4 OSS/OSOSF, Seymour Johnson AFB, NC 27531-5004 DSN 722-2129/2124, C919-722-2129	KZ	US	WGE	WGE	Continuous	200503
+VR087	20 OSS/OSTA, Shaw AFB, SC 29152 DSN 965-1121/1122, C803-895-1121/1122, Fax DSN 9	20 OSS/OSOS, Shaw AFB, SC 29152 Duty hrs DSN 965-1118/1119, C803-895-1118/1119.	KZ	US	WGE	WGE	Continuous	200011
+VR088	20 OSS/OSTA, Shaw AFB, SC 29152 DSN 965-1121/1122, C803-895-1121/1122, Fax DSN 9	20 OSS/OSOS, Shaw AFB, SC 29152 Duty hrs DSN 965-1118/1119, C803-895-1118/1119.	KZ	US	WGE	WGE	Continuous	200011
+VR092	20 OSS/OSTA, Shaw AFB, SC 29152 DSN 965-1121/1122, C803-895-1121/1122, Fax DSN 9	20 OSS/OSOS, Shaw AFB, SC 29152 Duty hrs DSN 965-1118/1119, C803-895-1118/1119.	KZ	US	WGE	WGE	Continuous (Feb, Apr, Jun, Aug, Oct, Dec) VR-058 opposite direction other months	200011
+VR093	20 OSS/OSTA, Shaw AFB, SC 29152 DSN 965-1121/1122, C803-895-1121/1122, Fax DSN 9	20 OSS/OSOS, Shaw AFB, SC 29152 Duty hrs DSN 965-1118/1119, C803-895-1118/1119.	KZ	US	WGE	WGE	Continuous	200011
+VR094	20 OSS/OSTA, Shaw AFB, SC 29152 DSN 965-1121/1122, C803-895-1121/1122, Fax DSN 9	20 OSS/OSOS, Shaw AFB, SC 29152 Duty hrs DSN 965-1118/1119, C803-895-1118/1119.	KZ	US	WGE	WGE	Continuous	200011
+VR095	20 OSS/OSTA, Shaw AFB, SC 29152 DSN 965-1121/1122, C803-895-1121/1122, Fax DSN 9	20 OSS/OSOS, Shaw AFB, SC 29152 Duty hrs DSN 965-1118/1119, C803-895-1118/1119.	KZ	US	WGE	WGE	Continuous	200011
+VR096	4 OSS/OSR, Seymour Johnson AFB, NC 27531 DSN 722-2672, C919-722-2672.	4 OSS/OSOSF, Seymour Johnson AFB, NC 27531-5004 DSN 722-2129/2124, C919-722-2129	KZ	US	WGE	WGE	Continuous	200503
+VR097	20 OSS/OSTA, Shaw AFB, SC 29152 DSN 965-1121/1122, C803-895-1121/1122, Fax DSN 9	20 OSS/OSOS, Shaw AFB, SC 29152, Duty hrs DSN 965-1118/1119, C803-895-1118/1119.	KZ	US	WGE	WGE	0600-2400 local daily	200011
+VR100	27 OSS/OSOH, 110 E Sextant Ave, Suite 1081, Cannon AFB, NM 88103 DSN 681-2279.	27 OSS/OSOS, 110 E Sextant Ave, Suite 1080, Cannon AFB, NM 88103 DSN 681-2276.	KZ	US	WGE	WGE	Continuous	200009
+VR1001	FACSFACJAX, P.O. Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005, C904	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR1002	FACSFACJAX, P.O. Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005, C904	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR1003	FACSFACJAX, P.O. Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005, C904	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR1004	FACSFACJAX, P.O. Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005, C904	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR1005	FACSFACJAX, P.O. Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005, C904	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR1006	FACSFACJAX, P.O. Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005, C904	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR1007	FACSFACJAX, P.O. Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005, C904	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR1008	FACSFACJAX, P.O. Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005, C904	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR1009	FACSFACJAX, P.O. Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005, C904	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR101	301 OG/SUA, NAS JRB, Fort Worth, TX 76127 DSN 739-6903/04/05, C817-782-6903/04/0	Same as Originating Activity	KZ	US	WGE	WGE	0700-2200 local	200109
+VR1010	FACSFACJAX, P.O. Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005, C904	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR1013	FACSFACJAX, P.O. Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005, C904	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR1014	14 OSS/OSOP, Columbus AFB, MS 39710-5000 DSN 742-7560/7633, C662-434-7560/7633.	37/41 FTS, Columbus AFB, MS 39710-5000 DSN 742-7666/7667, C662-434-7666/7667.	KZ	US	WGE	WGE	Sunrise-Sunset daily	200602
+VR1016	14 OSS/OSOP Columbus AFB, MS 39710 DSN 742-7560/7633 C662-434-7560/7633	48 FTS Columbus AFB, MS 39710 DSN 742-7840/7847 C662-434-7840/7847	KZ	US	WGE	WGE	Sunrise-Sunset daily	200602
+VR1017	187 FW, 5187 Selma Highway, Montgomery, AL 36108-4824 DSN 358-9255, C334-394-725	Same as Originating Activity	KZ	US	WGE	WGE	0700-1730 local, OT by NOTAM	200407
+VR1020	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ weekdays, occasional weekends	200010
+VR1021	FACSFAC, NAS Pensacola, FL 32508-5000 DSN 922-4671/4672, C850-452-4671/4672.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ weekdays, occasional weekends	200208
+VR1022	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ weekdays, occasional weekends	200009
+VR1023	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ weekdays, occasional weekends	200009
+VR1024	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0400Z++ weekdays, occasional weekends	199712
+VR1030	COMTRAWING ONE, NAS MERIDIAN, MS 39309-0136 DSN 637-2487, C601-679-2487.	Same as Originating Activity	KZ	US	WGE	WGE	1100-0600Z++ daily	200402
+VR1031	COMTRAWING ONE, NAS MERIDIAN, MS 39309-0136 DSN 637-2487, C601-679-2487.	Same as Originating Activity	KZ	US	WGE	WGE	1100-0600Z++ daily	200402
+VR1032	COMTRAWING ONE, NAS MERIDIAN, MS 39309-0136 DSN 637-2487, C601-679-2487.	Same as Originating Activity	KZ	US	WGE	WGE	1100-0600Z++ daily	200402
+VR1033	COMTRAWING ONE, NAS MERIDIAN, MS 39309-0136 DSN 637-2487, C601-679-2487.	Same as Originating Activity	KZ	US	WGE	WGE	1100-0600Z++ daily	200402
+VR1039	FACSFACJAX, P.O. Box 40, NAS Jacksonville, FL 32212-0040 DSN 942-2004/2005, C904	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR104	301 OG/SUA, NAS JRB, Fort Worth, TX 76127 DSN 739-6903/04/05, C817-782-6903/04/0	Same as Originating Activity	KZ	US	WGE	WGE	0700-2200 local	200109
+VR1040	CG MCAS CHERRY POINT, ATTN RAC-DIROPS, Cherry Point, NC 28533 DSN 582-3466, C252	Central Scheduling Division MCAS Cherry Point, NC 28533 DSN 582-4040/4041, C252-	KZ	US	WGE	WGE	Continuous	200309
+VR1041	CG MCAS CHERRY POINT, ATTN RAC-DIROPS, Cherry Point, NC 28533 DSN 582-3466, C252	Central Scheduling Division MCAS Cherry Point, NC 28533 DSN 582-4040/4041, C252-	KZ	US	WGE	WGE	Continuous	200309
+VR1043	CG MCAS CHERRY POINT, ATTN RAC-DIROPS, Cherry Point, NC 28533 DSN 582-3466, C252	Central Scheduling Division MCAS Cherry Point, NC 28533 DSN 582-4040/4041, C252-	KZ	US	WGE	WGE	0700-2300 Local Daily	200309
+VR1046	CG MCAS CHERRY POINT, ATTN RAC-DIROPS, Cherry Point, NC 28533 DSN 582-3466, C252	Central Scheduling Division MCAS Cherry Point, NC 28533 DSN 582-4040/4041, C252-	KZ	US	WGE	WGE	0600-1800 Local Mon-Fri	200309
+VR1050	14 OSS/OSOP, Columbus AFB, MS 39710-5000 DSN 742-7560/7633, C662-434-7560/7633.	48 FTS, Columbus AFB, MS 39710-5000 DSN 742-7840/7847, C662-434-7840/7847.	KZ	US	WGE	WGE	0700-2300 local daily	200513
+VR1051	14 OSS/OSOP, Columbus AFB, MS 39710-5000 DSN 742-7560/7633, C662-434-7560/7633.	48 FTS, Columbus AFB, MS 39710-5000 DSN 742-7840/7847, C662-434-7840/7847.	KZ	US	WGE	WGE	0700-2300 local daily	200602
+VR1052	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0500Z++	200010
+VR1054	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1300-0500Z++ daily	200009
+VR1055	FACSFAC NPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1300-0500Z++ 7 days a week	200101
+VR1056	FACSFACNPA, NAS Pensacola, FL 32508-5000 DSN 922-2735, C850-452-2735.	Same as Originating Activity	KZ	US	WGE	WGE	1200-0500Z++	200010
+VR1059	20 OSS/OSTA, Shaw AFB, SC 29152 DSN 965-1121/1122, C803-895-1121/1122, Fax DSN 9	20 OSS/OSOS, Shaw AFB, SC 29152 Duty hrs DSN 965-1118/1119, C803-895-1118/1119.	KZ	US	WGE	WGE	Continuous	200011
+VR1061	4 OSS/OSR, Seymour Johnson AFB, NC 27531 DSN 722-2672, C919-722-2672.	4 OSS/OSOSF, Seymour Johnson AFB, NC 27531-5004 DSN 722-2129/2124, C919-722-2129	KZ	US	WGE	WGE	Continuous	200503
+VR1065	347 OSS/OSOS, Moody AFB, GA 31699-1899 DSN 460-4544/3531, C229-257-4544/3531.	347 OSS/OSOS, Moody AFB, GA 31699-1899 Mon-Fri 0730-1630L exc holidays DSN 460-4	KZ	US	WGE	WGE	0700-2400L daily	200602
+VR1066	347 OSS/OSKA, Moody AFB, GA 31699-1899 DSN 460-4131, C229-257-4131.	3 FTS, Moody AFB, GA 31699-1899 Mon-Fri 0830-1700 local (excluding holidays) DSN	KZ	US	WGE	WGE	0700-0000 local daily	200406
+VR1070	187 FW, 5187 Selma Highway, Montgomery, AL 36108-4824 DSN 358-9255 C334-394-7255	Same as Originating Activity	KZ	US	WGE	WGE	0700-2000 local, OT by NOTAM	200406
+VR1072	14 OSS/OSOP, Columbus AFB, MS 39710-5000 DSN 742-7560/7633, C662-434-7560/7633.	48 FTS, Columbus AFB, MS 39710-5000 DSN 742-7840/7847, C662-434-7840/7847.	KZ	US	WGE	WGE	Normally SR-2100 local, use OT not prohibited	200602
+VR1076	156 AW (PRANG) Muniz ANGB, 200 Jose A. (Tony) Santana Ave., Carolina, Puerto Ric	Same as Originating Activity	KA	US	WGE	WGE	1100-0000Z++ (DAILY)	200503
+VR1077	156 AW (PRANG) Muniz ANGB, 200 Jose A. (Tony) Santana Ave., Carolina, Puerto Ric	Same as Originating Activity	KZ	US	WGE	WGE	1100-0000Z++ (DAILY)	200503
+VR1078	156 AW (PRANG) Muniz ANGB, 200 Jose A. (Tony) Santana Ave., Carolina, Puerto Ric	Same as Originating Activity	KZ	US	WGE	WGE	1100-0000Z++ (DAILY)	200503
+VR1079	156 AW (PRANG) Muniz ANGB, 200 Jose A. (Tony) Santana Ave., Carolina, Puerto Ric	Same as Originating Activity	KZ	US	WGE	WGE	1100-0000Z++(DAILY)	200503
+VR108	27 OSS/OSOH, 110 E Sextant Ave, Suite 1081 Cannon AFB, NM 88103 DSN 681-2279.	27 OSS/OSOS, 110 E Sextant Ave, Suite 1080 Cannon AFB, NM 88103 DSN 681-2276.	KZ	US	WGE	WGE	Continuous	200009
+VR1080	156 AW (PRANG) Muniz ANGB, 200 Jose A. (Tony) Santana Ave., Carolina, Puerto Ric	Same as Originating Activity	KZ	US	WGE	WGE	1100-0000Z++ (DAILY)	200503
+VR1081	156 AW (PRANG) Muniz ANGB, 200 Jose A. (Tony) Santana Ave., Carolina, Puerto Ric	Same as Originating Activity	KZ	US	WGE	WGE	1100-0000Z++ (DAILY)	200503
+VR1082	46 OSS/OSCM, 505 North Barrancas Ave, Suite 104, Eglin AFB, FL 32542-6818 DSN 87	46 OSS/OSCS, 505 North Barrancas Ave, Suite 104, Eglin AFB, FL 32542-6818 DSN 87	KZ	US	WGE	WGE	Normally 1200-2300Z++ Mon-Fri, available OT	200311
+VR1083	USAFAWC-79 Test and Evaluation Group/CD, Eglin AFB, FL 32542 DSN 872-2024, C904-	85 Test and Evaluation Squadron/DOOS, Eglin AFB, FL 32542 DSN 872-2622, C904-882	KZ	US	WGE	WGE	Normally 1200-2300Z++ Mon-Fri, route usage is allowable OT	200009
+VR1084	USAFAWC-79 Test and Evaluation Group/CD, Eglin AFB, FL 32542 DSN 872-2024, C904-	85 Test and Evaluation Squadron/DOOS, Eglin AFB, FL 32542 DSN 872-2622, C904-882	KZ	US	WGE	WGE	Normally 1200-2300Z++ Mon-Fri, route usage is allowable OT	200009
+VR1085	46 OSS/OSCM, 505 North Barrancas Ave, Suite 104, Eglin AFB, FL 32542-6818 DSN 87	46 OSS/OSCS (ROCC), 505 North Barrancas Ave, Suite 104, Eglin AFB, FL 32542-6818	KZ	US	WGE	WGE	Normally 1200-2300Z++ Mon-Fri, route usage is allowable OT	200311
+VR1087	347 Rescue Wing, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33	347 Rescue Wing, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 3	KZ	US	WGE	WGE	Normally 0900-2400Z++ daily, available OT	200313
+VR1088	347 Rescue Wing, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33	347 Rescue Wing, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 3	KZ	US	WGE	WGE	Normally 0900-2400Z++ daily, available OT	200313
+VR1089	347 Rescue Wing, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33	347 Rescue Wing, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 3	KZ	US	WGE	WGE	Normally 0900-2400Z++ daily, available OT	200313
+VR1097	347 WG, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33621-5205	347 WG, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 33621-5205	KZ	US	WGE	WGE	Continuous	200102
+VR1098	347th Rescue WG, Detachment 1/RO, 8707 North Golf Course St., MacDill AFB, FL 33	347th Rescue WG, Detachment 1/ROA, 8707 North Golf Course St., MacDill AFB, FL 3	KZ	US	WGE	WGE	Continuous	200109
+VR1102	188 FW/XP, 4850 Leigh Ave., Fort Smith, AR 72903-6096 DSN 778-5185/5271.	Same as Originating Activity. Route scheduled no more than 24 hr in advance. Min	KZ	US	WGE	WGE	Continuous (except Sunday 1000-1200 local)	200305
+VR1103	188 FW/XP, 4850 Leigh Ave., Fort Smith, AR 72903-6096 DSN 778-5185/5271.	Same as Originating Activity. Route scheduled no more than 24 hr in advance. Min	KZ	US	WGE	WGE	Continuous (except Sunday 1000-1200 local)	200305
+VR1104	188 FW/XP, 4850 Leigh Ave., Fort Smith, AR 72903-6096 DSN 778-5185/5271.	Same as Originating Activity. Route scheduled no more than 24 hr in advance. Min	KZ	US	WGE	WGE	Continuous (except Sunday 1000-1200 local)	200305
+VR1105	149 FTR GP (TX-ANG), Kelly AFB, TX 78241 DSN 945-5934, C210-925-5934.	Same as Originating Activity	KZ	US	WGE	WGE	0800-1830 local daily	200311
+VR1106	149 FTR GP (TX-ANG), Kelly AFB, TX 78241 DSN 969-5934.	Same as Originating Activity	KZ	US	WGE	WGE	0800-1830 local daily	200009
+VR1107	150 FW OG/CC, 2251 Air Guard Rd. SE, Kirtland AFB, NM 87117-5875 DSN 246-7426.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-2200 local daily	200009
+VR1108	47 OSS/OSOR, 570 2nd St., Ste 6, Laughlin AFB, TX 78843-5222 DSN 732-5864, C830-	87 FTS/DOS, 570 2nd St., Laughlin AFB, TX 78843 DSN 732-5484, C830-298-5484. Sch	KZ	US	WGE	WGE	Sunrise-Sunset only	200408
+VR1109	47 OSS/OSOR, 570 2nd St., Ste. 6, Laughlin AFB, TX 78843-5222 DSN 732-5864, C830	87 FTS/DOS, 570 2nd St., Laughlin AFB, TX 78843 DSN 732-5484, C830-298-5484. Sch	KZ	US	WGE	WGE	Sunrise-Sunset daily	200408
+VR1110	301 OG/SUA, NAS JRB, Fort Worth, TX 76127 DSN 739-6903/04/05, C817-782-6903/04/0	Same as Originating Activity	KZ	US	WGE	WGE	0600-2200 local daily	200109
+VR1113	188 FW/XP, 4850 Leigh Ave., Fort Smith, AR 72903-6096 DSN 778-5185/5271.	Same as Originating Activity. Route scheduled no more than 24 hr in advance. Min	KZ	US	WGE	WGE	Continuous ( except Sunday 1000-1200 local )	200305
+VR1116	OC-ALC/10 FLTS, 4805 West Dr, Tinker AFB, OK 73145-3300 DSN 336-7719/7710, C405-	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours only	200404
+VR1117	47 OSS/OSOR, 570 2nd St., Ste. 6, Laughlin AFB, TX 78843-5222 DSN 732-5864, C830	87 FTS/DOS, 570 2nd St., Laughlin AFB, TX 78843 DSN 732-5484, C830-298-5484. Sch	KZ	US	WGE	WGE	Sunrise-Sunset Sat-Sun	200402
+VR1120	149 FW (TX ANG), 107 Hensley Street, Kelly AFB, TX 78241-5544 DSN 945-5934, C210	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200402
+VR1121	149 FW (TX ANG), 107 Hensley Street, Kelly AFB, TX 78241-5544 DSN 945-5934, C210	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200402
+VR1122	149 FW (TX ANG), 107 Hensley Street, Kelly AFB, TX 78241-5544 DSN 945-5934, C210	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200402
+VR1123	149 FW (TX ANG), 107 Hensley Street, Kelly AFB, TX 78241-5544 DSN 945-5934, C210	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200402
+VR1124	301 OG/SUA, NAS JRB, Fort Worth, TX 76127 DSN 739-6903/04/05, C817-782-6903/04/0	Same as Originating Activity	KZ	US	WGE	WGE	0600-2200 local daily	200109
+VR1128	301 OG/SUA, NAS JRB, Fort Worth, TX 76127 DSN 739-6903/04/05, C817-782-6903/04/0	Same as Originating Activity	KZ	US	WGE	WGE	0600-2200 local daily	200109
+VR1130	188 FW/XP, 4850 Leigh Ave., Fort Smith, AR 72903-6096 DSN 778-5185/5271.	Same as Originating Activity. Route scheduled no more than 24 hr in advance. Min	KZ	US	WGE	WGE	Continuous (except Sunday 1000-1200 local)	200305
+VR1137	301 OG/SUA, NAS JRB, Fort Worth, TX 76127 DSN 739-6903/04/05, C817-782-6903/04/0	Same as Originating Activity	KZ	US	WGE	WGE	0600-2200 local daily	200109
+VR1138	80th Flying Training Wing, 1911 J. Ave. Ste 6, Sheppard AFB, TX 76311-2056 DSN 7	90 FTS/DOTOD, Sheppard AFB, TX 76311 DSN 736-2675/4995, C940-676-2675/4995.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri, OT by NOTAM	200507
+VR1139	80th Flying Training Wing, 1911 J. Ave. Ste 6, Sheppard AFB, TX 76311-2056 DSN 7	90 FTS/DOTOD, Sheppard AFB,TX 76311 DSN 736-2675/4995, C940-676-2675/4995.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri, OT by NOTAM	200507
+VR114	27 OSS/OSOH, 110 E. Sextant Ave, Suite 1081, Cannon AFB, NM 88103 DSN 681-2279.	27 OSS/OSOS, 110 E. Sextant Ave, Suite 1080, Cannon AFB, NM 88103 DSN 681-2276.	KA	US	WGE	WGE	Continuous	200009
+VR1140	80th Flying Training Wing, 1911 J. Ave. Ste 6, Sheppard AFB, TX 76311-2056 DSN 7	90 FTS/DOTOD, Sheppard AFB, TX 76311 DSN 736-2675/4995, C940-676-2675/4995.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri, OT by NOTAM	200507
+VR1141	80th Flying Training Wing, 1911 J. Ave. Ste 6, Sheppard AFB, TX 76311-2056 DSN 7	90 FTS/DOTOD, Sheppard AFB, TX 76311 DSN 736-2675/4995, C940-676-2675/4995.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri, OT by NOTAM	200507
+VR1142	80th Flying Training Wing, 1911 J. Ave. Ste 6, Sheppard AFB, TX 76311-2056 DSN 7	90 FTS/DOTOD, Sheppard AFB, TX 76311 DSN 736-2675/4995, C940-676-2675/4995.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri, OT by NOTAM	200507
+VR1143	80th Flying Training Wing, 1911 J. Ave. Ste 6, Sheppard AFB, TX 76311-2056 DSN 7	90 FTS/DOTOD, Sheppard AFB, TX 76311 DSN 736-2675/4995, C940-676-2675/4995.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri, OT by NOTAM	200507
+VR1144	80th Flying Training Wing, 1911 J. Ave. Ste 6, Sheppard AFB, TX 76311-2056 DSN 7	90 FTS/DOTOD, Sheppard AFB, TX 76311 DSN 736-2675/4995, C940-676-2675/4995.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri, OT by NOTAM	200507
+VR1145	80th Flying Training Wing, 1911 J. Ave. Ste 6, Sheppard AFB, TX 76311-2056 DSN 7	90 FTS/DOTOD, Sheppard AFB, TX 76311 DSN 736-2675/4995, C940-676-2675/4995.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri, OT by NOTAM	200507
+VR1146	80th Flying Training Wing, 1911 J. Ave. Ste 6, Sheppard AFB, TX 76311-2056 DSN 7	90 FTS/DOTOD, Sheppard AFB, TX 76311 DSN 736-2675/4995, C940-676-2675/4995.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri, OT by NOTAM	200507
+VR1175	OC-ALC/10 Flight Test Sqdn, 4805 West Dr, Tinker AFB, OK 73145-3300 DSN 336-7719	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200402
+VR1176	OC-ALC/10 Flight Test Sqdn, 4805 West Dr, Tinker AFB, OK 73145-3300 DSN 336-7719	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200402
+VR118	301 OG/SUA, NAS JRB, Fort Worth, TX 76127 DSN 739-6903/04/05, C817-782-6903/04/0	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Sat	200402
+VR1182	188 FW/XP, 4850 Leigh Ave., Fort Smith, AR 72903-6096 DSN 778-5185/5271.	Same as Originating Activity. Route scheduled no more than 24 hr in advance. Min	KZ	US	WGE	WGE	Continuous	200305
+VR119	71 FTW/OSOP, Vance AFB, OK 73705-5202 DSN 448-7850, C580-213-7850.	32 FTS/DOOT, Vance AFB, OK 73705-5202 DSN 448-6251, C580-213-6251.	KZ	US	WGE	WGE	Sunrise-Sunset daily	200507
+VR1195	150 FW OG/CC, 2251 Air Guard Rd. SE, Kirtland AFB, NM 87117-5875 DSN 246-7426.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-2200 local daily	200009
+VR1196	ANG CRTC-Gulfport/OSA, 4715 Hewes Ave, Gulfport, MS 39507-4324 DSN 363-6027, C22	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200107
+VR1205	COMMANDER AFFTC, 412 OSS/OSAA, 235 E. Flightline Rd., Edwards AFB, CA 93523-6460	COMMANDER AFFTC, 412 OSS/OSR, 300 E. Yeager Blvd., Edwards AFB, CA 93524 DSN 527	KZ	US	WGE	WGE	Continuous	200607
+VR1206	COMMANDER AFFTC, 412 OSS/OSAA, 235 S. Flightline Rd, Edwards AFB, CA 93523-6460	COMMANDER AFFTC, 412 OSS/OSR, 300 E. Yeager Blvd, Edwards AFB, CA 93524 DSN 527-	KZ	US	WGE	WGE	Continuous	200607
+VR1211	452 OSS/DOT, March Fld, CA 92518 DSN 447-3846, C909-655-3846.	452 OSS/DOT, March Fld, CA 92518 DSN 447-4404/2422, C909-655-4404/2422.	KZ	US	WGE	WGE	Continuous	200204
+VR1214	COMMANDER AFFTC, 412 OSS/OSAA, 235 S. Flightline Rd, Edwards AFB, CA 93523-6460	COMMANDER AFFTC, 412 OSS/OSR, 300 E. Yeager Blvd, Edwards AFB, CA 93524 DSN 527-	KZ	US	WGE	WGE	Continuous	200607
+VR1215	COMMANDER AFFTC, 412 OSS/OSAA, 235 S. Flightline Rd, Edwards AFB, CA 93523-6460	COMMANDER AFFTC, 412 OSS/OSR, 300 E. Yeager Blvd, Edwards AFB, CA 93524 DSN 527-	KZ	US	WGE	WGE	Sunrise-Sunset daily	200607
+VR1217	COMMANDER AFFTC, 412 OSS/OSAA, 235 S. Flightline Rd, Edwards AFB ,CA 93523-6460	COMMANDER AFFTC, 412 OSS/OSR, 300 E. Yeager Blvd, Edwards AFB, CA 93524 DSN 527-	KA	US	WGE	WGE	Sunrise-Sunset daily	200607
+VR1218	COMMANDER AFFTC, 412 OSS/OSAA, 235 S. Flightline Rd, Edwards AFB, CA 93523-6460	COMMANDER AFFTC, 412 OSS/OSR, 300 E. Yeager Blvd, Edwards AFB, CA 93524 DSN 527-	KZ	US	WGE	WGE	Sunrise-Sunset daily	200607
+VR1233	355 OSS/OSOA, 3895 S. 6th St. Suite 200, Davis-Monthan AFB, AZ 85707 DSN 228-468	355 OSS/OSOSO, Davis-Monthan AFB, AZ 85707-4932, 0730-1630 local Mon- Fri, same	KZ	US	WGE	WGE	1300-0530Z	200513
+VR125	27 OSS/OSOH, 110 E Sextant Ave, Suite 1081, Cannon AFB, NM 88103 DSN 681-2279.	27 OSS/OSOS, 110 E Sextant Ave, Suite 1080, Cannon AFB, NM 88103 DSN 681-2276.	KZ	US	WGE	WGE	Continuous	200009
+VR1250	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR1251	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR1252	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR1253	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR1254	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR1255	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR1256	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR1257	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, Rm 121, NAS Le	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200009
+VR1259	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR1260	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR1261	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR1262	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR1264	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR1265	G-3, 3D MAW, MCAS Miramar, San Diego, CA 92145 DSN 267-9462, C858-577-9462. Non-	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+VR1266	Commanding Officer, Yuma MCAS, Box 99160 Yuma, AZ 85369-9160 DSN 269-2326/2077,	Same as Originating Activity	KZ	US	WGE	WGE	0700-1800 local (daylight hours)	200206
+VR1267	Commanding Officer, Yuma MCAS, Box 99160 Yuma, AZ 85369-9160 DSN 269-2326/2077,	Same as Originating Activity	KZ	US	WGE	WGE	0700-1800 local	200206
+VR1267A	Commanding Officer, Yuma MCAS, Box 99160 Yuma, AZ 85369-9160 DSN 269-2326/2077,	Same as Originating Activity	KZ	US	WGE	WGE	0700-1800 local	200206
+VR1268	Commanding Officer, Yuma MCAS, Box 99160 Yuma, AZ 85369-9160 DSN 269-2326/2077,	Same as Originating Activity	KZ	US	WGE	WGE	0700-1800 local	200206
+VR1293	COMMANDER AFFTC, 412 OSS/OSAA, 235 S. Flightline Rd, Edwards AFB, CA 93523-6460	COMMANDER AFFTC, 412 OSS/OSR, 300 E. Yeager Blvd, Edwards AFB, CA 93524 DSN 527-	KZ	US	WGE	WGE	Continuous	200607
+VR1300	124 WG/OGAM (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5310, C208-	124 WG/OSS (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5348, C208-4	KZ	US	WGE	WGE	Continuous or by NOTAM	200007
+VR1301	124 WG/OGAM (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5310, C208-	124 WG/OSS (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5348, C208-4	KA	US	WGE	WGE	Continuous	199910
+VR1302	124 WG/OGAM (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5310, C208-	124 WG/OSS (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5348, C208-4	KZ	US	WGE	WGE	Continuous	199910
+VR1303	124 WG/OGAM (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5310, C208-	124 WG/OSS (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5348, C208-4	KZ	US	WGE	WGE	Continuous or by NOTAM	200007
+VR1304	124 WG/OGAM (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5310, C208-	124 WG/OSS (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5348, C208-4	KZ	US	WGE	WGE	Continuous or by NOTAM	200007
+VR1305	124 WG/OGAM (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5310, C208-	124 WG/OSS (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5348, C208-4	KZ	US	WGE	WGE	Continuous or by NOTAM	200007
+VR1350	Commanding Officer (N38), NAS Whidbey Island, 3730 N. Charles Porter Ave, Oak Ha	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200507
+VR1351	Commanding Officer (N38), NAS Whidbey Island, 3730 N. Charles Porter Ave, Oak Ha	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200507
+VR1352	Commanding Officer (N38), NAS Whidbey Island, 3730 N. Charles Porter Ave, Oak Ha	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200507
+VR1353	Commanding Officer (N38), NAS Whidbey Island, 3730 N. Charles Porter Ave, Oak Ha	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200507
+VR1354	Commanding Officer (N38), NAS Whidbey Island, 3730 N. Charles Porter Ave, Oak Ha	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200507
+VR1355	Commanding Officer (N38), NAS Whidbey Island, 3730 N. Charles Porter Ave, Oak Ha	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200507
+VR138	184 ARW (Kansas ANG), McConnell AFB, KS 67221-9010 (1330-2215Z wkd, scheduling r	Same as Originating Activity	KZ	US	WGE	WGE	0700-2100 local daily	200313
+VR140	12 OSS/OSOA, Randolph AFB, TX 78150-5000 DSN 487-5580, C210-652-5580.	560 FTS, Randolph AFB, TX 78150 DSN 487-3518, C210-652-3518.	KZ	US	WGE	WGE	Sunrise-Sunset, daily	200208
+VR142	12 OSS/OSOA, Randolph AFB, TX 78150 DSN 487-5580, C210-652-5580.	99 FTS, Randolph AFB, TX 78150 DSN 487-6746, C210-652-6746.	KZ	US	WGE	WGE	Sunrise-Sunset, daily	200107
+VR1422	388 RANS/RST, 6606 Cedar Lane, Hill AFB, UT 84056-5812, DSN 777-9384, C801-777-9	Same as Originating Activity.	KZ	US	WGE	WGE	0700-2400 lcl Mon-Thurs, 0700-1800 lcl Fri, 0800-1700 lcl Sat	200610
+VR1423	388 RANS/RST, 6606 Cedar Lane, Hill AFB, UT 84056-5812, DSN 777-9384, C801-777-9	Same as Originating Activity.	KZ	US	WGE	WGE	0700-2400 lcl Mon-Thurs, 0700-1800 lcl Fri, 0800-1700 lcl Sat	200610
+VR1427	140th Wing /DOT, Buckley ANGB, Aurora, CO 80011-9546 DSN 847-9466, C303-340-9470	140th Wing /DOT, Buckley ANGB, Aurora, CO 80011-9546 DSN 847-9472, C720-847-9472	KZ	US	WGE	WGE	0800-1600 local Tue-Sat, OT by NOTAM	200408
+VR143	301 OG/SUA, NAS JRB, Fort Worth, TX 76127 DSN 739-6903/04/05, C817-782-6903/04/0	Same as Originating Activity	KZ	US	WGE	WGE	0700-2200 local	200109
+VR1445	388 RANS/RST, 6606 Cedar Lane, Hill AFB, UT 84056-5812, DSN 777-9384, C801-777-9	Same as Originating Activity.	KZ	US	WGE	WGE	0700-2400 lcl Mon-Thurs, 0700-1800 lcl Fri, 0800-1700 lcl Sat	200610
+VR1446	388 RANS/RST, 6606 Cedar Lane, Hill AFB, UT 84056-5812, DSN 777-9384, C801-777-9	Same as Originating Activity.	KZ	US	WGE	WGE	0700-2400 lcl Mon-Thurs, 0700-1800 lcl Fri, 0800-1700 lcl Sat	200610
+VR151	COMTRAWING TWO, NAS Kingsville, TX 78363 DSN 876-6518, C361-516-6518.	Same as Originating Activity. Scheduling hrs-0800-1600 local Mon-Fri ONLY (exclu	KX	US	WGE	WGE	Daily 0600-2200 local	200602
+VR152	184 ARW (Kansas ANG), McConnell AFB,KS 67221-9010 (1330-2215Z wkd, sked rqr 2 hr	Same as Originating Activity	KZ	US	WGE	WGE	0600-2200 local	200401
+VR1520	114 FW (ANG), Joe Foss Field, Sioux Falls, SD 57104-0264 DSN 798-7745/7746, C605	Same as Originating Activity.	KZ	US	WGE	WGE	Daylight hours, Mon-Sat, OT By NOTAM	200602
+VR1521	114 FW (ANG), Joe Foss Field, Sioux Falls, SD 57104-0264 DSN 798-7745/7746, C605	Same as Originating Activity.	KZ	US	WGE	WGE	Daylight hours, Mon-Sat, OT by NOTAM	200602
+VR1525	509 OSS/OSKA, 905 Spirit Blvd, Whiteman AFB, MO 65305 DSN 975-2371, C660-687-237	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset Tue-Sun	200606
+VR1546	188 FW/XP, 4850 Leigh Ave., Fort Smith, AR 72903-6096 DSN 778-5185/5271.	Same as Originating Activity. Route scheduled no more than 24 hr in advance. Min	KZ	US	WGE	WGE	Continuous (except Sunday 1000-1200 local)	200305
+VR156	149 FTR GP (TX-ANG), Kelly AFB, TX 78241 DSN 945-5934, C210-925-5934.	Same as Originating Activity	KZ	US	WGE	WGE	0800-1830 local daily, Prior coordination required for Sun-Mon operations	200311
+VR158	80th Flying Training Wing, 1911 J. Ave. STE 6, Sheppard AFB, TX 76311-2056 DSN 7	90 FTS/DOTOD, Sheppard AFB, TX 76311 DSN 736-2675/4995, C940-676-2675/4995.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri; OT by NOTAM	200507
+VR159	80th Flying Training Wing, 1911 J. Ave. STE 6, Sheppard AFB, TX 76311-2056 DSN 7	90 FTS/DOTOD, Sheppard AFB, TX 76311 DSN 736-2675/4995, C940-676-2675/4995.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri, OT by NOTAM	200507
+VR1616	ANG CRTC, Camp Douglas, WI 54618-5001 DSN 871-1445 C608-427-1445.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise to Sunset Mon-Sat, OT by NOTAM	200408
+VR1617	180th TFG/DO (ANG), Toledo Express Airport, Swanton, OH 43558 DSN 580-4084.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-2100 local	200009
+VR162	80th Flying Training Wing, 1911 J. Ave. STE 6, Sheppard AFB, TX 76311-2056 DSN73	90 FTS/DOTOD, Sheppard AFB, TX 76311 DSN 736-2675/4995, C817-676-2675/4995.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri, OT by NOTAM	200507
+VR1624	127th OG/CC, Selfridge ANGB, MI 48045-5029 DSN 273-5055.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200610
+VR1625	127th OG/CC, Selfridge ANGB, MI 48045-5029 DSN 273-5055.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200610
+VR1626	127th OG/CC, Selfridge ANGB, MI 48045-5029 DSN 273-5055/5719.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200610
+VR1627	127th OG/CC, Selfridge ANGB, MI 48045-5029 DSN 273-5055.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200610
+VR1628	127th OG/CC, Selfridge ANGB, MI 48045-5029 DSN 273-5055.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200610
+VR1629	127th OG/CC, Selfridge ANGB, MI 48045 DSN 273-5055/5719.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200610
+VR163	80th Flying Training Wing, 1911 J. Ave. STE 6, Sheppard AFB, TX 76311-2056 DSN 7	90 FTS/DOTOD, Sheppard AFB, TX 76311 DSN 736-2675/4995, C940-676-2675/4995.	KZ	US	WGE	WGE	Sunrise-Sunset Mon-Fri, OT by NOTAM	200507
+VR1631	123 ACS, Blue Ash, OH 45242 DSN 340-2950, C513-936-2950.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200404
+VR1632	123 ACS, Blue Ash, OH 45242 DSN 340-2950, C513-936-2950.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200404
+VR1633	123 ACS, Blue Ash, OH 45242 DSN 340-2950, C513-936-2950.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200404
+VR1635	183 FW/OSF, Capital Airport, Springfield, IL 62707 DSN 892-8202.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset only	200402
+VR1636	Alpena CRTC/OTM (ANG), 5884 A. Street, Alpena, MI 49707-8125 DSN 741-3509/3226.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR1638	180TH TFG/DO, Toledo Express Airport, Swanton, OH 43558 DSN 580-4084.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-2100 local	200009
+VR1639	127th OG/CC, Selfridge ANGB, MI 48045 DSN 273-5055.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200610
+VR1640	122 FW, Ft. Wayne IAP, IN 46809-0122 DSN 786-1202.	Same as Originating Activity	KZ	US	WGE	WGE	1300-0300Z++ daily	200009
+VR1641	122 FW, Ft. Wayne IAP, IN 46809-0122 DSN 786-1202.	Same as Originating Activity	KZ	US	WGE	WGE	1300-0300Z++ daily	200009
+VR1642	122 FW, Ft. Wayne IAP, IN 46809-0122 DSN 786-1202.	Same as Originating Activity	KZ	US	WGE	WGE	1300-0100Z++ daily	200009
+VR1644	127TH OG/CC, Selfridge ANGB, MI 48045-5029 DSN 273-5055.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200610
+VR1645	127TH OG/CC, Selfridge ANGB, MI 48045-5029 DSN 273-5055.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200610
+VR1647	127TH OG/CC, Selfridge ANGB, MI 48045-5029 DSN 273-5055.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200610
+VR1648	127TH OG/CC, Selfridge ANGB, MI 48045-5029 DSN 273-5055.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200610
+VR1650	ANG CRTC, Camp Douglas, WI 54618-5001 DSN 871-1445 C608-427-1445.	Same as Originating Activity	KZ	US	WGE	WGE	0730 local-Sunset Tue-Sat, OT by NOTAM	200408
+VR1666	Alpena CRTC/OTM (ANG), 5884 A. Street, Alpena, MI 49707-8125 DSN 741-3509/3226.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200009
+VR1667	180 TFG/DO, Toledo Express Airport, Swanton, OH 43558 DSN 580-4084.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise - 0200Z++	200009
+VR1668	180 TFG/DO, Toledo Express Airport, Swanton, OH 43558 DSN 580-4084.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-2100 local	200009
+VR1679	181st TFG (ANG), Hulman Regional, Terre Haute, IN 47803 DSN 724-1234.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset Tue-Sun, OT by NOTAM	200402
+VR168	COMTRAWING TWO, NAS Kingsville, TX 78363 DSN 876-6518, C361-516-6518.	Same as Originating Activity. Scheduling hrs-0800-1600 local Mon-Fri ONLY (exclu	KZ	US	WGE	WGE	0600-2400 local daily	200602
+VR1709	177th FW/Det 1 (ANG), Atlantic City ANGB, NJ 08234-9500 DSN 455-6707. E-mail wgr	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset daily	200402
+VR1711	113 WG, Andrews AFB, MD 20331 DSN 857-3307/08, C240-857-3307/3308/4190.	Same as Originating Activity	KZ	US	WGE	WGE	0730 local-Sunset daily	200406
+VR1712	113 WG, Andrews AFB, MD 20331 DSN 857-3307/08, C240-857-3307/3308/4190.	Same as Originating Activity	KZ	US	WGE	WGE	0730 local-Sunset daily	200406
+VR1713	113 WG, Andrews AFB, MD 20331 DSN 857-3307/08, C240-857-3307/3308/4190.	Same as Originating Activity	KZ	US	WGE	WGE	0730 local-Sunset daily	200406
+VR1721	20 OSS/OSTA, Shaw AFB, SC 29152 DSN 965-1121/1122, C803-895-1121/1122, Fax DSN 9	20 OSS/OSOS, Shaw AFB, SC 29152-5000 DSN 965-1118/1119, C803-895-1118, Fax DSN 9	KZ	US	WGE	WGE	Continuous	200011
+VR1722	192nd FG (ANG), Byrd Intl, Richmond, VA 23150 DSN 864-6411/6410.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200402
+VR1726	20 OSS/OSTA, Shaw AFB, SC 29152 DSN 965-1121/1122, C803-895-1121/1122, Fax DSN 9	20 OSS/OSOS, Shaw AFB, SC 29152-5000 DSN 965-1118/1119, C803-895-1118, Fax DSN 9	KZ	US	WGE	WGE	Continuous	200011
+VR1743	20 OSS/OSTA, Shaw AFB, SC 29152 DSN 965-1121/1122, C803-895-1121/1122, Fax DSN 9	20 OSS/OSOS, Shaw AFB, SC 29152-5000 DSN 965-1118/1119, C803-895-1118, Fax DSN 9	KZ	US	WGE	WGE	Continuous	200011
+VR1753	COMSTRKFIGHTWINGLANT NAS Oceana, Virginia Beach, VA 23460-5200 DSN 433-4013, C75	FACSFAC/VACAPES, NAS Oceana, Virginia Beach, VA 23460 DSN 433-1228 C757-433-1228	KZ	US	WGE	WGE	Continuous	200505
+VR1754	COMSTRKFIGHTWINGLANT NAS Oceana, Virginia Beach, VA 23460-5200 DSN 433-4013, C75	FACSFAC/VACAPES, NAS Oceana, Virginia Beach, VA 23460 DSN 433-1228 C757-433-1228	KZ	US	WGE	WGE	Continuous	200505
+VR1755	COMSTRKFIGHTWINGLANT, NAS Oceana, Virginia Beach, VA 23460-5200 DSN 433-4013, C7	FACSFAC/VACAPES, NAS Oceana, Virginia Beach, VA 23460 DSN 433-1228 C757-433-1228	KZ	US	WGE	WGE	Continuous	200505
+VR1756	COMSTRKFIGHTWINGLANT, NAS Oceana, Virginia Beach, VA 23460-5200 DSN 433-4013, C7	FACSFAC/VACAPES, NAS Oceana, Virginia Beach, VA 23460 DSN 433-1228 C757-433-1228	KZ	US	WGE	WGE	Continuous	200505
+VR1757	COMSTRKFIGHTWINGLANT, NAS Oceana, Virginia Beach, VA 23460-5200 DSN 433-4013, C7	FACSFAC/VACAPES, NAS Oceana, Virginia Beach, VA 23460 DSN 433-1228 C757-433-1228	KZ	US	WGE	WGE	Continuous	200505
+VR1759	COMSTRKFIGHTWINGLANT, NAS Oceana, Virginia Beach, VA 23460-5200 DSN 433-4013, C7	FACSFAC/VACAPES, NAS Oceana, Virginia Beach, VA 23460 DSN 433-1228, C757-433-122	KZ	US	WGE	WGE	Continuous	200505
+VR176	150 FW OG/CC 2251, Air Guard Rd. SE, Kirtland AFB, NM 87117-5875 DSN 246-7426.	Same as Originating Activity	KZ	US	WGE	WGE	Normally 1500-2400Z++ daily, usage between 2400-1500Z++ is available	200010
+VR179	ANG CRTC-Gulfport/OSA, 4715 Hewes Ave, Gulfport, MS 39507-4324 DSN 363-6027, C22	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200107
+VR1800	174th FW, 6001 E. Molloy Rd, Syracuse, NY 13211-7099 DSN 489-9217.	174th FW, Det. 1, Ft. Drum, NY 13608 DSN 772-5990/2835 C315-772-5990.	KZ	US	WGE	WGE	0800 local-Sunset daily	200406
+VR1801	174th FW, 6001 E. Molloy Rd, Syracuse, NY 13211-7099 DSN 489-9217.	174th FW, Det. 1, Ft. Drum, NY 13608 DSN 772-5990/2835, C315-772-5990.	KZ	US	WGE	WGE	0800 local-Sunset daily	200406
+VR186	301 OG/SUA, NAS JRB, Fort Worth, TX 76127 DSN 739-6903/04/05, C817-782-6903/04/0	Same as Originating Activity	KZ	US	WGE	WGE	0700-2200 local	200109
+VR187	2 OSS/OSTP, 41 Orville Wright Ave., Suite 215, Barksdale AFB, LA 71110-2085 DSN	2 OSS/OSOSB, 41 Orville Wright Ave., Barksdale AFB, LA 71110 DSN 781-3828/5396 C	KZ	US	WGE	WGE	0700-2200 local	200010
+VR188	2 OSS/OSTP, 41 Orville Wright Ave., Suite 215, Barksdale AFB, LA 71110-2085 DSN	2 OSS/OSOSB, 41 Orville Wright Ave., Barksdale AFB, LA 71110 DSN 781-3828/5396 C	KZ	US	WGE	WGE	0700-2200 local	200010
+VR189	188 FW/XP, 4850 Leigh Ave., Fort Smith, AR 72903-6096 DSN 778-5185/5271.	Same as Originating Activity. Route scheduled no more than 24 hr in advance. Min	KZ	US	WGE	WGE	Continuous	200305
+VR1900	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 C907-377-3005 DSN 317-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR1902	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	3 OSS/OSOS, Elmendorf AFB, AK 99506 DSN 317-552-2406 C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR1905	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	3 OSS/OSOS, Elmendorf AFB, AK 99506 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR1909	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 C907-377-3005 DSN 317-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR1912	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	3 OSS/OSOS, Elmendorf AFB, AK 99506 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR1915	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	3 OSS/OSOS, Elmendorf AFB, AK 99506 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR1916	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR1926	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR1927	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR1928	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR1929	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR1939	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR196	47 OSS/OSOR, 570 2nd St., Ste 6, Laughlin AFB, TX 78843-5222 DSN 732-5864, C830-	86 FTS/DOS, 80 Rio Lobo Ln, Laughlin AFB, TX 78843 DSN 732-5584, C830-298-5584.	KZ	US	WGE	WGE	Sunrise-Sunset daily	200402
+VR197	47 OSS/OSOR, 570 2nd St., Ste 6, Laughlin AFB, TX 78843-5222 DSN 732-5864, C830-	86 FTS/DOS, 80 Rio Lobo Ln, Laughlin AFB, TX 78843 DSN 732-5584, C830-298-5584.	KZ	US	WGE	WGE	Sunrise-Sunset daily	200402
+VR198	97 OSS/DOA, 400 N. 6th St., Ste. A, Altus AFB, OK 73521 DSN 866-6098, C580-481-6	Same as Originating Activity	KZ	US	WGE	WGE	0600-0300 local, Mon-Fri, OT by NOTAM	200511
+VR199	97 OSS/DOA, 400 N. 6th St., Ste. A, Altus AFB, OK 73521 DSN 866-6098, C580-481-6	Same as Originating Activity	KZ	US	WGE	WGE	0600-0300 local, Mon-Fri, OT by NOTAM	200511
+VR201	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR202	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR208	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	0800-1630 local	200013
+VR209	Commander, Strike Fighter Wing, U.S. Pacific Fleet, 001 K Street, NAS Lemoore, C	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours, OT by NOTAM	200013
+VR222	57 OSS/OSM, Nellis AFB, NV 89191-6067 DSN 682-7891, C702-652-7891.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200606
+VR223	56 RMO/ASM, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-5855, C623-856-	56 RMO/ASMS, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-7654, C623-856	KZ	US	WGE	WGE	0600-2400 Mon-Fri local, Wkend/hol when sked with Goldwater Rng/Sell MOA Msn	200606
+VR231	56 RMO/ASM, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-5855, C623-856-	56 RMO/ASMS, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-7654, C623-856	KZ	US	WGE	WGE	0600-2400 Mon-Fri local, Wkend/hol when sked with Goldwater Rng/Sell MOA Msn	200606
+VR239	56 RMO/ASM, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-5855, C623-856-	56 RMO/ASMS, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-7654, C623-856	KZ	US	WGE	WGE	0600-2400 Mon-Fri local, Wkend/hol when sked with Goldwater Rng/Sell MOA Msn	200606
+VR241	56 RMO/ASM, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-5855, C623-856-	56 RMO/ASMS, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-7654, C623-856	KZ	US	WGE	WGE	0600-2400 Mon-Fri local, Wkend/hol when sked with Goldwater Rng/Sell MOA Msn	200606
+VR242	56 RMO/ASM, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-5855, C623-856-	56 RMO/ASMS, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-7654, C623-856	KZ	US	WGE	WGE	0600-2400 Mon-Fri local, Wkend/hol when sked with Goldwater Rng/Sell MOA Msn	200606
+VR243	56 RMO/ASM, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-5855, C623-856-	56 RMO/ASMS, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-7654, C623-856	KZ	US	WGE	WGE	0600-2400 Mon-Fri local, Wkend/hol when sked with Goldwater Rng/Sell MOA Msn	200606
+VR244	56 RMO/ASM, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-5855, C623-856-	56 RMO/ASMS, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-7654, C623-856	KZ	US	WGE	WGE	0600-2400 Mon-Fri local, Wkend/hol when sked with Goldwater Rng/Sell MOA Msn	200606
+VR245	56 RMO/ASM, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-5855, C623-856-	56 RMO/ASMS, 7224 N. 139th Drive, Luke AFB, AZ 85309-1420 DSN 896-7654, C623-856	KZ	US	WGE	WGE	0600-2400 Mon-Fri local, Wkend/hol when sked with Goldwater Rng/Sell MOA Msn	200606
+VR249	G-3, 3D MAW, MCAS Miramar, San Diego, CA 92145 DSN 267-9462, C858-577-9462. Non-	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200406
+VR259	355 OSS/OSOA, 3895 S. 6th St. Suite 200, Davis-Monthan AFB, AZ 85707-4932 DSN 22	355 OSS/OSOSO, Davis-Monthan AFB, AZ 85707 0730-1630 local Mon-Fri, same day onl	KZ	US	WGE	WGE	1300-0530Z++	200513
+VR260	355 OSS/OSOA, 3895 S. 6th St. Suite 200, Davis-Monthan AFB, AZ 85707 DSN 228-468	355 OSS/OSOSO, Davis-Monthan AFB, AZ 85707 0730-1630 local Mon-Fri, same day onl	KZ	US	WGE	WGE	1300-0530Z++	200513
+VR263	162 FW/OGC, 1660 E. El Tigre Way, Tucson, AZ, 85706-6086 DSN 844-6371 C520-295-6	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200511
+VR267	355 OSS/OSOA, 3895 S. 6th St. Suite 200, Davis-Monthan AFB, AZ 85707 DSN 228-468	355 OSS/OSOSO, Davis-Monthan AFB, AZ 85707 0730-1630 local Mon-Fri, same day onl	KZ	US	WGE	WGE	1300-0530Z	200513
+VR268	355 OSS/OSOA, 3895 S. 6th St. Suite 200, Davis-Monthan AFB, AZ 85707 DSN 228-468	355 OSS/OSOSO, Davis-Monthan AFB, AZ 85707 0730-1630 local Mon-Fri, same day onl	KZ	US	WGE	WGE	1300-0530Z++	200513
+VR269	355 OSS/OSOA, 3895 S. 6th St. Suite 200, Davis-Monthan AFB, AZ 85707 DSN 228-468	355 OSS/OSOSO, Davis-Monthan AFB, AZ 85707 0730-1630 local Mon-Fri, same day onl	KZ	US	WGE	WGE	1300-0530Z++	200513
+VR288	452 OSS/OSK, March ARB, CA 92518 DSN 447-4376, C909-655-4376.	452 OSS/OSAA, March ARB, CA 92518 DSN 447-4404/2422, C909-655-4404/2422.	KZ	US	WGE	WGE	Continuous	200210
+VR289	452 OSS/OSK, March ARB, CA 92518 DSN 447-4376, C909-655-4376.	452 OSS/OSAA, March ARB, CA 92518 DSN 447-4404/2422, C909-655-4404/2422.	KZ	US	WGE	WGE	Continuous	200210
+VR296	452 OSS/OSK, March ARB, CA 92518 DSN 447-4376, C909-655-4376.	452 OSS/OSAA, March ARB, CA 92518 DSN 447-4404/2422, C909-655-4404/2422.	KZ	US	WGE	WGE	Continuous	200210
+VR299	452 OSS/DOT, March Fld, CA 92518 DSN 447-3846, C909-655-3846.	452 OSS/DOT, March Fld, CA 92518 DSN 447-4404/2422, C909-655-4404/2422.	KZ	US	WGE	WGE	Continuous	200204
+VR316	124 WG/OGAM (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5310, C208-	124 WG/OSS (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5348, C208-4	KZ	US	WGE	WGE	Continuous or by NOTAM	200007
+VR319	124 WG/OGAM (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5310, C208-	124 WG/OSS (ANG), 3996 W. Aeronca St., Boise, ID 83705-8004 DSN 422-5348, C208-4	KZ	US	WGE	WGE	Continuous or by NOTAM	200007
+VR331	62 OSS/OSK, 1172 E Street, McChord AFB, WA 98438 DSN 382-4057, C253-982-4057.	62 OSS/OSO, 100 Main St., McChord AFB, WA 98438 DSN 382-9925, C253-982-9925. Dut	KZ	US	WGE	WGE	Continuous	200408
+VR410	140th Wing /Airspace Office, Buckley AFB, Aurora Co, 80011-9546 DSN 847-9470/947	Same as Originating Activity.	KZ	US	WGE	WGE	0800-1600 local Tue-Sat, OT by NOTAM	200602
+VR411	140th Wing /Airspace Office, Buckley AFB, Aurora Co, 80011-9546 DSN 847-9470/947	Same as Originating Activity.	KZ	US	WGE	WGE	0800-1600 local Tue-Sat, OT by NOTAM	200602
+VR413	140th Wing /Airspace Office, Buckley AFB, Aurora Co, 80011-9546 DSN 847-9470/947	Same as Originating Activity.	KZ	US	WGE	WGE	0800-1600 local Tue-Sat, OT by NOTAM	200602
+VR510	114 FW (ANG), Joe Foss Field, Sioux Falls, SD 57104-0264 DSN 798-7754/7746, C605	Same as Originating Activity	KZ	US	WGE	WGE	Daylight Hours Tue-Sat, OT by NOTAM	200602
+VR511	132 FW OG/CC (ANG), 3100 McKinley Ave, Des Moines, IA 50321-2799 DSN 256-8250 C5	Same as Originating Activity	KZ	US	WGE	WGE	By NOTAM, (2 hr prior notification required)	200608
+VR512	132 FW OG/CC (ANG), 3100 McKinley Ave, Des Moines, IA 50321-2799 DSN 256-8250 C5	Same as Originating Activity	KZ	US	WGE	WGE	By NOTAM, 2hr prior notification required	200608
+VR531	184 ARW (Kansas ANG), McConnell AFB,KS 67221-9010 (1330-2215Z wkd, sked rqr 2 hr	Same as Originating Activity	KZ	US	WGE	WGE	0700-1730 local daily	200401
+VR532	184 ARW (Kansas ANG),McConnell AFB, KS 67221-9010 (1330-2215Z wkd, sked rqr 2 hr	Same as Originating Activity	KZ	US	WGE	WGE	0700-1700 local daily	200313
+VR533	184 ARW (Kansas ANG),McConnell AFB, KS 67221-9010 (1330-2215Z wkd, sked rqr 2 hr	Same as Originating Activity	KZ	US	WGE	WGE	0700-2200 local daily	200313
+VR534	184 ARW (Kansas ANG),McConnell AFB, KS 67221-9010 (1330-2215Z wkd, sked rqr 2 hr	Same as Originating Activity	KZ	US	WGE	WGE	0730-2000 local daily	200313
+VR535	184 ARW (Kansas ANG),McConnell AFB, KS 67221-9010 (1330-2215Z wkd, sked rqr 2 hr	Same as Originating Activity	KZ	US	WGE	WGE	0700-1900 local daily	200313
+VR536	184 ARW (Kansas ANG),McConnell AFB, KS 67221-9010 (1330-2215Z wkd, sked rqr 2 hr	Same as Originating Activity	KZ	US	WGE	WGE	0700-1700 local daily	200313
+VR540	132 FW OG/CC (ANG), 3100 McKinley Ave, Des Moines, IA 50321-2799 DSN 256-8250 C5	Same as Originating Activity	KZ	US	WGE	WGE	By NOTAM, 2 hr prior notification required	200608
+VR541	132 FW OG/CC (ANG), 3100 McKinley Ave, Des Moines, IA 50321-2799 DSN 256-8250 C5	Same as Originating Activity	KZ	US	WGE	WGE	By NOTAM, 2 hr prior notification required	200608
+VR544	114 FW (ANG), Joe Foss Field, Sioux Falls, SD 57104-0264 DSN 798-7754/7746, C605	Same as Originating Activity	KZ	US	WGE	WGE	By NOTAM, 2 hours and 15 minutes prior to entry time required	200602
+VR545	114 FW (ANG), Joe Foss Field, Sioux Falls, SD 57104-0264 DSN 798-7754/7746, C605	Same as Originating Activity	KZ	US	WGE	WGE	By NOTAM, 2 hours and 15 minutes prior to entry time required	200602
+VR552	184 ARW (Kansas ANG),McConnell AFB, KS 67221-9010 (1330-2215Z wkd, sked rqr 2 hr	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset daily	200402
+VR604	148TH FIG (ANG), Duluth Intl, MN 55811 DSN 825-7265.	Same as Originating Activity	KZ	US	WGE	WGE	1400-0500Z++ daily, 0500-1400Z++ allowable	200010
+VR607	148TH FIG (ANG), Duluth Intl, MN 55811 DSN 825-7265.	Same as Originating Activity	KZ	US	WGE	WGE	1400-0500Z++ daily, 0500-1400Z++ allowable	200010
+VR615	183 FW/OSF, Capital Airport, Springfield, IL 62707 DSN 892-8202.	Same as Originating Activity	KZ	US	WGE	WGE	Daylight hours	200212
+VR619	181 TFG (ANG), Hulman Rigional Airport, Terre Haute, IN 47803 DSN 724-1234.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset Tue-Sun, OT by NOTAM	200009
+VR634	Alpena CRTC/OTM (ANG), 5884 A. Street, Alpena, MI 49707-8125 DSN 741-3509/3226.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200010
+VR664	Alpena CRTC/OTM (ANG), 5884 A. Street, Alpena, MI 49707-8125 DSN 741-3509/3226.	Same as Originating Activity	KZ	US	WGE	WGE	Continuous	200010
+VR704	DET 1, 193 SOG, 26139 Ammo Road, Annville, PA 17003-5180 C717-861-2475/2912 Toll	Same as Originating Activity	KZ	US	WGE	WGE	0800 local to Sunset daily	200402
+VR705	DET 1, 193 SOG, 26139 Ammo Road, Annville, PA 17003-5180 C717-861-2475/2912 Toll	Same as Originating Activity	KZ	US	WGE	WGE	0800 local-Sunset daily	200402
+VR707	DET 1, 193 SOG, 26139 Ammo Road, Annville, PA 17003-5180 C717-861-2475/2912 Toll	Same as Originating Activity	KZ	US	WGE	WGE	0800 local-Sunset daily	200402
+VR708	175 FG (ANG), Baltimore, MD 21220-2899 DSN 243-6375.	Same as Originating Activity	KZ	US	WGE	WGE	Sunrise-Sunset	200402
+VR724	174th FW, 6001 E. Molloy Rd, Syracuse, NY 13211-7099 DSN 489-9217.	174 FW, Det 1, Ft. Drum, NY 13608 DSN 772-5990/2835, C315-772-5990.	KZ	US	WGE	WGE	0800-Sunset daily, OT by NOTAM	200406
+VR725	174th FW, 6001 E. Molloy Rd, Syracuse, NY 13211-7099 DSN 489-9217.	174 FW, Det 1. Ft. Drum, NY 13608 DSN 772-5990/2835, C315-772-5990.	KZ	US	WGE	WGE	0800-Sunset daily, OT by NOTAM	200406
+VR840	104 FW, Barnes ANGB, Westfield, MA 01085-1482 DSN 698-1228/1229, C413-568-9151 e	Same as Originating Activity	KZ	US	WGE	WGE	0800 local-Sunset daily	200412
+VR841	104 FW, Barnes ANGB, Westfield, MA 01085-1482 DSN 698-1228/1229, C413-568-9151 e	Same as Originating Activity	KZ	US	WGE	WGE	0800 local-Sunset daily	200412
+VR842	104 FW, Barnes ANGB, Westfield, MA 01085-1482 DSN 698-1228/1229, C413-568-9151 e	Same as Originating Activity	KZ	US	WGE	WGE	0800 local-Sunset daily	200412
+VR931	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	3 OSS/OSOS, Elmendorf AFB, AK 99506 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR932	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	3 OSS/OSOS, Elmendorf AFB, AK 99506-2130 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR933	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	3 OSS/OSOS, Elmendorf AFB, AK 99506-2130 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR934	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	3 OSS/OSOS, Elmendorf AFB, AK 99506-2130 DSN 317-552-2406, C907-552-2406.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR935	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR936	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR937	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR938	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR940	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR941	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR954	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602
+VR955	611 AOG/CC, 9480 Pease Ave., Ste 102, Elmendorf AFB, AK 99506-2100 DSN 317-552-2	353 CTS/JSO, Eielson AFB, AK 99702 DSN 317-377-3005, C907-377-3005.	PA	US	WGE	WGE	Normal use 0800-2000 local Mon-Fri, Not available 2200-0700 local	200602

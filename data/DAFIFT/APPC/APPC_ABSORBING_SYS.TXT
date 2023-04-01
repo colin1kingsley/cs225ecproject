@@ -1,0 +1,73 @@
+AB_CODE	TYPE	DESCRIPTION
+AA	34B-1A	Rotary hydraulic (water brake).
+AB	TYPE	DESCRIPTION
+AB	34B-1B	Rotary hydraulic (water brake).
+AC	34B-1C	Rotary hydraulic (water brake).
+AD	44B-2C	Rotary hydraulic (water brake).
+AE	44B-2D	Rotary hydraulic (water brake).
+AF	44B-2E	Rotary hydraulic (water brake).
+AG	44B-2F	Rotary hydraulic (water brake).
+AH	44B-2H	Rotary hydraulic (water brake).
+AI	44B-2L	Rotary hydraulic (water brake).
+AJ	44B-2I	Rotary hydraulic (water brake).
+AK	44B-3L	Rotary hydraulic (water brake).
+AL	34D-1F	Rotary hydraulic (water brake).
+AN	44B-3A	Rotary hydraulic (water brake).
+AO	44B-3H	Rotary hydraulic (water brake).
+AP	44B-4C	Rotary hydraulic (water brake).
+AQ	44B-4E	Rotary hydraulic (water brake).
+AR	44B-4H	Rotary hydraulic (water brake).
+AS	500S	Rotary.
+AT	500S-4	Rotary.
+AU	500S-6	Rotary.
+AV	500S-8(TAG)	Bliss 500S-8 rotary friction energy absorber (transportable arresting gear)
+AW	500S-8	Rotary.
+BA	1300	Rotary hydraulic (water brake).
+BB	2800	Rotary hydraulic (water brake).
+BC	AAE-64	Rotary hydraulic (water brake).
+BD	BAK-6	Linear hydraulic (water squeezer).
+BE	BAK-9	Rotary friction.
+BF	BAK-12	Rotary friction.
+BG	BAK-13	Rotary hydraulic (water brake).
+BH	BEFAB 6:3	Pneumatic disc.
+BI	BEFAB 8:3	Pneumatic disc.
+BJ	BEFAB 12:3	Pneumatic disc brake.
+BN	BEFAB 20:4	Pneumatic disc brake.
+BO	BEFAB 21:2	Pneumatic disc.
+BP	BEFAB 24:4	Pneumatic disc.
+BQ	BEFAB 56:2	Pneumatic disc.
+BR	BEFAB 60:2	Pneumatic disc.
+BS	CHAG	Chain.
+BT	DUAL BAK-12	Rotary friction.
+BU	E5	Chain.
+BV	E5-1	Chain.
+BW	E5-2	Chain.
+CA	E5-3	Chain.
+CB	E6	Chain.
+CD	E15	Rotary friction.
+CE	E27	Rotary friction.
+CF	E28	Rotary hydraulic (water brake).
+CG	JET STOP	Rotary friction chain gear.
+CH	M21	USMC Expeditionary Rotary hydraulic (water brake).
+CI	MAAS	Trailer mounted BAK-12, (also called portarrest).
+CJ	MAG I	Mobile arresting gear, rotary hydraulic.
+CN	MAG II	Mobile arresting gear, rotary hydraulic.
+CO	MAG III	Mobile arresting gear, rotary hydraulic.
+CP	MAG IV	Mobile arresting gear, rotary hydraulic.
+CQ	MAG V	MOBILE ARRESTING GEAR, ROTARY HYDRAULIC
+CR	MAG VI	Mobile arresting gear, rotary hydraulic.
+CS	MAG VII	Mobile arresting gear, rotary hydraulic.
+CT	MAG VIII	Mobile arresting gear, rotary hydraulic.
+CU	MAG IX	Mobile arresting gear, rotary hydraulic.
+CV	MAG X	Mobile arresting gear, rotary hydraulic.
+CW	PAAG	Portable aircraft arresting gear (British).
+DA	PUAG MK-21	Rotary hydraulic (water brake).
+DC	RAF MK-12A	Pneumatic disc brake.
+DF	RAF MK-6	Pneumatic disc brake.
+DG	RAF TYPE A	BEFAB 6:3 (Pneumatic disc brake).
+DH	RAF TYPE B	BEFAB 12:3 (Pneumatic disc brake).
+DI	RHAG MK-1	Rotary hydraulic (water brake).
+DJ	SAFEBAR	(Safeland barrier) pneumatic disc brake.
+DN	SPRAG MK-1	Linear hydraulic (water squeezer).
+DO	UNK A-GEAR	Unknown type of energy absorber.
+

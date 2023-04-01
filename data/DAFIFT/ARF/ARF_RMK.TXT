@@ -1,0 +1,697 @@
+ARF_IDENT	DIRECTION	RMK_SEQ	ICAO	REMARKS	CYCLE_DATE
+ALPHA		1	LIRR	ALL REQUESTS SHALL BE FORWARDED TO EUCARF 14 DAYS IN ADVANCE. CONTACT EUCARF AT DSN 314-480-7065. VERTICAL LIMITS OF BELOW LISTED COORIDORS WILL BE AS DEPICTED.LATERAL LIMITS ARE 20 NM EXCEPT ALPHA CORRIDOR AND PORTION OF BRAVO CORRIDOR BE	200211
+ALPHA		2	LIRR	TWEEN 3851N 0956E AND BULAR WHICH ARE 10 NM WIDE. OPERATED ON A TACTICAL BASIS WITHOUT NOTAM PUBLICATION. THE BLOCK LEVELS DEPICTED CANNOT BE USED SIMULTANEOUSLY.	200211
+ANGIE	N	1	EDFF	For large scale NATO exercise use only. Note: Host defined Rendezvous Point, CLR058/39, N48 16.08' E08 13.29'. Anchor area protected up to 4NM outside of defined anchor pattern. Left hand racetrack, mag course 019/199, leg length 30NM, leg	200607
+ANGIE	N	2	EDFF	separation 14NM, refueling base altitude FL210.	200607
+AR1	E	1	KZLC	REMARKS: Simultaneous Opposite Direction Air Refueling Test (SODART) operations are authorized with AR2 under the DoD/FAA Operational Test Agreement.	200009
+AR10	NW	1	KZLC	SCHEDULING UNIT - (During non-duty hours, contact McChord Command Post DSN 382-2635, C253-982-2635) REMARKS: None	200204
+AR10	SE	1	KZSE	SCHEDULING UNIT - (During non-duty hours, contact McChord Command Post DSN 382-2635, C253-982-2635) REMARKS: None	200204
+AR101	N	1	KZME	REMARKS:	200205
+AR101	S	1	KZME	REMARKS:	200205
+AR102A	E	1	KZFW	REMARKS: Open for night-time use only: 0240-1200Z++.	200009
+AR102B		1	KZFW	REMARKS: Open for night-time use only: 0240-1200Z++. Restricted to a refueling block altitude of FL 270/FL 290 between 0240-0500Z++. Restricted for use to B-52 FTU aircraft and support tankers only. No simultaneous refueling with AR102A.	200008
+AR103		1	KZHU	REMARKS: To be used by Offutt based aircraft and support tankers only. Tanker Orbit Pattern: N29-48-00 W90-11-00 to N29-56-00 W89-43-00 to N30-54-00 W90-08-00 to N30-45-00 W90-35-00.	200010
+AR104	E	1	KZFW	REMARKS: SODAR Operations authorized with AR113 and AR114. (West) Track closed from 1700-1800Z++. Coordinate with NAS Fort Worth Operations/Brownwood MOA scheduling for use, DSN 739-7689.	200008
+AR104	W	1	KZFW	REMARKS: SODAR Operations authorized with AR113 and AR114. (West) Track closed from 1700-1800Z++. Coordinate with NAS Fort Worth Operations/Brownwood MOA scheduling for use, DSN 739-7689.	200008
+AR104M		1	KZFW	REMARKS: Air refueling authorized during the following hours only: 1600-1900Z++ (1000-1300 Central Time). Restricted for use to B-52 FTU aircraft and support tankers only. SODAR operations authorized with AR113 and AR114. No simultaneous re	200008
+AR104M		2	KZFW	fueling with AR104.	200008
+AR105	E	1	KZMP	REMARKS: When reversing track, right teardrop turns must be used. SODAR authorized. AR105 will be scheduled solely by the 55 SRW. 55 SRW aircraft will have priority for use of AR105.	200008
+AR105	W	1	KZMP	REMARKS: When reversing track, right teardrop turns must be used. SODAR authorized. AR105 will be scheduled solely by the 55 SRW. 55 SRW aircraft will have priority for use of AR105.	200008
+AR106H	E	1	KZMP	REMARKS: Simultaneous opposite direction aerial refueling (SODAR) operations areauthorized with AR106L.	200210
+AR106H	W	1	KZMP	REMARKS: Simultaneous opposite direction aerial refueling (SODAR) operations areauthorized with AR106L.	200210
+AR106L	E	1	KZMP	REMARKS: Simultaneous opposite direction aerial refueling (SODAR) operations areauthorized with AR106H.	200210
+AR106L	W	1	KZMP	REMARKS: Simultaneous opposite direction aerial refueling (SODAR) operations areauthorized with AR106H.	200210
+AR107		1	KZMP	REMARKS: Refueling aircraft at the TVC VORTAC 038/56, shall execute a left turn and continue refueling southbound to the exit point.	200008
+AR108	E	1	KZHU	REMARKS: Aerial refueling permitted from 1130-1330L and 1730-2300L daily. Simultaneous oposite direction aerial refueling (SODAR) operations are authorized withAR 108 in specific blocks. Refueling aircraft will execute a southbound turn an	200607
+AR108	E	2	KZHU	d remain within 30 miles of track course and retun to centerline within 20 milesof exit point/turn point. 433 OSS/OSC scheduling agency will resolve conflicts with W92, W54 and AW101. Southbound turns to avoid flying north into W147, W59 a	200607
+AR108	E	3	KZHU	nd northern sections of W92, W54, and AW101. Track is designed specifically for single tanker/receiver operations and is prohibited to fighter type aircraft.	200607
+AR108	W	1	KZHU	EMA REMARKS: Aerial refueling permitted from 1130-1330L and 1730-2300L daily. Simultaneous oposite direction aerial refueling (SODAR) operations are authorized with	200008
+AR108	W	2	KZHU	AR 108 in specific blocks. Refueling aircraft will execute a southbound turn and remain within 30 miles of track course and retun to centerline within 20 milesof exit point/turn point. 433 OSS/OSC scheduling agency will resolve conflicts	200008
+AR108	W	3	KZHU	with W92, W54 and AW101. Southbound turns to avoid flying north into W147, W59 and northern sections of W92, W54, and AW101. Track is designed specifically for single tanker/receiver operations and is prohibited to fighter type aircraft.	200008
+AR109H	E	1	KZMP	REMARKS: SODAR authorized with AR109L.	200411
+AR109H	W	1	KZMP	REMARKS: SODAR authorized with AR109L.	200411
+AR109L	E	1	KZMP	REMARKS: SODAR authorized with AR109H.	200411
+AR109L	W	1	KZMP	REMARKS: SODAR authorized with AR109H.	200411
+AR11	E	1	KZDV	SCHEDULING UNIT - (After hours: relay through Raymond 33 DSN 675-3800) REMARKS: For AR11 (East) SODAR operations are authorized with AR14B (West). For AR11 (West) SODAR operations are authorized with AR14B (East).	200210
+AR11	W	1	KZDV	SCHEDULING UNIT - (After hours: relay through Raymond 33 DSN 675-3800) REMARKS: For AR11 (East) SODAR operations are authorized with AR14B (West). For AR11 (West) SODAR operations are authorized with AR14B (East).	200210
+AR110	E	1	KZKC	REMARKS: AR110W rendezvous/rejoin maneuvers prohibited between 1515-1630Z++.	200008
+AR110	W	1	KZKC	REMARKS: AR110W rendezvous/rejoin maneuvers prohibited between 1515-1630Z++.	200008
+AR111	E	1	KZME	REMARKS: Restricted for use by the 552 ACW aircraft and support tankers only. Tanker Orbit Pattern (NONRADAR): Holding point ARCP; Left Turns; 14 Mile Legs. Tankers shall remain clear of the Lindbergh 'D' ATCAA when active and is defined as	200301
+AR111	E	2	KZME	follows: Beginning at 37 00 00N - 91 22 00W to 37 00 00N - 90 54 00W to 36 38 00N - 90 58 00W to 36 38 00N - 91 31 00W to beginning. FL180 to FL500.	200301
+AR111	W	1	KZME	REMARKS: Restricted for use by the 552 ACW aircraft and support tankers only. Tanker Orbit Pattern (NONRADAR): Holding point ARCP; Left Turns; 14 Mile Legs. Tankers shall remain clear of the Lindbergh 'D' ATCAA when active and is defined as	200301
+AR111	W	2	KZME	follows: Beginning at 37 00 00N - 91 22 00W to 37 00 00N - 90 54 00W to 36 38 00N - 90 58 00W to 36 38 00N - 91 31 00W to beginning. FL180 to FL500.	200301
+AR112H	E	1	KZFW	REMARKS: All air refueling prohibited during the following hours: 1500-1630Z and1900-2100Z++ Mon-Fri. While maneuvering/orbiting on AR112, aircrews are reminded to avoid R5601A and R5601C.	200411
+AR112H	W	1	KZFW	REMARKS: All air refueling prohibited during the following hours: 1500-1630Z and1900-2100Z++ Mon-Fri. While maneuvering/orbiting on AR112, aircrews are reminded to avoid R5601A and R5601C.	200411
+AR112L	E	1	KZFW	REMARKS: Restricted for use by the 917WG aircraft and supporting tankers only. All air refueling prohibited during the following hours: 1500-1630Z and 1900-2100Z++ Mon-Fri. While maneuvering/orbiting on AR112, aircrews are reminded to avoid	200602
+AR112L	E	2	KZFW	R5601A and R5601C.	200602
+AR112L	W	1	KZFW	REMARKS: Restricted for use by the 917WG aircraft and supporting tankers only. All air refueling prohibited during the following hours: 1500-1630Z and 1900-2100Z++ Mon-Fri. While maneuvering/orbiting on AR112, aircrews are reminded to avoid	200602
+AR112L	W	2	KZFW	R5601A and R5601C.	200602
+AR113	E	1	KZFW	REMARKS: No simultaneous refueling with AR114. SODAR operations authorized with AR104. Intended for use by B-1 aircraft and support tankers. Other aircraft permitted on non-interference basis. The 7 OSS/OSTC retains preemption authority. Al	200010
+AR113	E	2	KZFW	buquerque ARTCC radar must be operational.	200010
+AR113	W	1	KZFW	REMARKS: No simultaneous refueling with AR114. SODAR operations authorized with AR104. Intended for use by B-1 aircraft and support tankers. Other aircraft permitted on non-interference basis. The 7 OSS/OSTC retains preemption authority. Al	200010
+AR113	W	2	KZFW	buquerque ARTCC radar must be operational.	200010
+AR114		1	KZFW	REMARKS: AR114 is intended for use by 7 BW B-1 and support tankers for training requirements. All other units and aircraft are permitted use on a non-interference basis. The 7 BW retains preemption authority for these purposes. Simultaneous	200203
+AR114		2	KZFW	Opposite Direction Air Refueling (SODAR) is authorized IAW FAA 7610.4J with AR104. Neither simultaneous refueling nor SODAR is authorized with AR113. Albuquerque ARTCC radar must be operational for use.	200203
+AR115		1	KZAB	CR PLAN - 58 SOW assigned frequencies REMARKS: Restricted to 58 SOW use only. Protected airspace is 4 NM either side of centerline. Air refueling may be conducted anywhere within the confines of the protected airspace and may include multip	200009
+AR115		2	KZAB	le tankers and/or receivers.	200009
+AR116	E	1	KZKC	REMARKS: None	200204
+AR116	W	1	KZKC	REMARKS: None	200204
+AR117V		1	KZAB	CR PLAN - 58 SOW assigned frequencies REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prio	200011
+AR117V		2	KZAB	r to entering and the FSS nearest the exit point, upon exiting. Restricted to 58SOW use only. Protected airspace is 4 NM either side of centerline. Air refueling may be conducted anywhere within the confines of the protected airspace and m	200011
+AR117V		3	KZAB	ay include multiple tankers and/or receivers. For VFR use only.	200011
+AR121	N	1	KZAB	TIMES OF OPERATIONS: Continuous REMARKS: Cherokee Control must be operational. All aircraft must have contact with and clearance from Cherokee Control prior to entering restricted airspace. Wh	200212
+AR121	N	2	KZAB	en exiting at or above FL180 or to resume IFR clearance, all aircraft must have contact with and clearance from Albuquerque ARTCC prior to exiting. Refueling airspace is limited to F-117 aircraft from 49 FW and can only be scheduled on a no	200212
+AR121	N	3	KZAB	n-interference basis with White Sands Missile Range. Primary use if weather backup to AR644.	200212
+AR121	S	1	KZAB	TIMES OF OPERATIONS: Continuous REMARKS: Cherokee Control must be operational. All aircraft must have contact with and clearance from Cherokee Control prior to entering restricted airspace. Wh	200212
+AR121	S	2	KZAB	en exiting at or above FL180 or to resume IFR clearance, all aircraft must have contact with and clearance from Albuquerque ARTCC prior to exiting. Refueling airspace is limited to F-117 aircraft from 49 FW and can only be scheduled on a no	200212
+AR121	S	3	KZAB	n-interference basis with White Sands Missile Range. Primary use if weather backup to AR644.	200212
+AR125V	N	1	KZAB	CR PLAN - 58 SOW assigned frequencies REFUELING ALTITUDES - 500 AGL/3000 AGL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR125V	N	2	KZAB	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting. Restricted to 58SOW use only. Air refueling airspace is 4 NM either side of centerline and arou	200011
+AR125V	N	3	KZAB	nd both entry and exit points. Air refueling may include multiple tankers and/orreceivers.	200011
+AR125V	S	1	KZAB	CR PLAN - 58 SOW assigned frequencies REFUELING ALTITUDES - 500 AGL/3000 AGL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR125V	S	2	KZAB	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting. Restricted to 58SOW use only. Air refueling airspace is 4 NM either side of centerline and arou	200011
+AR125V	S	3	KZAB	nd both entry and exit points. Air refueling may include multiple tankers and/orreceivers.	200011
+AR126V	N	1	KZAB	CR PLAN - Use 49 FW assigned frequencies REFUELING ALTITUDES - 1000 AGL /8500 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR126V	N	2	KZAB	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting. Air refueling airspace is 4 NM west and 3 NM east of centerline from entry to exit. Monitor 243.	200011
+AR126V	N	3	KZAB	0. Notify Albuquerque (ABQ) ARTCC Sector 23 prior to commencement and after termination of operations. If no contact with ABQ ARTCC on 257.6, request Holloman RAPCON to notify ABQ.	200011
+AR126V	S	1	KZAB	CR PLAN - Use 49 FW assigned frequencies REFUELING ALTITUDES - 1000 AGL /8500 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR126V	S	2	KZAB	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting. Air refueling airspace is 4 NM west and 3 NM east of centerline from entry to exit. Monitor 243.	200011
+AR126V	S	3	KZAB	0. Notify Albuquerque (ABQ) ARTCC Sector 23 prior to commencement and after termination of operations. If no contact with ABQ ARTCC on 257.6, request Holloman RAPCON to notify ABQ.	200011
+AR127V	N	1	KZAB	CR PLAN - Use 49 FW assigned frequencies REFUELING ALTITUDES - 1000 AGL/10,000 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR127V	N	2	KZAB	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting. Air refueling airspace is 5 NM left and 3 NM right of centerline. Monitor 243.0.Notify Albuquerq	200011
+AR127V	N	3	KZAB	ue (ABQ) ARTCC Sector 23 prior to commencement and after termination of operations. If no contact with ABQ ARTCC on 257.6, request Holloman RAPCON to notify ABQ.	200011
+AR127V	S	1	KZAB	CR PLAN - Use 49 FW assigned frequencies REFUELING ALTITUDES - 1000 AGL/10,000 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR127V	S	2	KZAB	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting. Air refueling airspace is 5 NM left and 3 NM right of centerline. Monitor 243.0.Notify Albuquerq	200011
+AR127V	S	3	KZAB	ue (ABQ) ARTCC Sector 23 prior to commencement and after termination of operations. If no contact with ABQ ARTCC on 257.6, request Holloman RAPCON to notify ABQ.	200011
+AR12H	E	1	KZLC	REMARKS: Simultaneous opposite direction air refueling (SODAR) authorized with AR12L.	200410
+AR12H	W	1	KZLC	REMARKS: Simultaneous opposite direction air refueling (SODAR) authorized with AR12L.	200410
+AR12L	E	1	KZLC	REMARKS: Simultaneous opposite direction air refueling (SODAR) authorized with AR12H.	200410
+AR12L	W	1	KZLC	SCHEDULING UNIT - (After hours: relay through Raymond 33 DSN 675-3800) REMARKS: Simultaneous opposite direction air refueling (SODAR) authorized with AR12H.	200210
+AR13	E	1	KZAB	REMARKS: Restricted to a refueling block altitude of FL 240/FL 260 between 1200-1700Z++, for operations after 1830Z++ refueling block restricted to either FL 240/FL 260 or FL 270/FL 290. A/R prohibited 1700-1930Z++ and 0000-0100Z++. The alt	200011
+AR13	E	2	KZAB	itude block of FL 240/FL 310 shall be available between 0100-0400Z++.	200011
+AR13	W	1	KZAB	REMARKS: Restricted to a refueling block altitude of FL 240/FL 260 between 1200-1700Z++, for operations after 1830Z++ refueling block restricted to either FL 240/FL 260 or FL 270/FL 290. A/R prohibited 1700-1930Z++ and 0000-0100Z++. The alt	200008
+AR13	W	2	KZAB	itude block of FL 240/FL 310 shall be available between 0100-0400Z++.	200008
+AR135V	N	1	KZAB	CR PLAN - 79 RQS assigned frequencies REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise Prescott Radio (on 122.2), 5 minutes prior to e	200406
+AR135V	N	2	KZAB	ntering and upon exiting.	200406
+AR135V	S	1	KZAB	CR PLAN - 79 RQS assigned frequencies REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise Prescott Radio (on 122.2), 5 minutes prior to e	200406
+AR135V	S	2	KZAB	ntering and upon exiting.	200406
+AR136V	N	1	KZAB	CR PLAN - 79 RQS assigned frequencies REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise Prescott Radio (on 122.4 or 122.3), 5 minutes p	200406
+AR136V	N	2	KZAB	rior to entering and upon exiting.	200406
+AR136V	S	1	KZAB	CR PLAN - 79 RQS assigned frequencies REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise Prescott Radio (on 122.4 or 122.3), 5 minutes p	200406
+AR136V	S	2	KZAB	rior to entering and upon exiting.	200406
+AR137V	N	1	KZAB	REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise Prescott Radio (122.1R), 5 minutes prior to entering and apon exiting.	200508
+AR137V	S	1	KZAB	REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise Prescott Radio (122.1R), 5 minutes prior to entering and apon exiting.	200508
+AR14	E	1	KZLC	REMARKS: AR14 (East) SODAR operations are authorized with AR11 (West). AR14 (West) SODAR operations are authorized with AR11 (East).	200410
+AR14	W	1	KZLC	REMARKS: AR14 (East) SODAR operations are authorized with AR11 (West). AR14 (West) SODAR operations are authorized with AR11 (East).	200410
+AR15V	N	1	KZMA	REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting.	200203
+AR15V	S	1	KZMA	REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting.	200203
+AR16	E	1	KZKC	REMARKS: Aircrews File AR016 on DD 175 or DD 1801 to deconflict with other routing with same identifier.	200508
+AR16	W	1	KZKC	REMARKS: Aircrews File AR016 on DD 175 or DD 1801 to deconflict with other routing with same identifier.	200508
+AR167	N	1	KZHU	REMARKS: All course reversal turns will be made to the east. Receivers may exit only at ARIP or EXIT points. When exiting at RSG, receivers should file to JCT or FST to pick up supplemental flight plans. Crystal MOA must be scheduled by use	200008
+AR167	N	2	KZHU	rs during same period of track operations. Hours of operation: Sun-Sat 1200-0400Z++.	200008
+AR167	S	1	KZHU	REMARKS: All course reversal turns will be made to the east. Receivers may exit only at ARIP or EXIT points. When exiting at RSG, receivers should file to JCT or FST to pick up supplemental flight plans. Crystal MOA must be scheduled by use	200008
+AR167	S	2	KZHU	rs during same period of track operations. Hours of operation: Sun-Sat 1200-0400Z++.	200008
+AR17	N	1	KZDV	REMARKS: None	200410
+AR17	S	1	KZDV	REMARKS: None	200410
+AR18V	N	1	KZNY	REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting.	200203
+AR18V	S	1	KZNY	REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting.	200203
+AR19	N	1	KZDV	REMARKS: FL 270/FL 290 to be used only between 0230-1630Z++ daily.	200410
+AR19	S	1	KZDV	REMARKS: FL 270/FL 290 to be used only between 0230-1630Z++ daily.	200410
+AR2	W	1	KZLC	REMARKS: Simultaneous Opposite Direction Air Refueling Test (SODART) operations are authorized with AR1 under the DoD/FAA Operational Test Agreement.	200009
+AR20	NE	1	KZBW	REMARKS: Primary means of scheduling track reservation requests is email to: 437oss.airtrack@charleston.af.mil. Transatlantic fighter crossings will still require altitude reservations.	200410
+AR20	SW	1	KZQX	REMARKS: Primary means of scheduling track reservation requests is email to: 437oss.airtrack@charleston.af.mil. Transatlantic fighter crossings will still require altitude reservations.	200410
+AR200		1	KZMA	REMARKS: AR200 is intended for use by 6 AMW aircraft. All other units and aircraft are permitted use on non-interference basis. The 6 AMW retains preemption authority for these purposes. The track is closed 1230-1630Z++ by request of Atlant	200413
+AR200		2	KZMA	a and Jacksonville ARTCCs due to heavy civilian traffic during this time.	200413
+AR201	E	1	KZLC	REMARKS: Intended for use by B-1 aircraft and support tankers. Other aircraft permitted on non-interference basis. The 7 OSS/OSTC retains preemption authority.	200010
+AR201	W	1	KZDV	REMARKS: Intended for use by B-1 aircraft and support tankers. Other aircraft permitted on non-interference basis. The 7 OSS/OSTC retains preemption authority.	200010
+AR202AN		1	KZJX	REFUELING ALTITUDES - or as assigned REMARKS: AR202AN is the Alternate North track. End northbound refueling operations no later than N32-30-00. Scheduled reverse course from north to south, refuel	200010
+AR202AN		2	KZJX	ing operations turn point is N33-15-00. Anticipate intermittent UHF reception atsouthern half of track. When W497B is in use southern limit of track is N30-19-00 W77-52-00. If radio contact is lost with Jacksonville ARTCC, request tanker o	200010
+AR202AN		3	KZJX	r receiver attempt to establish communication with Miami ARTCC when crossing N30-00-00 southbound on the following frequencies: 128.65/343.7, 133.65/348.7 or 132.15/307.8.	200010
+AR202N	N	1	KZMA	REFUELING ALTITUDES - or as assigned REMARKS: AR202AN is the Alternate North track. End northbound refueling operations no later than N32-30-00. Scheduled reverse course from north to south, refuel	200010
+AR202N	N	2	KZMA	ing operations turn point is N33-15-00. Anticipate intermittent UHF reception atsouthern half of track. When W497B is in use southern limit of track is N30-19-00 W77-52-00. If radio contact is lost with Jacksonville ARTCC, request tanker o	200010
+AR202N	N	3	KZMA	r receiver attempt to establish communication with Miami ARTCC when crossing N30-00-00 southbound on the following frequencies: 128.65/343.7, 133.65/348.7 or 132.15/307.8.	200010
+AR202S	S	1	KZJX	REFUELING ALTITUDES - or as assigned REMARKS: AR202AN is the Alternate North track. End northbound refueling operations no later than N32-30-00. Scheduled reverse course from north to south, refuel	200012
+AR202S	S	2	KZJX	ing operations turn point is N33-15-00. Anticipate intermittent UHF reception atsouthern half of track. When W497B is in use southern limit of track is N30-19-00 W77-52-00. If radio contact is lost with Jacksonville ARTCC, request tanker o	200012
+AR202S	S	3	KZJX	r receiver attempt to establish communication with Miami ARTCC when crossing N30-00-00 southbound on the following frequencies: 128.65/343.7, 133.65/348.7 or 132.15/307.8.	200012
+AR203	NE	1	KZME	REMARKS: Refueling restricted to three flight levels. All air refueling prohibited during the following hours: (1 Nov-1 Apr, 1500-1730Z and 0030-0230Z) (2 Apr-31 Oct, 1400-1630Z and 2330-0130Z).	200008
+AR203	SW	1	KZME	REMARKS: Refueling restricted to three flight levels. All air refueling prohibited during the following hours: (1 Nov-1 Apr, 1500-1730Z and 0030-0230Z) (2 Apr-31 Oct, 1400-1630Z and 2330-0130Z).	200008
+AR204	NE	1	KZBW	REMARKS: AR204 (Northeast) - aircraft should plan right turns after end A/R.	200009
+AR204	SW	1	KZBW	REMARKS: AR204 (Northeast) - aircraft should plan right turns after end A/R.	200009
+AR205		1	KZBW	REMARKS: None	200204
+AR206H		1	KZOB	REMARKS: Receiver aircraft contact Cleveland ARTCC for further clearance 3 minutes prior to planned exit point. Refueling prohibited between 1130-1500Z++ and between 1900-0000Z++. All tankers make left turn at exit. Require thirty (30) minu	200010
+AR206H		2	KZOB	tes spacing between simultaneous refueling between AR206H and AR206L at exit.	200010
+AR206L		1	KZOB	REMARKS: Receiver aircraft contact Cleveland ARTCC for further clearance 3 minutes prior to planned exit point. Refueling prohibited between 1130-1500Z++ and between 1900-0000Z++. Require thirty (30) minutes spacing between simultaneous ref	200010
+AR206L		2	KZOB	ueling between AR206H and AR206L at exit. All tankers make a left turn at exit.	200010
+AR207NE	NE	1	KZJX	REMARKS: Track manager will resolve conflictions with R5311 and AR600. Simultaneous use of AR207 and AR600 is prohibited. Track cannot be used during ESMC launches that close Atlantic routes. Track is prohibited to fighter type aircraft. Tr	200411
+AR207NE	NE	2	KZJX	ack authorized for use at all times except 1530-1700Z++. User contact schedulingunit during normal duty hours 1300-2200Z++ Mon-Fri except holidays. Scheduled reverse course refueling operations must complete turn prior to end of track.	200411
+AR207SW	SW	1	KZJX	REMARKS: Track manager will resolve conflictions with R5311 and AR600. Simultaneous use of AR207 and AR600 is prohibited. Track cannot be used during ESMC launches that close Atlantic routes. Track is prohibited to fighter type aircraft. Tr	200411
+AR207SW	SW	2	KZJX	ack authorized for use at all times except 1530-1700Z++. User contact schedulingunit during normal duty hours 1300-2200Z++ Mon-Fri except holidays. Scheduled reverse course refueling operations must complete turn prior to end of track.	200411
+AR208		1	KZOA	CR PLAN - Use Squadron Tactical frequencies REMARKS: Restricted to 129 RQW Helicopter/C-130 air refueling. Refueling is prohibited between 1400-0500Z++. Protected airspace is 5 NM either side of centerline. Air refueling may be conducted in	200011
+AR208		2	KZOA	either direction. All turns to the west of centerline.	200011
+AR209	E	1	KZLA	REFUELING ALTITUDES - and below consisting of a 3000' block REMARKS: (1)Aircraftwill establish AF communications with San Francisco ARINC (frequency to be provided) prior to receiving clearance into AR209. Aircraft operating in AR209 will	200106
+AR209	E	2	KZLA	be VHF and HF equipped. (2)Aircraft will remain on their assigned Mode 3 transponder code, even after radar service termination, to assist in radar identification on the inbound route for AMIS purposes. (3)Aircraft will provide estimated ti	200106
+AR209	E	3	KZLA	mes for the planned turn around point, inbound (FICKY), and exit (ROSIN) to the center prior to radar service termination and then normal oceanic reporting procedures apply. (4)When reversing course, maneuvering orbiting for rendezvous, all	200106
+AR209	E	4	KZLA	turns shall be made south of the published AR209 track.	200106
+AR209	W	1	KZLA	REFUELING ALTITUDES - and below consisting of a 3000' block REMARKS: (1)Aircraftwill establish AF communications with San Francisco ARINC (frequency to be provided) prior to receiving clearance into AR209. Aircraft operating in AR209 will	200106
+AR209	W	2	KZLA	be VHF and HF equipped. (2)Aircraft will remain on their assigned Mode 3 transponder code, even after radar service termination, to assist in radar identification on the inbound route for AMIS purposes. (3)Aircraft will provide estimated ti	200106
+AR209	W	3	KZLA	mes for the planned turn around point, inbound (FICKY), and exit (ROSIN) to the center prior to radar service termination and then normal oceanic reporting procedures apply. (4)When reversing course, maneuvering orbiting for rendezvous, all	200106
+AR209	W	4	KZLA	turns shall be made south of the published AR209 track.	200106
+AR212	NE	1	KZBW	REMARKS: Aircraft should plan right turn after end A/R.	200008
+AR212	SW	1	KZBW	REMARKS: Aircraft should plan right turn after end A/R.	200008
+AR214		1	KZOA	CR PLAN - Use Squadron Tactical Frequencies REMARKS: Continuous refueling authorized throughout track. Restricted use for Navy tactical aircraft only. For entryand exit contact Navy Fallon 263.6.	200011
+AR216	NE	1	KZTL	REMARKS: Refueling/Holding not permitted 1845-2115Z++; 2300-0200Z++; 1330-1630Z++.	200008
+AR216	SW	1	KZTL	REMARKS: Refueling/Holding not permitted 1845-2115Z++; 2300-0200Z++; 1330-1630Z++.	200008
+AR217		1	KZOB	REMARKS: Hours of use are 1400-1530Z++, 1545-1715Z++, 2235-0010Z++ and 0100-0230Z++. No simultaneous refueling with AR217, AR218 nor AR220. Refueling block restricted to 3 thousand feet. In flight coordination necessary to use NAV Check Poi	200610
+AR217		2	KZOB	nt as exit. Confirm day of flight (DSN 294-7347/7374) with 171 ARW Command Post.	200610
+AR218		1	KZOB	REMARKS: Hours of use are 1400-1530Z++, 1545-1715Z++, 2235-0010Z++ and 0100-0230Z++. No simultaneous refueling with AR217, AR218 nor AR220. Refueling block restricted to 3 thousand feet. In flight coordination necessary to use NAV Check Poi	200610
+AR218		2	KZOB	nt as exit. Confirm day of flight (DSN 294-7347/7374) with 171 ARW Command Post.	200610
+AR219		1	KZOB	REMARKS: Refueling prohibited between 0000-0500Z++. After EXIT point, all aircraft must file over FWA, then flight plan route. Cell break-up should be accomplished prior to the FWA 091/30. Turns before FWA may be requested through ATC. Conf	200610
+AR219		2	KZOB	irm day of flight (DSN 294-7347/7374) with 171 ARW.	200610
+AR220		1	KZOB	REMARKS: Hours of use are 1500-1630Z++, 1645-1815Z++, 2335-0110Z++ and 0200-0330Z++. No simultaneous refueling with AR217, AR218 nor AR220. Refueling block restricted to 3 thousand feet. In flight coordination necessary to use NAV Check Poi	200610
+AR220		2	KZOB	nt as exit. Confirm day of flight (DSN 294-7347/7374) with 171 ARW Command Post.	200610
+AR221		1	KZOA	CR PLAN - Use Squadron Tactical Frequencies REMARKS: Restricted to 129 RQW Helicopter/C-130 air refueling. Protected airspace is 5 NM either side of centerline.Air refueling may be conducted in either direction. Hours of operation are cont	200010
+AR221		2	KZOA	inuous.	200010
+AR222		1	KZOA	CR PLAN - Use Squadron Tactical Frequencies REMARKS: Restricted to 129 RQW Helicopter/C-130 air refueling. Protected airspace is 4 NM east of centerline and 5 NM west of centerline. Air refueling may be conducted in either direction. Hours	200010
+AR222		2	KZOA	of operation are continuous. Aircraft shall contact Stockton Approach Control 120.95 or 294.5 at least 5 minutes prior to conducting refueling operations.	200010
+AR223		1	KZOA	CR PLAN - Use Squadron Tactical Frequencies REMARKS: Restricted to 129 RQW Helicopter/C-130 air refueling. Protected airspace is 5 NM either side of centerline.Air refueling may be conducted in either direction. Hours of operation are cont	200010
+AR223		2	KZOA	inuous.	200010
+AR224		1	KZOA	CR PLAN - Use Squadron Tactical Frequencies REMARKS: Restricted to 129 RQW Helicopter/C-130 air refueling. Protected airspace is 5 NM either side of centerline.Air refueling may be conducted in either direction. Hours of operation are cont	200010
+AR224		2	KZOA	inuous.	200010
+AR225V	N	1	KZOA	CR PLAN - Use 129 RQW assigned frequencies REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prio	200203
+AR225V	N	2	KZOA	r to entering and the FSS nearest the exit point, upon exiting.	200203
+AR225V	S	1	KZOA	CR PLAN - Use 129 RQW assigned frequencies REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prio	200011
+AR225V	S	2	KZOA	r to entering and the FSS nearest the exit point, upon exiting.	200011
+AR230V		1	KZLA	CR PLAN - Use 66 ARS assigned frequencies REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prio	200012
+AR230V		2	KZLA	r to entering and the FSS nearest the exit point, upon exiting. Restricted to 66ARS use only. Protected airspace is 4 NM either side of centerline. Air refueling may be conducted anywhere within the confines of the protected airspace and m	200012
+AR230V		3	KZLA	ay include multiple tankers and/or receivers. For VFR use only.	200012
+AR231V		1	KZLA	CR PLAN - Use 66 ARS assigned frequencies REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prio	200008
+AR231V		2	KZLA	r to entering and the FSS nearest the exit point, upon exiting. Restricted to 66ARS use only. Protected airspace is 4 NM either side of centerline. Air refueling may be conducted anywhere within the confines of the protected airspace and m	200008
+AR231V		3	KZLA	ay include multiple tankers and/or receivers. For VFR use only.	200008
+AR24	N	1	KZDV	REMARKS: None	200411
+AR24	S	1	KZDV	REMARKS: None	200411
+AR242V	N	1	KZOA	CR PLAN - Use 129 RQW assigned frequencies REFUELING ALTITUDES - 500 AGL/4500 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR242V	N	2	KZOA	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting.	200011
+AR242V	S	1	KZOA	CR PLAN - Use 129 RQW assigned frequencies REFUELING ALTITUDES - 500 AGL/4500 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR242V	S	2	KZOA	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting.	200011
+AR243V	N	1	KZOA	CR PLAN - Use 129 RQW assigned frequencies REFUELING ALTITUDES - 500 AGL/5500 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR243V	N	2	KZOA	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting.	200011
+AR243V	S	1	KZOA	CR PLAN - Use 129 RQW assigned frequencies REFUELING ALTITUDES - 500 AGL/5500 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR243V	S	2	KZOA	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting.	200011
+AR255H	E	1	KZOA	REMARKS: Tankers westbound on the track may routinely proceed to the EXIT point,execute a right turn and continue refueling eastbound, when annotated on the flight plan. Flight plan remarks will state: Continuous refueling through turn and	200204
+AR255H	E	2	KZOA	eastbound to ARCP. Simultaneous opposite direction air refueling (SODAR) authorized with AR5L and AR255L.	200204
+AR255H	W	1	KZOA	REMARKS: Tankers westbound on the track may routinely proceed to the EXIT point,execute a right turn and continue refueling eastbound, when annotated on the flight plan. Flight plan remarks will state: Continuous refueling through turn and	200204
+AR255H	W	2	KZOA	eastbound to ARCP. Simultaneous opposite direction air refueling (SODAR) authorized with AR5L and AR255L.	200204
+AR255L	E	1	KZOA	REMARKS: Tankers westbound on the track may routinely proceed to the EXIT point,execute a right turn and continue refueling eastbound, when annotated on the flight plan. Flight plan remarks will state: Continuous refueling through turn and	200204
+AR255L	E	2	KZOA	eastbound to ARCP. Simultaneous opposite direction air refueling (SODAR) authorized with AR5H and AR255H.	200204
+AR255L	W	1	KZOA	REMARKS: Tankers westbound on the track may routinely proceed to the EXIT point,execute a right turn and continue refueling eastbound, when annotated on the flight plan. Flight plan remarks will state: Continuous refueling through turn and	200204
+AR255L	W	2	KZOA	eastbound to ARCP. Simultaneous opposite direction air refueling (SODAR) authorized with AR5H and AR255H.	200204
+AR302	E	1	KZHU	REMARKS:	200204
+AR302	W	1	KZHU	REMARKS:	200204
+AR304AV		1	KZSE	CR PLAN - a. Prim Freq 125.8; b. Backup Freq 291.7 REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prio	200011
+AR304AV		2	KZSE	r to entering and the FSS nearest the exit point, upon exiting. Flight directionNorth to South. Protected airspace is 4 NM either side of centerline. Track length is 45 NM. Restricted to H-60 and C-130 refueling operations. Air refueling m	200011
+AR304AV		3	KZSE	ay include multiple tankers and/or receivers. Continuous times of operations. Contact Seattle ARTCC for radar advisories and flight following. Participants willcommunicate with ATC during refueling operations.	200011
+AR304BV		1	KZSE	CR PLAN - a. Prim Freq 125.8; b. Backup Freq 291.7 REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prio	200008
+AR304BV		2	KZSE	r to entering and the FSS nearest the exit point, upon exiting. Flight directionSouth to North. Protected airspace is 4 NM either side of centerline. Track length is 45 NM. Restricted to H-60 and C-130 refueling operations. Air refueling m	200008
+AR304BV		3	KZSE	ay include multiple tankers and/or receivers. Continuous times of operations. Contact Seattle ARTCC for radar advisories and flight following. Participants willcommunicate with ATC during refueling operations.	200008
+AR305AV		1	KZSE	CR PLAN - a. Prim Freq 128.15; b. Backup Freq 288.1 REFUELING ALTITUDES - 1500 AGL/6000 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR305AV		2	KZSE	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting. Flight directionSouth to North. Protected airspace is 4 NM either side of centerline. Track len	200011
+AR305AV		3	KZSE	gth is 62 NM. Restricted to H-60 and C-130 refueling operations. Air refueling may include multiple tankers and/or receivers. Continuous times of operations. South of lat. N45-00-00 remain at or above 4500'. Participants will contact Seattl	200011
+AR305AV		4	KZSE	e ARTCC prior to entering Class E airspace.	200011
+AR305BV		1	KZSE	CR PLAN - a. Prim Freq 128.15; b. Backup Freq 288.1 REFUELING ALTITUDES - 1500 AGL/6000 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR305BV		2	KZSE	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting. Flight directionNorth to South. Protected airspace is 4 NM either side of centerline. Track len	200011
+AR305BV		3	KZSE	gth is 62 NM. Restricted to H-60 and C-130 refueling operations. Air refueling may include multiple tankers and/or receivers. Continuous times of operations. South of lat. N45-00-00 remain at or above 4500'. Participants will contact Seattl	200011
+AR305BV		4	KZSE	e ARTCC prior to entering Class E airspace.	200011
+AR306AV		1	KZSE	CR PLAN - a. Prim Freq 128.15; Backup Freq 288.1 REFUELING ALTITUDES - 1000 AGL /5000 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR306AV		2	KZSE	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting. Flight directionNorth to South. Protected airspace is 4 NM either side of centerline. Track len	200011
+AR306AV		3	KZSE	gth is 37 NM. Restricted to H-60 and C-130 refueling operations. Air refueling may include multiple tankers and/or receivers. Continuous times of operations. Participants will contact Seattle ARTCC prior to entering Class E airspace.	200011
+AR306BV		1	KZSE	CR PLAN - a. Prim Freq 128.15; b. Backup Freq 288.1 REFUELING ALTITUDES - 1000 AGL /5000 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR306BV		2	KZSE	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting. Flight directionSouth to North. Protected airspace is 4 NM either side of centerline. Track len	200011
+AR306BV		3	KZSE	gth is 37 NM. Restricted to H-60 and C-130 refueling operations. Air refueling may include multiple tankers and/or receivers. Continuous times of operations. Participants will contact Seattle ARTCC prior to entering Class E airspace.	200011
+AR307A	E	1	KZSE	REMARKS: Refuel eastbound only.	200411
+AR307B	W	1	KZSE	REMARKS: Refuel westbound only.	200411
+AR307C		1	KZSE	REMARKS: None	200204
+AR309	E	1	KZKC	REMARKS: All turns to left in tanker orbit pattern. SODAR authorized with AR330.	200410
+AR309	W	1	KZKC	REMARKS: All turns to left in tanker orbit pattern. SODAR authorized with AR330.	200410
+AR310	E	1	KZAB	REMARKS: Use of the High Altitude Block is not authorized between 1600-1900Z++. Use of Low Altitude Block is unrestricted.	200411
+AR310	W	1	KZAB	REMARKS: Use of the High Altitude Block is not authorized between 1600-1900Z++. Use of Low Altitude Block is unrestricted.	200411
+AR312H		1	KZAB	REMARKS: Intended for exclusive use by 97 AMW aircraft and support tankers only.Other aircraft permitted on non-interference basis. The 97 OSS/OSOS retains preemption authority. If subsequent rendezvous are conducted all maneuvering must b	200006
+AR312H		2	KZAB	e completed without going East of the ARIP. Tanker and Receiver crews should file three (3) times up and down the track to ensure 3 hours of track time. Indicate three (3) hours of track time required in Remarks Section of DD Form 175. SODA	200006
+AR312H		3	KZAB	R authorized with AR312L.	200006
+AR312L		1	KZAB	REMARKS: Intended for exclusive use by 97 AMW aircraft and support tankers only.Other aircraft permitted on non-interference basis. The 97 OSS/OSOS retains preemption authority. If subsequent rendezvous are conducted all maneuvering must b	200006
+AR312L		2	KZAB	e completed without going East of the ARIP. Tanker and Receiver crews should file three (3) times up and down the track to ensure 3 hours of track time. Indicate three (3) hours of track time required in Remarks Section of DD Form 175. SODA	200006
+AR312L		3	KZAB	R authorized with AR312H.	200006
+AR313	N	1	KZFW	REMARKS: Intended for exclusive use by 97 AMW aircraft conducting formation AR training and support tankers only. Other aircraft permitted on non-interference basis. The 97 OSS/OSOS retains preemption authority. No simultaneous refueling wi	200008
+AR313	N	2	KZFW	th AR313A.	200008
+AR313	S	1	KZFW	REMARKS: Intended for exclusive use by 97 AMW aircraft conducting formation AR training and support tankers only. Other aircraft permitted on non-interference basis. The 97 OSS/OSOS retains preemption authority. No simultaneous refueling wi	200008
+AR313	S	2	KZFW	th AR313A.	200008
+AR313A	N	1	KZHU	REMARKS: Intended for exclusive use by 97 AMW aircraft conducting formation AR training and support tankers only. Other aircraft permitted on non-interference basis. The 97 OSS/OSOS retains preemption authority. No simultaneous refueling wi	200009
+AR313A	N	2	KZHU	th AR313. The 97 OSS/OSOS will ensure that the following special use airspace isnot active: a.-Lady ATCAA/R3801 - contact 917 OSF/OSTA DSN 781-9154. b.-Warrior/Lancer ATCAA's, R3803B and R3804C - contact Fort Polk LA Tower DSN 863-7982/727	200009
+AR313A	N	3	KZHU	6.	200009
+AR313A	S	1	KZFW	REMARKS: Intended for exclusive use by 97 AMW aircraft conducting formation AR training and support tankers only. Other aircraft permitted on non-interference basis. The 97 OSS/OSOS retains preemption authority. No simultaneous refueling wi	200009
+AR313A	S	2	KZFW	th AR313. The 97 OSS/OSOS will ensure that the following special use airspace isnot active: a.-Lady ATCAA/R3801 - contact 917 OSF/OSTA DSN 781-9154. b.-Warrior/Lancer ATCAA's, R3803B and R3804C - contact Fort Polk LA Tower DSN 863-7982/727	200009
+AR313A	S	3	KZFW	6.	200009
+AR314	E	1	KZAB	ASSIGNED ARTCC - (East)-ARCP 346.35 FL 240/FL 260; 239.25 FL 270/FL 310 EXIT 351.7 FL 240/FL 260; 385.65 FL 270/FL 310 (West)-ARCP 351.7 FL 240/FL 260; 385.65 FL 270/FL 310 EXIT 346.35 FL 240/FL 260; 239.25 FL 270/FL 310	200203
+AR314	E	2	KZAB	REMARKS: Restricted to FL 260 and below, Mon-Fri, between 1600-1800Z++, other times restricted to a refueling altitude block FL 240/FL 260 or block FL 270/FL 310. Restricted for use by the 552 ACW acft and support tankers only.	200203
+AR314	W	1	KZAB	ASSIGNED ARTCC - (East)-ARCP 346.35 FL 240/FL 260; 239.25 FL 270/FL 310 EXIT 351.7 FL 240/FL 260; 385.65 FL 270/FL 310 (West)-ARCP 351.7 FL 240/FL 260; 385.65 FL 270/FL 310 EXIT 346.35 FL 240/FL 260; 239.25 FL 270/FL 310	200203
+AR314	W	2	KZAB	REMARKS: Restricted to FL 260 and below, Mon-Fri, between 1600-1800Z++, other times restricted to a refueling altitude block FL 240/FL 260 or block FL 270/FL 310. Restricted for use by the 552 ACW acft and support tankers only.	200203
+AR315	E	1	KZID	REMARKS: Refueling not permitted 1500-1600Z++ and 1930-2030Z++ Mon-Fri.	200010
+AR315	W	1	KZTL	REMARKS: Refueling not permitted 1500-1600Z++ and 1930-2030Z++ Mon-Fri.	200010
+AR318	E	1	KZKC	REMARKS: None	200204
+AR318	W	1	KZKC	REMARKS: None	200204
+AR321		1	KZAU	REMARKS: Air refueling on J-38 to GRB, right turn to intercept GRB 295 radial outbound to 60 DME, 30 degrees bank left turn to intercept GRB 285 radial inbound to GRB, and fly GRB 105 radial outbound to the exit.	200411
+AR324		1	TJZS	REMARKS: Request pilots file distance-radials in lieu of coordinates even thoughdistances filed may exceed the 130 NM limitation for navigational purposes.	200411
+AR328		1	KZTL	REMARKS: Left turn at PSK VORTAC 255/100, inbound PSK VORTAC 242.	200605
+AR330	E	1	KZKC	REMARKS: When using AR330 (West), plan to avoid Truman MOA/ATCAA airspace 13 NM east of the ARIP. This airspace is potentially active up to FL 230. Contact the 509 OSS/OSOS at DSN 975-1713/1754 to determine if scheduled MOA/ATCAA operations	200610
+AR330	E	2	KZKC	will restrict enroute access to the ARIP. For weekends, holidays and non-duty days contact the 190ARW Command Post at DSN 720-4663, C785-861-4663.	200610
+AR330	W	1	KZKC	REMARKS: When using AR330 (West), plan to avoid Truman MOA/ATCAA airspace 13 NM east of the ARIP. This airspace is potentially active up to FL 230. Contact the 509 OSS/OSOS at DSN 975-1713/1754 to determine if scheduled MOA/ATCAA operations	200610
+AR330	W	2	KZKC	will restrict enroute access to the ARIP. For weekends, holidays and non-duty days contact the 190ARW Command Post at DSN 720-4663, C785-861-4663.	200610
+AR332	NW	1	TJZS	REMARKS: None	200411
+AR332	SE	1	TJZS	REMARKS: None	200411
+AR355		1	KZSE	REMARKS: Used for operational requirements only and not approved for practice ortraining unless prior approval is obtained from Seattle ARTCC 72 hours in advance through the scheduling facility. No simultaneous refueling with AR356.	200411
+AR356		1	KZSE	SCHEDULING UNIT: (1330-2230z++ wkd) REMARKS: Used for operational requirements only and not approved for practice ortraining unless prior approval is obtained from Seattle ARTCC 72 hours in advan	200001
+AR356		2	KZSE	ce through the scheduling facility. No simultaneous refueling with AR355.	200001
+AR3H	E	1	KZLA	REMARKS: Due to track proximity to ARTCC boundaries, aircrews should not requestnor expect to receive amendments to flight plan routing after air refueling exit. This condition is accentuated during peak traffic periods 1600-1800Z++ and 01	200008
+AR3H	E	2	KZLA	00-0300Z++.	200008
+AR3H	W	1	KZDV	REMARKS: Due to track proximity to ARTCC boundaries, aircrews should not requestnor expect to receive amendments to flight plan routing after air refueling exit. This condition is accentuated during peak traffic periods 1600-1800Z++ and 01	200008
+AR3H	W	2	KZDV	00-0300Z++.	200008
+AR3L		1	KZDV	REMARKS: None	200204
+AR400	N	1	KZKC	REMARKS: Intended for exclusive use by 97 AMW aircraft and support tankers only.Other aircraft permitted on non-interference basis. The 97 OSS/OSOS retains preemption authority.	200008
+AR400	S	1	KZKC	REMARKS: Intended for exclusive use by 97 AMW aircraft and support tankers only.Other aircraft permitted on non-interference basis. The 97 OSS/OSOS retains preemption authority.	199910
+AR406H	E	1	KZMP	REMARKS: SODAR authorized. All SODAR Course Reversal Turns to the North. AR406H will be scheduled solely by the 55th WG. 55th WG aircraft will have priority foruse of AR406H.	200511
+AR406H	W	1	KZMP	REMARKS: SODAR authorized. All SODAR Course Reversal Turns to the North. AR406H will be scheduled solely by the 55th WG. 55th WG aircraft will have priority foruse of AR406H.	200511
+AR406L	E	1	KZMP	REMARKS: SODAR authorized. All SODAR Course Reversal Turns to the North. AR406L will be scheduled solely by the 55th WG. 55th WG aircraft will have priority foruse of AR406L.	200511
+AR406L	W	1	KZMP	REMARKS: SODAR authorized. All SODAR Course Reversal Turns to the North. AR406L will be scheduled solely by the 55th WG. 55th WG aircraft will have priority foruse of AR406L.	200511
+AR40V	E	1	KZJX	REFUELING ALTITUDES - 1000 AGL/4000 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prio	200204
+AR40V	E	2	KZJX	r to entering and the FSS nearest the exit point, upon exiting. Restricted to 347 Wg use only. Protected airspace is 4 NM either side of centerline. Air refueling aircraft may include multiple tankers and receivers. Hours of operation: Inte	200204
+AR40V	E	3	KZJX	rmittent 1400-0700Z++ daily. Other times by NOTAM. For VFR use only.	200204
+AR40V	W	1	KZJX	REFUELING ALTITUDES - 1000 AGL/4000 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prio	200204
+AR40V	W	2	KZJX	r to entering and the FSS nearest the exit point, upon exiting. Restricted to 347 Wg use only. Protected airspace is 4 NM either side of centerline. Air refueling aircraft may include multiple tankers and receivers. Hours of operation: Inte	200204
+AR40V	W	3	KZJX	rmittent 1400-0700Z++ daily. Other times by NOTAM. For VFR use only.	200204
+AR41V	N	1	KZJX	REFUELING ALTITUDES - 1000 AGL/4000 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prio	200204
+AR41V	N	2	KZJX	r to entering and the FSS nearest the exit point, upon exiting. Restricted to 347 Wg use only. Protected airspace is 4 NM either side of centerline. Air refueling aircraft may include multiple tankers and receivers. Hours of operation: Inte	200204
+AR41V	N	3	KZJX	rmittent 1400-0700Z++ daily. Other times by NOTAM. For VFR use only.	200204
+AR41V	S	1	KZJX	REFUELING ALTITUDES - 1000 AGL/4000 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prio	200204
+AR41V	S	2	KZJX	r to entering and the FSS nearest the exit point, upon exiting. Restricted to 347 Wg use only. Protected airspace is 4 NM either side of centerline. Air refueling aircraft may include multiple tankers and receivers. Hours of operation: Inte	200204
+AR41V	S	3	KZJX	rmittent 1400-0700Z++ daily. Other times by NOTAM. For VFR use only.	200204
+AR42V	E	1	KZJX	REFUELING ALTITUDES - 1000 AGL/4000 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prio	200204
+AR42V	E	2	KZJX	r to entering and the FSS nearest the exit point, upon exiting. Restricted to 347 Wg use only. Protected airspace is 4 NM either side of centerline. Air refueling aircraft may include multiple tankers and receivers. Hours of operation: Inte	200204
+AR42V	E	3	KZJX	rmittent 1400-0700Z++ daily. Other times by NOTAM. For VFR use only.	200204
+AR42V	W	1	KZJX	REFUELING ALTITUDES - 1000 AGL/4000 MSL REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refueling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prio	200204
+AR42V	W	2	KZJX	r to entering and the FSS nearest the exit point, upon exiting. Restricted to 347 Wg use only. Protected airspace is 4 NM either side of centerline. Air refueling aircraft may include multiple tankers and receivers. Hours of operation: Inte	200204
+AR42V	W	3	KZJX	rmittent 1400-0700Z++ daily. Other times by NOTAM. For VFR use only.	200204
+AR452	NE	1	KZOA	REMARKS: None	200204
+AR452	SW	1	KZOA	REMARKS: None	200204
+AR453		1	KZMP	REMARKS: None	200204
+AR455	E	1	KZKC	REMARKS: Closed daily from 1400-1500Z++, 1800-1900Z++ and 2359-0059Z++. Normal scheduling will be accomplished through MASMS. Note: 552 OSS/OSOS retains exclusive bump privileges.	200008
+AR455	W	1	KZKC	REMARKS: Closed daily from 1400-1500Z++, 1800-1900Z++ and 2359-0059Z++. Normal scheduling will be accomplished through MASMS. Note: 552 OSS/OSOS retains exclusive bump privileges.	199811
+AR462		1	KZOA	REMARKS: None	200204
+AR4A	N	1	KZSE	REMARKS: Portions of AR4A lie within SADDLE airspace. Receiver units scheduling this track must contact the 190 FS (Boise ANG) at DSN 422-5348 to ensure deconfliction of air refueling operations with SADDLE activity.	200009
+AR4A	S	1	KZSE	REMARKS: Portions of AR4A lie within SADDLE airspace. Receiver units scheduling this track must contact the 190 FS (Boise ANG) at DSN 422-5348 to ensure deconfliction of air refueling operations with SADDLE activity.	200009
+AR4B	N	1	KZSE	REMARKS: AR4B (North) - To make an early exit from this track, air crews will file to NAV point DNJ 247/030 as an end point for refueling.	200008
+AR4B	S	1	KZSE	REMARKS: AR4B (North) - To make an early exit from this track, air crews will file to NAV point DNJ 247/030 as an end point for refueling.	200008
+AR505	E	1	PAZA	REMARKS: Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time.	200411
+AR505	W	1	PAZA	REMARKS: Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time.	200411
+AR506	N	1	PAZA	REMARKS: Refueling restricted to three flight levels. Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN317-552-2719/2382 at least 8 hours prior to mission brief time.	200411
+AR506	S	1	PAZA	REMARKS: Refueling restricted to three flight levels. Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN317-552-2719/2382 at least 8 hours prior to mission brief time.	200411
+AR507	E	1	PAZA	REMARKS: Times as coordinated with ARTCC. Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time.	200411
+AR507	W	1	PAZA	REMARKS: Times as coordinated with ARTCC. Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time.	200411
+AR508E		1	PAZA	REMARKS: Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time. Simultaneous Opposite Direction Aerial Refueling (SODAR) aut	200411
+AR508E		2	PAZA	horized with AR508W when scheduled and coordinated with the 168 ARG and ATC.	200411
+AR508W		1	PAZA	REMARKS: Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time. Simultaneous Opposite Direction Aerial Refueling (SODAR) aut	200411
+AR508W		2	PAZA	horized with AR508E when scheduled and coordinated with the 168 ARG and ATC.	200411
+AR5H	E	1	KZOA	REMARKS: Tankers westbound on the track may routinely proceed to the exit point,execute a right turn and continue refueling eastbound, when annotated on the flight plan. Flight plan remarks will state: Continuous refueling through turn and	200008
+AR5H	E	2	KZOA	eastbound to ARCP. Simultaneous opposite direction air refueling (SODAR) authorized with AR5L.	200008
+AR5H	W	1	KZOA	REMARKS: Tankers westbound on the track may routinely proceed to the exit point,execute a right turn and continue refueling eastbound, when annotated on the flight plan. Flight plan remarks will state: Continuous refueling through turn and	200008
+AR5H	W	2	KZOA	eastbound to ARCP. Simultaneous opposite direction air refueling (SODAR) authorized with AR5L.	200008
+AR5L	E	1	KZOA	REMARKS: Tankers westbound on the track may routinely proceed to the exit point,execute a right turn and continue refueling eastbound, when annotated on the flight plan. Flight plan remarks will state: Continuous refueling through turn and	200008
+AR5L	E	2	KZOA	eastbound to ARCP. Simultaneous opposite direction air refueling (SODAR) authorized with AR5H.	200008
+AR5L	W	1	KZOA	REMARKS: Tankers westbound on the track may routinely proceed to the exit point,execute a right turn and continue refueling eastbound, when annotated on the flight plan. Flight plan remarks will state: Continuous refueling through turn and	200008
+AR5L	W	2	KZOA	eastbound to ARCP. Simultaneous opposite direction air refueling (SODAR) authorized with AR5H.	200008
+AR6	N	1	KZOA	REMARKS: Hours of operation: 1630-2359Z++ and 0330-1400Z++ daily. All turns shall be made to the west.	200406
+AR6	S	1	KZOA	REMARKS: Hours of operation: 1630-2359Z++ and 0330-1400Z++ daily. All turns shall be made to the west.	200406
+AR600		1	KZJX	REFUELING ALTITUDES - or as assigned by ATC 3000' required TIMES OF OPERATION - Authorized all times except 1400-1600Z++ REMARKS: Jacksonville ARTCC radar must be operational. The scheduling unit (20 OSS/OSOS) will resolve conflictions with	200009
+AR600		2	KZJX	AR207. Simultaneous use of AR600 and AR207 is prohibited. User contact scheduling unit during normal duty hours, 1230-2130Z++, Mon-Fri, except holidays.	200009
+AR601		1	KZJX	CR PLAN MILITARY RADAR - Free Mason Primary 286.7 Secondary 321.2 or as assignedREFUELING ALTITUDES - as assigned by ATC 3000' required TIMES OF OPERATION: Unlimited	200012
+AR601		2	KZJX	REMARKS: Jacksonville ARTCC radar must be operational. Expect FL 240 and above for normal operations. Operations FL 230 and below will be approved on an individual basis.User contact scheduling unit during normal duty hours, 1230-2130Z++ Mo	200012
+AR601		3	KZJX	n-Fri, except holidays.	200012
+AR602		1	KZAB	TIMES OF OPERATION: Unlimited REMARKS: Right hand pattern. FL 180/FL 260 will be controlled by, and for the use of, 27 FW based aircraft only. Military radar and/or Albuquerque ARTCC radar m	200011
+AR602		2	KZAB	ust be operational. Be alert for strong westerly winds.	200011
+AR603		1	KZAB	CR PLAN MILITARY RADAR - O'Grady Primary 321.2 Secondary 286.2 or as assigned TIMES OF OPERATION - Unlimited REMARKS: Military radar and/or Albuquerque ARTCC radar must be operational. Anticipate encountering strong northerly winds while re	200011
+AR603		2	KZAB	fueling. 56 RMO/AROS (Sked unit) shall not schedule the use of AR603 when the Gladden/Bagdad MOA's are in use.	200011
+AR604		1	KZLC	CR PLAN MILITARY RADAR - Big Foot Primary 238.4 Secondary 260.8 REFUELING ALTITUDES - or as assigned by ATC 3000' required TIMES OF OPERATION: Unlimited	200014
+AR604		2	KZLC	REMARKS: Military radar and/or Salt Lake City ARTCC must be operational to conduct air refueling.	200014
+AR606		1	KZMP	CR PLAN MILITARY RADAR - Big Foot AICC 364.2 or as assigned by ATC REFUELING ALTITUDES - or as assigned by ATC 3000' required TIMES OF OPERATION: Unlimited	200014
+AR606		2	KZMP	REMARKS: Military radar and/or Minneapolis ARTCC radar must be operational to conduct air refueling.	200014
+AR607		1	KZMP	CR PLAN MILITARY RADAR - Huntress Primary 364.2 as directed by military radar REFUELING ALTITUDES - and above TIMES OF OPERATION: Unlimited	200014
+AR607		2	KZMP	REMARKS: Military radar or Minneapolis ARTCC radar must be operational to conduct air refueling.	200014
+AR608		1	KZBW	CR PLAN MILITARY RADAR - Huntress Primary 364.2 TIMES OF OPERATION - Unlimited REMARKS: Boston ARTCC radar must be operational.	200105
+AR609		1	KZBW	CR PLAN MILITARY RADAR - Huntress Primary 364.2 REFUELING ALTITUDES - 4000' required TIMES OF OPERATION - Unlimited REMARKS: Anchor area is located within the AKS 2 and 5 ATCAAs. Boston ARTCC radar must be operational.	200105
+AR610A		1	KZLC	TIMES OF OPERATION: Unlimited REMARKS: None	200204
+AR610B		1	KZLC	TIMES OF OPERATION: Unlimited REMARKS: None	200204
+AR611A		1	KZLC	TIMES OF OPERATION: Unlimited REMARKS: None	200204
+AR611B		1	KZLC	TIMES OF OPERATION: Unlimited REMARKS: None	200204
+AR613		1	KZAB	TIMES OF OPERATION - Unlimited REMARKS: Track lies within the Morenci and Reserve ATCAA. Receivers entering the airspace must maintain the last assigned altitude until radio contact is established with the tankers. Aircraft required to hold	200009
+AR613		2	KZAB	prior to refueling will do so on the CIE 023 radial between 52 and 62 DME, leftturns (south entry), and on the CIE 013 radial between 103 and 93 DME, left turns (north entry). Tanker aircraft entering the anchor from the north shall enter	200009
+AR613		3	KZAB	via SJN direct to CIE 013/103 or TCS direct CIE 023/102, to avoid Cato MOA/ATCAA operations.	200009
+AR614		1	KZHU	REFUELING ALTITUDES - or as assigned by ATC SCHEDULING UNIT - for Sat, Sun and hol 12 OSS/OSOA DSN 487-5580 (C210-652-5580) (During office hours 0800-1700 local Mon-Fri)	200009
+AR614		2	KZHU	TIMES OF OPERATION: Unlimited REMARKS: Houston ARTCC radar must be operational. T-1 flights may operate Mondaythru Friday in AR614 at FL250B270.	200009
+AR615		1	KZHU	TIMES OF OPERATION - As coordinated with ARTCC REMARKS: Anchor and AR302 shall not be scheduled simultaneously.	200009
+AR616A		1	KZBW	TIMES OF OPERATION - Unlimited REMARKS: W102 High must be released to Boston ARTCC (Controlling Agency) during scheduled times of operation. Boston ARTCC radar must be operational.	200105
+AR616B		1	KZBW	TIMES OF OPERATION - Unlimited REMARKS: Right hand pattern. W102 High must be released to Boston ARTCC (Controlling Agency) during scheduled times of operation.Boston ARTCC radar must be operational.	200105
+AR617		1	KZMA	REFUELING ALTITUDES - or as assigned by ATC 4000' required TIMES OF OPERATION: Restricted from use 1700-2130Z++ daily. REMARKS: Miami ARTCC radar must be operational. Anchor will not be used when AR6	200012
+AR617		2	KZMA	38 is active.	200012
+AR618		1	KZMA	REFUELING ALTITUDES - or as assigned by ATC 4000' required TIMES OF OPERATION: Unlimited REMARKS: None	200009
+AR619		1	KZMP	CR PLAN MILITARY RADAR - Big Foot Primary 364.3 or as directed by military radarREFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION: Unlimited	200014
+AR619		2	KZMP	REMARKS: Military radar or Minneapolis ARTCC radar must be operational to conduct refueling.	200014
+AR62	E	1	CZCZ	REMARKS: Track comes within 12 NM of CYA 732 (controlled by Goose Bay).	200507
+AR62	W	1	CZCZ	REMARKS: Track comes within 12 NM of CYA 732 (controlled by Goose Bay).	200507
+AR620		1	KZMA	REFUELING ALTITUDES - or as assigned by ATC 4000' required TIMES OF OPERATION: Restrictions schedule use only 0000-0500Z++ daily REMARKS: Miami ARTCC radar must be operational. Holding at ARIP for receivers no	200012
+AR620		2	KZMA	t authorized, if holding necessary, proceed to LAL 153/45 for holding.	200012
+AR621		1	KZOA	CR PLAN MILITARY RADAR - Big Foot Primary 364.2 or as advised TIMES OF OPERATION- Unlimited REMARKS: (1)Do not file AR621 in route of flight on DD175. (Reference to AR621 should be noted in Remarks only). DD175 route of flight must reflect	200011
+AR621		2	KZOA	: a.-Last fix. b.-Direct OAK VORTAC 276/60 (COAVE INT). c.-Direct W260. d.-Delaytime. e.-Direct OAK VORTAC 276/60 (COAVE INT). f.-Direct next fix. g.-Balance of route. (2)Random refueling in W260/W513 authorized when scheduled. (3)MRU serv	200011
+AR621		3	KZOA	ice available when scheduled. Must be indicated in Remarks of DD175, Handoff to Big Foot, 364.2.	200011
+AR623		1	KZAB	TIMES OF OPERATION: Unlimited REMARKS: Intended for use by B-1 aircraft and support tankers. Other aircraft permitted on non-interference basis. The 7 OSS/OSTC retains preemption authority.	200012
+AR623		2	KZAB	Anchor Pattern turns are planned at a 15 deg bank angle (11 NM radius). Pattern Length: 130 NM; Width: 22 NM. For the purpose of separation between participating and non-participating acft, ATC shall regard AR623 as a linear refueling track	200012
+AR623		3	KZAB	unless the pilot specifically requests AR623 as an anchor track prior to entering assigned airspace.	200012
+AR624		1	KZLA	REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION: Unlimited REMARKS: All aircraft should contact Los Angeles Center prior to exit.	200009
+AR625H		1	KZOA	TIMES OF OPERATION - 0600-2200 Local unless otherwise coordinated REMARKS: Righthand pattern.	200010
+AR625L		1	KZOA	TIMES OF OPERATION - 0600-2200 Local unless otherwise coordinated REMARKS: Righthand pattern.	200010
+AR626		1	KZSE	CR PLAN MILITARY RADAR - Big Foot Primary AICC 364.2 or as assigned by ATC REFUELING ALTITUDES - or as assigned by ATC. SCHEDULING UNIT - Scheduling unit hours are 0700-1700 local Mon-Fri except holid	200014
+AR626		2	KZSE	ays. TIMES OF OPERATION: Unlimited as coordinated with scheduling unit. REMARKS: Military radar or Seattle ARTCC radar must be operational to conduct re	200014
+AR626		3	KZSE	fueling.	200014
+AR627		1	KZJX	TIMES OF OPERATION: Continuous by schedule REMARKS: When Valdosta RAPCON is controlling AR627, frequencies will be 119.525 and 259.3. When Valdosta RAPCON's radar is out of service, AR627 is not availabl	200009
+AR627		2	KZJX	e. To ensure Jacksonville Center/Valdosta APP CON computer interface, all tankers and non-347th Wg receivers must file flight plans to indicate delay at the TAY306/45 regardless of direction of entry. Restricted Area R3008D is capped at FL	200009
+AR627		3	KZJX	180 when AR627 is in use. AR627 not available for use by transient units duringMoody AFB flying operations.	200009
+AR628		1	KZSE	CR PLAN MILITARY RADAR - Long Racks Primary 337.4 Secondary 253.4 TIMES OF OPERATION: Unlimited REMARKS: Military radar or Seattle ARTCC radar must be operational to conduct re	200014
+AR628		2	KZSE	fueling.	200014
+AR629		1	KZMP	TIMES OF OPERATION: Minot AFB RAPCON Operating Hours as listed in IFR Supplement. Other times contact Minneapolis ARTCC 127.6 or 279.6. REMARKS: Air refueling will be conducted within the RAPCON airspace and RAPCON r	200106
+AR629		2	KZMP	adar must be operational.	200106
+AR630		1	KZSE	CR PLAN MILITARY RADAR - Big Foot Primary 252.0 Secondary 364.2 TIMES OF OPERATION: Unlimited REMARKS: None	200014
+AR631		1	KZBW	CR PLAN MILITARY RADAR - Footrope Primary 301.6/314.2 TIMES OF OPERATION: Unlimited REMARKS: Anchor area is located within the Laser South ATC assigned airspace are	200105
+AR631		2	KZBW	a.	200105
+AR632		1	KZMP	CR PLAN MILITARY RADAR - Huntress Primary 364.2 Secondary as assigned by Huntress TIMES OF OPERATION: Unlimited	200014
+AR632		2	KZMP	REMARKS: Contact Black Talon MOA Coordinator on 369.2 before entering SUA. EnterAR632 at or above FL 250, contact Steelgate on 385.7, 381.1, FM 40.45 or 40.65 prior to entering Garland North or South to confirm status of R4201A. AR632 must	200014
+AR632		3	KZMP	be de-conflicted with adjacent AR107. Contact Alpena CRTC Airspace Scheduler.	200014
+AR633A		1	KZTL	TIMES OF OPERATION: Unlimited REMARKS: None	200105
+AR633B		1	KZTL	TIMES OF OPERATION: Unlimited REMARKS: None	200105
+AR634		1	KZOA	CR PLAN MILITARY RADAR - Big Foot Primary 364.2 or as advised TIMES OF OPERATION: Unlimited REMARKS: (1)Do not file AR634 in route of flight on DD175. (Reference to AR634 u	200014
+AR634		2	KZOA	se will be noted in Remarks only). DD175 route of flight must reflect: a.-Last fix. b.-Direct entry point: BSR VORTAC 228/25 (KIGHT INT); SNS VORTAC 267/52 (TOPLE INT); or PXN VORTAC 187/83 (HONDO INT). c.-Direct W283/W285A. d.-Delay time.	200014
+AR634		3	KZOA	e.-Direct exit point (same as entry points). f.-Direct next fix. g.-Balance of route. (2)Random refueling in W283/W285A authorized when scheduled. (3)MRU service available when scheduled. Must be indicated in Remarks of DD175, Handoff to Bi	200014
+AR634		4	KZOA	g Foot, 364.2.	200014
+AR635		1	KZLC	TIMES OF OPERATION: Unlimited REMARKS: None	200204
+AR636		1	KZDC	CR PLAN MILITARY RADAR - Pyramid Primary 381.1 Secondary 390.0 Oak Grove Primaryas coordinated Secondary 364.2 Giant Killer Primary 238.1 REFUELING ALTITUDES - 3000' required as assigned by ATC	200012
+AR636		2	KZDC	TIMES OF OPERATION: Unlimited REMARKS: Pyramid/Giant Killer radar must be operational. Tanker must check in/out with Giant Killer FACAFAC VACAPES 238.1 or 118.125. Simultaneous tankers only	200012
+AR636		3	KZDC	with prior approval. Use may be restricted by other operations.	200012
+AR637		1	KZKC	TIMES OF OPERATION: As scheduled REMARKS: Anchor is contained within West ATCAA and Lindbergh A ATCAA as described above, MARSA is applicable between refueling operations in AR637 and other sim	200009
+AR637		2	KZKC	ultaneous activity in Lindbergh ATCAA. Kansas City ARTCC or military radar must be operational. Receiver aircraft transiting from Lindbergh ATCAA will utilize the ARIP at FAM 253/45. Navigation during refueling will adhere to the course lin	200009
+AR637		3	KZKC	e described by the anchor pattern, including turn radii, unless clearance is obtained for random navigation in West ATCAA or Lindbergh A,B, C MOA/ATCAA. Clearance for navigation is described as airspace released in the Lindbergh MOA and/or	200009
+AR637		4	KZKC	ATCAA for fighter operations. When airspace is released, AAR operations may be conducted as desired throughout the released Lindbergh Airspace Complex without further coordination from Kansas City Center (KCC) or Military Radar Unit (MRU).	200009
+AR638		1	KZMA	REFUELING ALTITUDES - or as assigned by ATC 4000' required TIMES OF OPERATION: Unlimited REMARKS: Miami ARTCC radar must be operational. Anchor will not be used when AR6	200012
+AR638		2	KZMA	17 is active.	200012
+AR639		1	KZAB	TIMES OF OPERATION: Unlimited REMARKS: AR639 is located within Tombstone C MOA and ATCAA, R2303B/C and Libby ATCAA. Receiver holding point is DUG 258/30. Inbound course 078 degrees, left tur	200011
+AR639		2	KZAB	ns.	200011
+AR639A		1	KZAB	TIMES OF OPERATION - Unlimited REMARKS: AR639A and AR639 will not be used simultaneously. Receiver holding point is DUG 078/10. Inbound course is 078 degrees, left turn.	200011
+AR640A		1	KZAU	CR PLAN MILITARY RADAR - Brochure Primary 298.775 Secondary 283.775 REFUELING ALTITUDES - and above TIMES OF OPERATION: As scheduled	200009
+AR640A		2	KZAU	REMARKS: The anchor area is located within WIANG A, B and C ATC Assigned Airspace. All users must check in and check out with Phoenix on 346.525. When the rendezvous is controlled by the military radar unit, 298.775 283.775 will be used aft	200009
+AR640A		3	KZAU	er checking in with Phoenix. For tanker directed rendezvous, the C/R Plan will be used.	200009
+AR640B		1	KZAU	CR PLAN MILITARY RADAR - Brochure Primary 298.775 Secondary 283.775 REFUELING ALTITUDES - and above TIMES OF OPERATION: As scheduled	200009
+AR640B		2	KZAU	REMARKS: The anchor area is located within WIANG A, B and C ATC Assigned Airspace. All users must check in and check out with Phoenix on 346.525. When the rendezvous is controlled by the military radar unit, 298.775 283.775 will be used aft	200009
+AR640B		3	KZAU	er checking in with Phoenix. For tanker directed rendezvous, the C/R Plan will be used.	200009
+AR641A		1	KZLA	TIMES OF OPERATION: As coordinated with 554 RS/RSOO REMARKS: When Nellis Control (ATC) is not in operation, Los Angeles Center will provide ATC clearance for tanker and/or receivers into/out of the Caliente ATCAA	200014
+AR641A		2	KZLA	only. Aircraft operating in this anchor are MARSA with aircraft operating in adjacent Special Use Airspace IAW NAFB Sup 1, ARF 50-46. Radar monitoring requiredto conduct air refueling. 554 RS/RSOO Nellis AFB, NV, schedules and deconflicts	200014
+AR641A		3	KZLA	the airspace only. Caliente ATCAA and the Desert MOA must be scheduled to use this anchor. Requirements for tanker support must be made through appropriate units. Pattern length: 30 NM; width 17 NM. Anchor area is located within the Calien	200014
+AR641A		4	KZLA	te ATCAA/Desert MOA. Airspace to be protected will in no case extend beyond the lateral confines of the Caliente ATCAA/Desert MOA.	200014
+AR642E	E	1	KZLC	CR PLAN MILITARY RADAR - Clover Control Primary 363.5 Secondary 134.1 TIMES OF OPERATION: Mon-Thu 1400-0700Z++, Fri 1400-0100Z++, Sat 1500-2400Z++; closed Sun.	200408
+AR642E	E	2	KZLC	REMARKS: Refueling operations must be scheduled in advance with 388 RANS/RST DSN777-4401 during normal duty hours. Primary Boom frequency 305.5.	200408
+AR642W	W	1	KZLC	CR PLAN MILITARY RADAR - Clover Control Primary 363.5 Secondary 134.1 TIMES OF OPERATION: Mon-Thu 1400-0700Z++, Fri 1400-0100Z++, Sat 1500-2400Z++; closed Sun.	200408
+AR642W	W	2	KZLC	REMARKS: Refueling operations must be scheduled in advance with 388 RANS/RST DSN777-4401 during normal duty hours. Primary Boom frequency 305.5.	200408
+AR643		1	KZDV	CR PLAN MILITARY RADAR - Primary 361.4 Secondary 395.1 or as assigned TIMES OF OPERATION: As coordinated with ARTCC REMARKS: Military radar must be operational. Denver ARTCC radar must be operatio	200012
+AR643		2	KZDV	nal. Pattern Length: 52 NM; Width: 20 NM.	200012
+AR644	N	1	KZAB	TIMES OF OPERATION - Continuous. Ltd. use weekdays (See Rmks) REMARKS: Track is normally closed to non-49 FW units SR-SS Mon-Fri. Anchor is scheduled on non-interference basis with 49 FW and White Sands Missile Range Operations. Cannot be s	200010
+AR644	N	2	KZAB	cheduled if R5109A/B active or by other than 49 FW units if Beak or Cowboy ATCAAin use. Track use may be cancelled with little advance notice due to priority research and development operations. Specify North or South entry in request. All	200010
+AR644	N	3	KZAB	initial scheduling requests should be forwarded to 49 OSS/OSOS for coordination. Caution: ARIP to ARCP headings are not parallel to track orientation.	200010
+AR644	S	1	KZAB	TIMES OF OPERATION - Continuous. Ltd. use weekdays (See Rmks) REMARKS: Track is normally closed to non-49 FW units SR-SS Mon-Fri. Anchor is scheduled on non-interference basis with 49 FW and White Sands Missile Range Operations. Cannot be s	200010
+AR644	S	2	KZAB	cheduled if R5109A/B active or by other than 49 FW units if Beak or Cowboy ATCAAin use. Track use may be cancelled with little advance notice due to priority research and development operations. Specify North or South entry in request. All	200010
+AR644	S	3	KZAB	initial scheduling requests should be forwarded to 49 OSS/OSOS for coordination. Caution: ARIP to ARCP headings are not parallel to track orientation.	200010
+AR645		1	KZSE	CR PLAN MILITARY RADAR - Big Foot Primary 252.0 Secondary 364.2 REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION: Mon-Fri 0700-1600 hours local	200009
+AR645		2	KZSE	REMARKS: Military or Seattle ARTCC radar must be operational to conduct refueling.	200009
+AR646		1	KZHU	TIMES OF OPERATION: As coordinated with ATC REMARKS: Restricted to Turbo Jet aircraft from 552 ACW. Houston ARTCC Radar mustbe operational.	200012
+AR647		1	KZAB	CR PLAN MILITARY RADAR - (MAIN RECORD IS FOR LOW): (Mid) a.-295.4 b.-319.5 c.-1-3-2 d.-6/1 e.-52/115 (High) a.-283.9 b.-319.5 c.-1-3-1 d.-3/1 e.-30/93 MRU Primary High 254.5/120.55 Primary Mid/Low 264.7/120.55 or as assigned	200010
+AR647		2	KZAB	TIMES OF OPERATION: Unlimited REFUELING ALTITUDES - (Low Block) 10,000/17,000 (Mid Block) FL 180/FL 230 (High Block) FL 240/FL 290	200010
+AR647		3	KZAB	REMARKS: AR647 lies within the Sells MOA/ATCAA and Barry M. Goldwater Range (BMGR) airspace. All aircraft operating in the Sells MOA/ATCAA, the BMGR and AR647 will use the Gila Bend AFAF (Range Operations) current altimeter setting. Normall	200010
+AR647		4	KZAB	y restricted to night time refueling only, due to heavy aerial activity within the Sells MOA/ATCAA and the BMGR, daytime refueling in AR647 will be scheduled only when authorized by the 56 RMO/ARO (Sked Unit). Contact Gila Bend Range Operat	200010
+AR647		5	KZAB	ions on 120.55/264.125 prior to entering and exiting AR647. The Low and High blocks will not be scheduled at the same time. The receiver unit must coordinate MRU operations with O'Grady MRU (DSN 896-3882/3880) and the scheduled tanker unit.	200010
+AR647A		1	KZAB	CR PLAN MILITARY RADAR - MRU 264.7/120.5 or as assigned TIMES OF OPERATION: See Remarks REMARKS: AR647A lies entirely within the Sells MOA. All aircraft operating in th	200107
+AR647A		2	KZAB	e Sells MOA/ATCAA, and AR647A will use the Gila Bend AFAF (Range Operations) current altimeter setting. Unless specifically requested, approved, and scheduled by the 56 RMO/ASMS, AR647A is restricted for nighttime refueling by 355 WG A-10 a	200107
+AR647A		3	KZAB	ircraft only. It is restricted to two nights per week due to other training requirements in the Sells MOA. AR647A will not be scheduled when AR647 low or mediumblocks are scheduled. Contact Gila Bend Range Operations on 120.55/264.125 prio	200107
+AR647A		4	KZAB	r to entering and exiting AR647A. Due to other training in the Sells MOA/ATCAA at 15,000' and above aircraft entering and exiting AR647A must be between 10,000'and 14,000' unless Range Operations confirms that there is no other aircraft ac	200107
+AR647A		5	KZAB	tivity in the Sells MOA/ATCAA. Tanker aircraft plan to enter/exit at the primaryentry/exit point TUS 269/55. Refueling aircraft scheduled for operations on theGoldwater Range may exit at the alternate entry/exit point TUS 269/85.	200107
+AR648A		1	KZLC	TIMES OF OPERATION: Unlimited REMARKS: None	200204
+AR648B		1	KZLC	TIMES OF OPERATION: Unlimited REMARKS: None	200204
+AR649		1	KZLA	TIMES OF OPERATION: As coordinated with 755 OSS. 755 OSS will schedule and coordinate Turtle MOA/ATCAA with MCAS YUMA. REMARKS: For simultaneous refueling within AR649, ZLA requires 3000' separation	200509
+AR649		2	KZLA	between altitude blocks. EC-130H aircraft will normally enter at EED 109/23. Turtle MOA/ATCAA must be active for track use.	200509
+AR650		1	KZAB	REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION: Unlimited REMARKS: SODAR not authorized.	200012
+AR651		1	KZLA	CR PLAN MILITARY RADAR - Beaver Control Primary 289.9 Secondary 120.85 or as assigned REFUELING ALTITUDES - or as assigned by FACSFAC San Diego	200010
+AR651		2	KZLA	TIMES OF OPERATION: Unlimited as coordinated with FACSFAC San Diego REMARKS: AR651 is located within W291 ATC assigned airspace. Receiver Holding Point is NSD 207/44 N32-20-00 W119-00-00. Military radar (Beaver Control) must be	200010
+AR651		3	KZLA	operational to conduct air refueling, FACSFAC San Diego will provide advisory service when possible. BEAVER TACAN NSD CH 86 located 11 NM S of NUC TACAN CH 123.	200010
+AR652	N	1	KZAB	TIMES OF OPERATION: Continuous REMARKS: Anchor is scheduled on non-interference basis with Valentine MOA.	200010
+AR652	S	1	KZAB	TIMES OF OPERATION: Continuous REMARKS: Anchor is scheduled on non-interference basis with Valentine MOA.	200010
+AR652A		1	KZAB	TIMES OF OPERATION: Continuous REMARKS: For entry from the west-northwest. Track will not be used simultaneously with AR652 (North/South). Usage will be deconflicted with IR-178.	200105
+AR652B		1	KZAB	TIMES OF OPERATION: Continuous REMARKS: For entry from the east-southeast. Track will not be used simultaneously with AR652 (North/South). Usage will be deconflicted with IR-178.	200105
+AR653		1	KZKC	CR PLAN MILITARY RADAR - Jayhawk Primary 228.95 Secondary 303.0 TIMES OF OPERATION: As scheduled REMARKS: MARSA is applicable between refueling operations in AR653 and other sim	200014
+AR653		2	KZKC	ultaneous activity in ADA East and West MOA/ATCAA. Kansas City ARTCC or Jayhawk military radar must be operational.	200014
+AR654		1	KZSE	TIMES OF OPERATION: Unlimited REMARKS: This AR is restricted to aircraft deployed to WADS, Det 1 Close Air Support (CAS) Unit by FAA Letter of Agreement. Aircraft other than A-10s are requir	200013
+AR654		2	KZSE	ed to coordinate 7 days in advance to schedule the AR654. FAA Seattle ARTCC may approve use on a case-by-case basis, contact WADS/DORS, McChord AFB for information. Anchor has right-hand pattern to expedite flow and allow tanker and receive	200013
+AR654		3	KZSE	r to hold on PDT VORTAC 223/043 radial.	200013
+AR655		1	KZMA	CR PLAN MILITARY RADAR - Alleycat 364.1 TIMES OF OPERATION: Unlimited as coordinated with scheduling unit REMARKS:	200012
+AR657		1	KZLA	CR PLAN MILITARY RADAR - Beaver Control Primary 289.9 Secondary 118.65 REFUELING ALTITUDES - or as assigned by FACSFAC San Diego TIMES OF OPERATION: Unlimited as coordinated with FACSFAC San Diego	200014
+AR657		2	KZLA	REMARKS: This is right-hand race track pattern. FACSFAC San Diego will provide exclusive use airspace to aircraft participating in air refueling operations, if required. FACSFAC San Diego radar must be operational and area must be VFR.	200014
+AR658		1	KZAB	CR PLAN MILITARY RADAR - (High Block) a.-Primary 286.2 Back-up 347.2 b.-384.6 c.-1-1-4 d.-5/1 e.-33/96 (Low Block) a.-391.8 b.-318.0 c.-1-4-0 d.-3/1 e.-29/92 REFUELING ALTITUDES - (High Block) FL 240/FL 290 (Low Block) FL 180/FL 230 TIMES O	200011
+AR658		2	KZAB	F OPERATION - Unlimited REMARKS: Receivers will hold at the ARIP (FL 240 High Block, FL 180 Low Block or as assigned by ATC) until cleared to the entry point bythe tanker aircraft.	200011
+AR659		1	KZLC	CR PLAN MILITARY RADAR - Clover Control Primary 291.65 Secondary 134.1 TIMES OF OPERATION: Mon-Thu 1400-0700Z++, Fri 1400-0100Z++, Sat 1500-2400Z++; closed Sun.	200605
+AR659		2	KZLC	REMARKS: Refueling operations must be scheduled in advance with 388 RANS/RST DSN777-4401 during normal duty hours. Primary Boom frequency 305.5.	200605
+AR662V		1	KZOA	CR PLAN MILITARY RADAR - Use 129 RQW assigned frequencies TIMES OF OPERATION: Continuous REMARKS: Tanker aircraft pilots scheduled to operate within VFR Helicopter Refue	200011
+AR662V		2	KZOA	ling Tracks/Anchors shall advise the FSS nearest the entry point, 5 minutes prior to entering and the FSS nearest the exit point, upon exiting.	200011
+AR667		1	KZLA	TIMES OF OPERATION: 1600-0800Z++ Mon-Thu; 1600-0200Z++ Fri; 1800-0200Z++ Sat; 2100-0500Z++ Sun. (Hol hr) REMARKS: Radar monitoring required to conduct air refueling. RATCF radar must be	200203
+AR667		2	KZLA	operational. Pattern length: 44 NM; width: 12 NM. To be used only by CSFWP Squadrons.	200203
+AR669		1	KZKC	TIMES OF OPERATION - Unlimited REMARKS: Restricted for use by Vance AFB assignedaircraft and other AETC aircraft on non-interference basis. Kansas City ARTCC radar must be operational.	200010
+AR672		1	KZAB	TIMES OF OPERATION: Intermittent by NOTAM ATC ASSIGNED AIRSPACE: AR672 lies entirely within the areas of Mt. Dora North High and Low MOA, Mt. Dora East High and Low MOA, and Mt. Dora West High and Low M	200208
+AR672		2	KZAB	OA. REMARKS: Separate clearances are required to occupy Mt. Dora MOA and AR672. Clearance to occupy Mt. Dora may be scheduled through 27 OSS/OSOH, Cannon AFB, NM. A	200208
+AR672		3	KZAB	ir refueling clearance may be obtained from ABQ ARTCC.	200208
+AR674		1	KZAB	TIMES OF OPERATION - Intermittent by NOTAM REMARKS: For the purpose of separation between participating and non-participating aircraft, ATC shall regard AR674 as a linear refueling track unless the tanker or receiver pilot specifically requ	200009
+AR674		2	KZAB	ests AR674 as an anchor track prior to entering assigned airspace. When ATC assigns AR674 as a linear track, participating aircraft will not deviate more than 3NM from depicted track nor reverse course without ATC clearance. Due to mountai	200009
+AR674		3	KZAB	nous terrain KC-135 aircraft are restricted to a minimum base A/R altitude of 14,000'. Receiver toboggan training will be restricted to the northern leg betweenthe GUP 043/47 and the GUP 263/28 Navigation Points. KC-135s will not descend b	200009
+AR674		4	KZAB	elow 13,000' during the toboggan.	200009
+AR678		1	KZDV	TIMES OF OPERATION: Unlimited REMARKS: Must specify altitude block necessary to perform mission. Recommend tankers use South entry point. Maneuvering within orbit authorized. If the Powder R	200013
+AR678		2	KZDV	iver Training complex is active (including the Gateway ATCAA), tankers must staySouth of the N44 latitude.	200013
+AR716		1	KZMA	CR PLAN MILITARY RADAR - Barrie 325.8 Alley Cat 364.1 TIMES OF OPERATION - Unlimited as coordinated with the scheduling unit REMARKS: W168 is a joint use warning area, therefore the anchor area may only be used when W168 is released to the	200010
+AR716		2	KZMA	Using Agency, except as specified by Miami ARTCC/9th AIR FORCE Letter Of Agreement.	200010
+AR717A		1	KZSE	CR PLAN MILITARY RADAR - Big Foot (WADS) 271.0 REFUELING ALTITUDES - or as assigned by ATC SCHEDULING UNIT - Scheduling unit hours are 0700-1700 local Mon-Fri except holid	200011
+AR717A		2	KZSE	ays TIMES OF OPERATION: Unlimited as coordinated with scheduling unit REMARKS: Pattern length - 70 NM; width - 20 NM; inbound course to Anchor Point 0	200011
+AR717A		3	KZSE	68. Anchor area is located within ATC Assigned Airspace. Military radar or Seattle ARTCC radar must be operational to conduct refueling.	200011
+AR717B		1	KZSE	CR PLAN MILITARY RADAR - Big Foot (WADS) 271.0 REFUELING ALTITUDES - or as assigned by ATC SCHEDULING UNIT - Scheduling unit hours are 0700-1700 local Mon-Fri except holid	200011
+AR717B		2	KZSE	ays. TIMES OF OPERATION: Unlimited as coordinated with scheduling unit REMARKS: Pattern length - 70 NM; width - 20 NM; inbound course to Anchor Point 0	200011
+AR717B		3	KZSE	68. Anchor area is located within ATC Assigned Airspace. Military radar or Seattle ARTCC radar must be operational to conduct refueling.	200011
+AR719		1	PAZA	CR PLAN MILITARY RADAR - Top Rocc Primary 269.9 Secondary 364.2/126.2 REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION: As coordinated with ARTCC	200012
+AR719		2	PAZA	REMARKS: Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time.	200012
+AR720	NE	1	PAZA	CR PLAN MILITARY RADAR - Top Rocc Primary 269.9 Secondary 364.2/126.2 REFUELING ALTITUDES - or as assigned by ATC. TIMES OF OPERATION: As coordinated with ARTCC.	200010
+AR720	NE	2	PAZA	REMARKS: Weather briefing agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time.	200010
+AR720	SW	1	PAZA	CR PLAN MILITARY RADAR - Top Rocc Primary 269.9 Secondary 364.2/126.2 REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION - As coordinated with ARTCCREMARKS: Weather briefing agencies should request mission forecast support from	200010
+AR720	SW	2	PAZA	Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to missionbrief time.	200010
+AR721	NE	1	PAZA	CR PLAN MILITARY RADAR - Top Rocc Primary 269.9 Secondary 364.2/126.2 REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION - As coordinated with ARTCCREMARKS: Weather briefing support agencies should request mission forecast supp	200011
+AR721	NE	2	PAZA	ort from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior tomission brief time.	200011
+AR721	SW	1	PAZA	CR PLAN MILITARY RADAR - Top Rocc Primary 269.9 Secondary 364.2/126.2 REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION - As coordinated with ARTCCREMARKS: Weather briefing support agencies should request mission forecast supp	200011
+AR721	SW	2	PAZA	ort from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior tomission brief time.	200011
+AR722	NE	1	PAZA	CR PLAN MILITARY RADAR - Top Rocc Primary 269.9 Secondary 364.2/126.2 REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION: As coordinated with ARTCC	200012
+AR722	NE	2	PAZA	REMARKS: Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time.	200012
+AR722	SW	1	PAZA	CR PLAN MILITARY RADAR - Top Rocc Primary 269.9 Secondary 364.2/126.2 REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION: As coordinated with ARTCC	200012
+AR722	SW	2	PAZA	REMARKS: Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time.	200012
+AR723		1	PAZA	CR PLAN MILITARY RADAR - Top Rocc Primary 269.9 Secondary 364.2/126.2 REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION: As coordinated with ARTCC	200012
+AR723		2	PAZA	REMARKS: Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time.	200012
+AR724		1	PAZA	CR PLAN MILITARY RADAR - Top Rocc Primary 269.9 Secondary 364.2/126.2 REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION: As coordinated with ARTCC	200010
+AR724		2	PAZA	REMARKS: Due to frequency conflicts, AR724 will not be scheduled for use when AR723 is being utilized. Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 h	200010
+AR724		3	PAZA	ours prior to mission brief time.	200010
+AR725	NW	1	PAZA	CR PLAN MILITARY RADAR - Top Rocc Primary 269.9 Secondary 364.2/126.2 REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION: As coordinated with ARTCC	200014
+AR725	NW	2	PAZA	REMARKS: Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time.	200014
+AR725	SE	1	PAZA	CR PLAN MILITARY RADAR - Top Rocc Primary 269.9 Secondary 364.2/126.2 REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION: As coordinated with ARTCC	200014
+AR725	SE	2	PAZA	REMARKS: Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time.	200014
+AR727	NW	1	PAZA	CR PLAN MILITARY RADAR - Top Rocc Primary 269.9 Secondary 364.2/126.2 REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION: As coordinated with ARTCC	200014
+AR727	NW	2	PAZA	REMARKS: Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time.	200014
+AR727	SE	1	PAZA	CR PLAN MILITARY RADAR - Top Rocc Primary 269.9 Secondary 364.2/126.2 REFUELING ALTITUDES - or as assigned by ATC TIMES OF OPERATION: As coordinated with ARTCC	200014
+AR727	SE	2	PAZA	REMARKS: Weather briefing support agencies should request mission forecast support from Alaska Forecast Unit at DSN 317-552-2719/2382 at least 8 hours prior to mission brief time.	200014
+AR7A		1	KZSE	REMARKS: Refueling southbound only.	199803
+AR7B		1	KZOA	REMARKS: Refuel northbound only.	199708
+AR800	NE	1	PGUA	REMARKS: GUAM ARTCC radar must be operational. Simultaneous use of northeast bound track and southwest bound track not authorized. Simultaneous use of AR800 andAR801 require altitude or time separation. Inflight coordination with GUAM CENT	200412
+AR800	NE	2	PGUA	ER required to use Navigation Check Point as Exit Point.	200412
+AR800	SW	1	PGUA	REMARKS: GUAM ARTCC radar must be operational. Simultaneous use of northeast bound track and southwest bound track not authorized. Simultaneous use of AR800 andAR801 require altitude or time separation. Inflight coordination with GUAM CENT	200412
+AR800	SW	2	PGUA	ER required to use Navigation Check Point as Exit Point.	200412
+AR801	E	1	PGUA	REMARKS: GUAM ARTCC radar must be operational. Simultaneous use of AR800 and AR801 require altitude or time separation. Use fix names when filing flight plan (Stine, Flash, etc.). Inflight coordination with GUAM CENTER required to use Navig	200412
+AR801	E	2	PGUA	ation Check Point as Exit Point.	200412
+AR801	W	1	PGUA	REMARKS: GUAM ARTCC radar must be operational. Simultaneous use of AR800 and AR801 require altitude or time separation. Use fix names when filing flight plan (Stine, Flash, etc.). Inflight coordination with GUAM CENTER required to use Navig	200412
+AR801	W	2	PGUA	ation Check Point as Exit Point.	200412
+AR803	NW	1	PGUA	REMARKS: AR803 Also known as SLOOP. Simultaneous use of northwest bound track and southeast bound track are not authorized. In flight coordination with GUAM CENTER and OAKLAND CENTER required to use Navigation Check Points as Exit Point. Si	200610
+AR803	NW	2	PGUA	multaneous use of AR803/SLOOP and AR801 require altitude or time separation.	200610
+AR803	SE	1	PGUA	REMARKS: AR803 Also known as SLOOP. Simultaneous use of northwest bound track and southeast bound track are not authorized. In flight coordination with GUAM CENTER and OAKLAND CENTER required to use Navigation Check Points as Exit Point. Si	200610
+AR803	SE	2	PGUA	multaneous use of AR803/SLOOP and AR801 require altitude or time separation.	200610
+AR804	NW	1	PGUA	REMARKS: AR804 is also known as CUTTER. Simultaneous use of northwest bound track and southeast bound track is not authorized. Inflight coordination with OAKLAND CENTER required to use Navigation Check Points as Exit Point.	200412
+AR804	SE	1	PGUA	REMARKS: AR804 is also known as CUTTER. Simultaneous use of northwest bound track and southeast bound track is not authorized. Inflight coordination with OAKLAND CENTER required to use Navigation Check Points as Exit Point.	200610
+AR805	E	1	PGUA	REMARKS: AR805 also known as CRUISER. Simultaneous bi-directional use unauthorized. Coordination with GUAM CENTER and OAKLAND CENTER required for use of Navigation Check Point as Exit Point.	200412
+AR805	W	1	PGUA	REMARKS: AR805 also known as CRUISER. Simultaneous bi-directional use unauthorized. Coordination with GUAM CENTER and OAKLAND CENTER required for use of Navigation Check Point as Exit Point.	200412
+AR8A		1	KZSE	REMARKS: Refuel southbound only.	199709
+AR8B		1	KZSE	REMARKS: Refuel northbound only.	199709
+AR9	E	1	KZLC	REMARKS: AR9 and AR9A simultaneous operations not authorized. See remarks section AR9A.	200008
+AR9	W	1	KZLC	REMARKS: AR9 and AR9A simultaneous operations not authorized. See remarks section AR9A.	200008
+AR900	NE	1	KZOA	REMARKS: User contact scheduling unit during normal duty hours 1730-0300z++ Monday - Friday except holidays. Obtain San Francisco ARINC HF frequency on 131.95 prior to departure. NOTE: This refueling track is in Hawaii, the country code for	200412
+AR900	NE	2	KZOA	Midway (MQ) is used to keep this out of AP/1B.	200412
+AR900	SW	1	KZOA	REMARKS: User contact scheduling unit during normal duty hours 1730-0300z++ Monday - Friday except holidays. Obtain San Francisco ARINC HF frequency on 131.95 prior to departure. NOTE: This refueling track is in Hawaii, the country code for	200412
+AR900	SW	2	KZOA	Midway (MQ) is used to keep this out of AP/1B.	200412
+AR901	E	1	KZOA	REMARKS: User contact scheduling unit during normal duty hours 1730-0300z++ Monday - Friday except holidays. Obtain San Francisco ARINC HF frequency on 131.95 prior to departure. This AR Track is also know as LUAU. NOTE: This refueling trac	200412
+AR901	E	2	KZOA	k is in Hawaii, the country code for Midway (MQ) is used to keep this AR out of AP/1B.	200412
+AR901	W	1	KZOA	REMARKS: User contact scheduling unit during normal duty hours 1730-0300z++ Monday - Friday except holidays. Obtain San Francisco ARINC HF frequency on 131.95 prior to departure. This AR Track is also known as LUAU. NOTE: This refueling tra	200412
+AR901	W	2	KZOA	ck is in Hawaii, country code for Midway (MQ) is used to keep this AR out of AP/1B.	200412
+AR902	E	1	KZOA	REMARKS: User contact scheduling unit during normal duty hours 1730-0300z++ Monday - Friday except holidays. Obtain San Francisco ARINC HF frequency on 131.95 prior to departure. This AR track is also known as LAVA. NOTE: This refueling tra	200412
+AR902	E	2	KZOA	ck is in Hawaii, the country code for Midway (MQ) is used to keep this AR out ofAP/1B.	200412
+AR902	W	1	KZOA	REMARKS: User contact scheduling unit during normal duty hours 1730-0300z++ Monday - Friday except holidays. Obtain San Francisco ARINC HF frequency on 131.95 prior to departure. This AR Track is also known as LAVA. NOTE: This refueling tra	200412
+AR902	W	2	KZOA	ck is in Hawaii, country code for Midway (MQ) is to keep this AR out of AP/1B.	200412
+AR903	E	1	KZOA	REMARKS: This AR track is also known as HOKU. User contact scheduling unit during normal duty hours 1730-0300z++ Monday - Friday except holidays. Obtain San Francisco ARINC HF frequency on 131.95 prior to departure. (Route is in Hawaii area	200412
+AR903	E	2	KZOA	, not Midway) NOTE: This refueling track is in Hawaii, the country code for Midway (MQ) is used to keep this out of AP/1B.	200412
+AR903	W	1	KZOA	REMARKS: This AR track is also known as HOKU. User contact scheduling unit during normal duty hours 1730-0300z++ Monday - Friday except holidays. Obtain San Francisco ARINC HF frequency on 131.95 prior to departure. (Route is in Hawaii area	200412
+AR903	W	2	KZOA	, not Midway) NOTE: This refueling track is in Hawaii, the country code for Midway (MQ) is used to keep this out of AP/1B.	200412
+AR904	NW	1	KZOA	REMARKS: This AR track is also known as HULA. User contact scheduling unit during normal duty hours 1730-0300z++ Monday - Friday except holidays. Obtain San Francisco ARINC HF frequency on 131.95 prior to departure. (Route is in Hawaii area	200412
+AR904	NW	2	KZOA	, not Midway) NOTE: This refueling track is in Hawaii, the country code for Midway (MQ) is used to keep this out of AP/1B.	200412
+AR904	SE	1	KZOA	REMARKS: This AR track is also known as HOKU. User contact scheduling unit during normal duty hours 1730-0300z++ Monday - Friday except holidays. Obtain San Francisco ARINC HF frequency on 131.95 prior to departure. (Route is in Hawaii area	200412
+AR904	SE	2	KZOA	, not Midway) NOTE: This refueling track is in Hawaii, the country code for Midway (MQ) is used to keep this out of AP/1B.	200412
+AR9A	E	1	KZLC	REMARKS: AR9 and AR9A simultaneous operations not authorized. To deconflict AR9 from AR604/Bearpaw ATCAA, scheduling unit will assign AR9A. Scheduling unit willinform users when abbreviated track is required; otherwise AR9 will be flown fu	200009
+AR9A	E	2	KZLC	ll length. End eastbound refueling operations no later than W111-00-00 (GTF 356/74). Complete turn for westbound (reverse course) operation no later than W110-32-00 (LWT 323/103). Bearpaw ATCAA N49-00-00 W110-00-00 to N49-00-00 W107-00-00 t	200009
+AR9A	E	3	KZLC	o N47-30-00 W107-00-00 to N47-30-00 W110-00-00 to beginning.	200009
+AR9A	W	1	KZLC	REMARKS: AR9 and AR9A simultaneous operations not authorized. To deconflict AR9 from AR604/Bearpaw ATCAA, scheduling unit will assign AR9A. Scheduling unit willinform users when abbreviated track is required; otherwise AR9 will be flown fu	200009
+AR9A	W	2	KZLC	ll length. End eastbound refueling operations no later than W111-00-00 (GTF 356/74). Complete turn for westbound (reverse course) operation no later than W110-32-00 (LWT 323/103). Bearpaw ATCAA N49-00-00 W110-00-00 to N49-00-00 W107-00-00 t	200009
+AR9A	W	3	KZLC	o N47-30-00 W107-00-00 to N47-30-00 W110-00-00 to beginning.	200009
+ARA1	W	1	EGEG	Controlling Unit:ScATCC (Mil) When active inform: ScATCC Watch Supervisor, CRC Buchan CRC Neatishead after 1700hrsZ++	200610
+ARA10	E	1	EGEG	Controlling Unit: London Radar When active inform: LACC (Berryhead CSC) BoscombeDown Yeovilton NOTE The following rectangular area of AARA 10 is designated PPRYeovilton. The Tanker Controller is responsible for obtaining the prior permiss	200604
+ARA10	E	2	EGEG	ion,if so required, and tanker captains are to confirm that permission has been granted before entering the PPR area.	200604
+ARA11	N	1	EGEG	Controlling Unit: London Radar	200306
+ARA11	N	2	EGEG	When active inform: LACC (Bristoll-Strumble CSC)	200306
+ARA11	N	3	EGEG	Yeovilton	200306
+ARA12	W	1	EGEG	Controlling Unit: London Radar	200306
+ARA12	W	2	EGEG	When active inform: LACC (Berryhead CSC)	200306
+ARA12	W	3	EGEG	Yeovilton	200306
+ARA13	W	1	EGEG	Controlling Unit: LJAO Noerthwest Sector	200306
+ARA13	W	2	EGEG	When active inform:                                                             Shanwick Sector 7	200306
+ARA13	W	3	EGEG	ScATCC(Mil) Manchester IOM Sector Warton	200306
+ARA13	W	4	EGEG	NOTE Flight trial profiles may dictate that the RV takes place outside AARA 13. It remains the responsibility of of the Tanker Controller to coordinate with other airspace users as necessary.	200306
+ARA14		1	EGEG	Controlling Unit: ScATCC (Mil) When active inform: ScATCC Watch Supervisor CRC Boulmer	200413
+ARA2	W	1	EGEG	Controlling Unit: CRC Buchan until 1700Z++ ScATCC (Mil) after 1700Z++	200306
+ARA2	W	2	EGEG	When active inform: ScATCC Watch Supervisor,	200306
+ARA2	W	3	EGEG	CRC Neatishead after 1700Z++	200306
+ARA3	W	1	EGEG	Controlling Unit: CRC Buchan until 1700Z++ ScATCC (Mil) after 1700Z++	200306
+ARA3	W	2	EGEG	When active inform: ScATCC Watch Supervisor,	200306
+ARA3	W	3	EGEG	CRC Neatishead after 1700Z++	200306
+ARA4		1	EGEG	Controlling Unit: RAF Activity- CRC Buchan until 1700Z++	200306
+ARA4		2	EGEG	USAF Activity-ScATCC(Mil) ScATCC (Mil) after 1700Z++	200306
+ARA4		3	EGEG	When active inform: ScATCC Watch Supervisor, CRC Neatis	200306
+ARA4		4	EGEG	head after 1700Z++  NOTE: Radar and radio coverage of AARA4 is limited below FL150.	200306
+ARA5		1	EGEG	Controlling Unit: RAF Activity- CRC Buchan until 1700Z++	200306
+ARA5		2	EGEG	USAF Activity-ScATCC(Mil) ScATCC (Mil) after 1700Z++	200306
+ARA5		3	EGEG	When active inform: ScATCC Watch Supervisor, CRC Neatis	200306
+ARA5		4	EGEG	head after 1700Z++	200306
+ARA6	E	1	EGEG	Controlling Unit: London Radar When active inform: LACC (North Sea CSC) ScATCC Watch Supervisor, ScATCC (Mil) CRC Buchan until 1700Z++ CRC Neatishead Newcastle ATC	200306
+ARA7	W	1	EGEG	Controlling Unit: London Radar	200306
+ARA7	W	2	EGEG	When active inform:                                                             LACC (N	200306
+ARA7	W	3	EGEG	orth Sea CSC)                                                                  ScATCC Watch Supervisor, ScATCC (Mil	200306
+ARA7	W	4	EGEG	) CRC Neatishead	200306
+ARA8	E	1	EGEG	Controlling Unit: When active inform: LACC (North Sea CSC) CRC Boulmer	200413
+ARA9	E	1	EGEG	Controlling Unit: Not Applicable- for USAF helicopters use only. When active inform: Not Applicable- for USAF helicopters use only.	200306
+BRAVO		1	LIRR	ALL REQUESTS SHALL BE FORWARDED TO EUCARF 14 DAYS IN ADVANCE. CONTACT EUCARF AT DSN 314-480-7065. VERTICAL LIMITS OF BELOW LISTED COORIDORS WILL BE AS DEPICTED.LATERAL LIMITS ARE 20 NM EXCEPT ALPHA CORRIDOR AND PORTION OF BRAVO CORRIDOR BE	200211
+BRAVO		2	LIRR	TWEEN 3851N 0956E AND BULAR WHICH ARE 10 NM WIDE. OPERATED ON A TACTICAL BASIS WITHOUT NOTAM PUBLICATION. THE BLOCK LEVELS DEPICTED CANNOT BE USED SIMULTANEOUSLY.	200211
+CHEOLLIPO	N	1	RKRR	NOTE: In the event of a real-world requirement for ROKAF tactical actions, theremay be a need to clear the Cheollipo track within 5 minutes of ROKAF SODO's request. The ROKAF SODO will pass this request to the USAF SODO, who will relay the	200307
+CHEOLLIPO	N	2	RKRR	request to the aircraft in Cheollipo. Aircraft refueling in CHEOLLIPO will immediately proceed to Mallipo track maintaining their current block altitude. The route of flight will be southward toward the southern boundry of MOA-1,then westw	200307
+CHEOLLIPO	N	3	RKRR	ard into R-80. Cheollipo will only be used at night (one hour after official sunset through one hour before official sunrise) or at other times when ROKAF unitsare not flying. Mallipo and Cheollipo will not be scheduled simultaneously. Orb	200307
+CHEOLLIPO	N	4	RKRR	it is always to the West.	200307
+CHEOLLIPO	S	1	RKRR	NOTE: In the event of a real-world requirement for ROKAF tactical actions, theremay be a need to clear the Cheollipo track within 5 minutes of ROKAF SODO's request. The ROKAF SODO will pass this request to the USAF SODO, who will relay the	200307
+CHEOLLIPO	S	2	RKRR	request to the aircraft in Cheollipo. Aircraft refueling in Cheollipo will immediately proceed to Mallipo track maintaining their current block altitude. The route of flight will be southward toward the southern boundry of MOA-1, then west	200307
+CHEOLLIPO	S	3	RKRR	ward into R-80. Cheollipo will only be used at night (one hour after official sunset through one hour before official sunrise) or at other times when ROKAF units are not flying. Mallipo and Cheollipo will not be scheduled simultaneously. Or	200307
+CHEOLLIPO	S	4	RKRR	bit is always to the West.	200307
+COTTONTAIL	S	1	RORG	REMARKS: ARCP/ANCHOR points and exit points for ANCHOR areas are identical. Tanker will file to ANCHOR point and request delay in appropriate ANCHOR area for the time required to complete air refueling.	200412
+CRETE		1	LGGG	NOTE 1:  All requests should be forwarded thru EUCARF seven duty days in advance. The approved segment will be activated by a CL I NOTAM.	200010
+CRETE		2	LGGG	NOTE 2:  Altitudes FL160 thru 280 are authorized within the established areas. Simultaneous usage will only be approved when the altitude blocks are separated by at least two usable flight levels (for example, FL150B160 and FL210B230, FL21	200010
+CRETE		3	LGGG	0B230 and FL250B270 etc.).  Exceptions to the above must be coordinated with theHead of Athinai ATCC. NOTE 3:  Aircraft may operate within the specified dimensions but must enter/exi	200010
+CRETE		4	LGGG	t Italian airspace via 36 46N 19 00E only when utilizing Delta Corridor. (EUCARF/HCAA MOU, 4/18/2000) NOTE 4:  a.  Five minutes prior to entering either corridor, transitioning from	200010
+CRETE		5	LGGG	one corridor to another, or exiting either corridor, aircraft will broadcast in the blind on 299.6 aircraft's position, next position, ETA to next position, altitude, and cardinal direction (east, west).	200010
+CRETE		6	LGGG	b.  While transiting either corridor, aircraft will monitor 299.6.              c.  Transiting EASTBOUND-set APN/69 Beacon to 'Operate' and set code '2-0-0'; set Air-to-Air TACAN to '29Y'; utilize APN/59 Search Radar in	200010
+CRETE		7	LGGG	'Beacon' if conditions permit. d.  Transiting WESTBOUND-set APN/69 Beacon to 'Operate' and set code '2-0-3'; set Air-to-Air TACAN to '92Y'; utilize APN/59 Search Radar in	200010
+CRETE		8	LGGG	'Beacon' if conditions permit. (CORONET PLANNING ELEMENT MSG 10/99)	200010
+DANDI	E	1	EGTT	INTRODUCTION: USAF TANKERS OPERATING FROM MILDENHALL ARE TASKED TO PROVIDE ENROUTE REFUELING FOR C135'S ON OPERATIONAL SORTIES LEAVING UK AIRSPACE AT DANDI ON AROUTE DESIGNATED THE DANDI REFUELING TRACK.	200010
+DANDI	E	2	EGTT	ROUTE: THE FORMATION WILL FOLLOW FLIGHT PLANNED ROUTE TO THE AIR REFUELING INITIAL POINT AND THEN FOLLOW STRAIGHT LINES DRAWN BETWEEN THE FOLLOWING COORDINATES-N5400W0100, N5432E0050, N5506E0300.	200010
+DANDI	E	3	EGTT	WHILE REFUELING, THE FORMATION WILL FLY NON-STANDARD LEVELS WITHIN THE BLOCK FL250 TO FL270. NORMALLY REFUELING WILL BE COMPLETED UPON REACHING THE END AIRREFUELING ROUTE POINT THE FIRST TIME ALTHOUGH, IF REQUIRED. THE FORMATION MAY FLY A R	200010
+DANDI	E	4	EGTT	ACETRACK HOLD. ON COMPLETION OF REFUELING,THE TANKER WILL CLIMB TO FL270 AND THE RECEIVER WILL DESCEND TO FL250 BEFORE THE FORMATION SPLITS. THE RECEIVER WILL ROUTE DIRECT DAN	200010
+DANDI	E	5	EGTT	DI AND THE TANKER WILL RETURN TO MILDENHALL. THE RECEIVER WILL FLIGHT PLAN TO CROSS DANDI AT FL270, BUT WILL ACCEPT AN AMENDED LEVEL TO SUIT REQUIREMENTS OF COPENHAGEN CONTROL. LONDON RADAR CONTROLLERS ARE TO OBTAIN CROSSING CLEARNCE DIRECT	200010
+DANDI	E	6	EGTT	FROM COPENHAGEN AFTER COORDINATING CROSSING LEVEL WITH NORTH SEA CSC. NOTIFICATION: THE DANDI REFUELING TRACK WILL NOT BE THE SUBJECT OF AUS NOTIFICATION. INITIAL WARNING OF THE INTENDED FLIGHT WILL BE PROVIDED ONLY IN THE FLIGHT	200010
+DANDI	E	7	EGTT	PLAN REMARKS WHICH WILL INCLUDE THE PHASE DANDI TRACK. LONDON RADAR AND SCOTTISH(MIL) WILL BE INCLUDED AS ADDRESSES. IN ADDITION, ON INITIAL CONTACT WITH LONDON RADAR THE TANKER WILL INFORM THE CONTROLLER THAT THE INFORMATION IS A DANDI TR	200010
+DANDI	E	8	EGTT	ACK. STATUS OF AAR. AIRCRAFT REFUELING ON THE DANDI TRACK HAVE NOT BEEN ACCORDED NDS. THEY ARE NEVERTHELESS TO BE AFFODED PRECEDENCE OVER NON-PRIORITY MILITARY AI	200010
+DANDI	E	9	EGTT	RCRAFT AFTER SPLITTING, BOTH RECEIVER AND TANKER ARE TO BE GIVEN NORMAL ATS.	200010
+DELTA		1	LIRR	ALL REQUESTS SHALL BE FORWARDED TO EUCARF 14 DAYS IN ADVANCE. CONTACT EUCARF AT DSN 314-480-7065. VERTICAL LIMITS OF BELOW LISTED COORIDORS WILL BE AS DEPICTED.LATERAL LIMITS ARE 20 NM EXCEPT ALPHA CORRIDOR AND PORTION OF BRAVO CORRIDOR BE	200211
+DELTA		2	LIRR	TWEEN 3851N 0956E AND BULAR WHICH ARE 10 NM WIDE. OPERATED ON A TACTICAL BASIS WITHOUT NOTAM PUBLICATION. THE BLOCK LEVELS DEPICTED CANNOT BE USED SIMULTANEOUSLY.	200211
+DOKDO		1	RKRR	REMARKS: Refueling width 5 NM either side of center line. Dokdo will be used only at night (one hour after official sunset through one hour before sunrise) or at other times when ROKAF units are not flying.	200610
+FLAMBOROUGH	E	1	EGTT	USAF TANKER AIRCRAFT ARE TASKED TO PROVIDE ENROUTE REFUELING FACILITIES WITHIN UK AIRSPACE FOR SOME OF THE TRANSATLANTIC FLIGHTS. REFUELING OPERATIONS ARE CONDUCTED ALONG A ROUTE ESTABLISHED BETWEEN N5426E0400 AND N5700W0600. DESIGNATED THE	200503
+FLAMBOROUGH	E	2	EGTT	FLAMBORO EAST-WEST REFUELING ROUTE. NOTIFICATION: INITIAL WARNING OF THE INTENDED FLIGHT WILL BE IN THE FORM OF FLIGHT PLAN INFORMATION. IN ADDITION THE ETD OFTHE REFUELING AIRCRAFT AND THE ETA AT THE ARIP WILL BE PASSED TO THE SCOTTISH M	200503
+FLAMBOROUGH	E	3	EGTT	IL SUPERVISOR 30 MIN PRIOR TO THE AIRCRAFT DEPARTURE BY MILDENHALL. IT SHOULD BENOTED THAT THIS ROUTE IS NOT SUBJECT TO AUS NOTIFICATION. LONDON RADAR TAC SUPERVISOR EAST: BECAUSE AAR ON THIS ROUTE CONFLICTS WITH UAR'S IN THE SCOTTISH UIR,	200503
+FLAMBOROUGH	E	4	EGTT	THE LONDON RADAR TAC SUPERVISOR EAST IS TO NOTIFY SCOTTISH MIL SUPERVISOR AS EARLY AS POSSIBLE WITH AN ETA WEST ARIP. SCOTTISH MIL SUPERVISOR IN TURN WILL NOTIFY THE SCOTTISH CIVIL SUPERVISOR. STATUS OF AAR: REFUELING AIRCRAFT ARE TO ACCOR	200503
+FLAMBOROUGH	E	5	EGTT	DED NDS. On completion of refueling, the tanker will climb to FL 270 and the receiver will descend to FL 250 before the formation splits.	200503
+FLAMBOROUGH	W	1	EGTT	USAF TANKER AIRCRAFT ARE TASKED TO PROVIDE ENROUTE REFUELING FACILITIES WITHIN UK AIRSPACE,FOR SOME OF THE TRANSATLANTIC FLIGHTS. REFUELING OPERATIONS ARE CONDUCTED ALONG A ROUTE ESTABLISHED BETWEEN N5426E0040 AND N5700W0600. DESIGNATGED TH	200010
+FLAMBOROUGH	W	2	EGTT	E FLAMBOROUGH EAST-WEST REFUELING ROUTE. NOTIFICATION: INITIAL WARNING OF THE INTENDED FLIGHT WILL BE IN THE FORM OF FLIGHT PLAN INFORMATION. IN ADDITION THE ETD OF THE REFUELING AIRCRAFT AND THE ETA A	200010
+FLAMBOROUGH	W	3	EGTT	T THE ARIP WILL BE PASSED  TO THE SCOTTISH MIL SUPERVISOR 30 MIN PRIOR TO THE AIRCRAFT DEPARTURE BY MILDENHALL. IT SHOULD BE NOTED THAT THIS ROUTE IS NOT SUBJECT TO AUS NOTIFICATION.	200010
+FLAMBOROUGH	W	4	EGTT	LONDON RADAR TAC SUPERVISOR EAST: BECAUSE AAR ON THIS ROUTE CONFLICTS WITH UAR'S IN THE SCOTTISH UIR, THE LONDON RADAR TAC SUPERVISOR EAST IS TO NOTIFY SCOTTISH MIL SUPERVISOR AS EARLY AS POSSIBLE WITH AN ETA WEST ARIP. SCOTTISH MIL SUPER	200010
+FLAMBOROUGH	W	5	EGTT	VISOR IN TURN WILL NOTIFY THE SCOTTISH CIVIL SUPERVISOR. STATUS OF AAR: REFUELING AIRCRAFT ARE TO BE ACCORDED NDS.	200010
+FLAMBOROUGH	W	6	EGTT	On completion of refueling, the tanker will climb to FL 270 and the receiver will descend to FL 250 before the formation splits.	200010
+GINI	NE	1	EDWW	Located entirely within ED-R302 (TRA). Note: ED-R34 A+B inside of ED-R302 NW of anchor pattern. Left hand racetrack, mag course 043/223, leg length 34 NM, leg separation 14 NM, refueling base altitude FL290.	200607
+GRETCHEN	SE	1	EDMM	Plan entry and exit via TGO VORTAC. Located entirely within ED-R307 (TRA). Left hand racetrack, mag course 121/301, leg length 30NM, leg separation 16NM, refueling base altitude FL290. Wertachtal High Intensity Radio Transmission Area locat	200607
+GRETCHEN	SE	2	EDMM	ed on the SE end of anchor at N48 05.25' E010 41.72' with a 7NM radius from gnd/33400ft MSL.	200607
+GRETCHEN LOW	NE	1	EDMM	Anchor located entirely within the confines of TRA ED-R207. Left hand racetrack pattern, magnetic course 054/234, leg length 35NM, leg separation 10NM, refueling base altitude FL130. Wertachtal High Intensity Radio Transmission Area located	200607
+GRETCHEN LOW	NE	2	EDMM	SE of anchor at N48 05.25' E010 41.72' with a 7NM radius from gnd/33400ft MSL.	200607
+GREYRABBIT	E	1	RORG	REMARKS: ARCP/ANCHOR points and EXIT points for ANCHOR areas are identical. Tanker will file to ANCHOR point and request delay in appropriate ANCHOR area for the time required to complete air refueling. ASSIGNED AIRSPACE: 27 37N 125 51E, 27	200412
+GREYRABBIT	E	2	RORG	43N 125 53E, 27 37N 127 35E, 27 15N 127 10E. ENTRY POINTS: 27 34N 127 25E, 27 42N 126 05E. Additional EXIT POINTS: 27 34N 127 25E, 27 17N 126 58E.	200412
+HANNA	N	1	EKDK	special instructions: track is on 002 degree radial, 75-155 nm, left hand turns; remain west of airway ua7. tanker must remain w ithin copenhagen fir.	199512
+ILL		1	LIRR	1. ALL REQUESTS SHALL BE FORWARDED TO EUCARF 14 DAYS IN ADVANCE. CONTACT EUCARF AT DSN 314-480-7065. VERTICAL LIMITS OF BELOW LISTED COORIDORS WILL BE AS DEPICTED. LATERAL LIMITS ARE 20 NM EXCEPT ALPHA CORRIDOR AND PORTION OF BRAVO CORRIDOR	200211
+ILL		2	LIRR	BETWEEN 3851N 0956E AND BULAR WHICH ARE 10 NM WIDE. OPERATED ON TACTICAL BASIS WITHOUT NOTAM PUBLICATION. THE BLOCK LEVELS DEPICTED CANNOT BE USED SIMULTANEOUSLY. 2. ILL CORRIDOR CAN BE RESERVED THROUGH EUCARF WITH THE FOLLOWING CHARACTERI	200211
+ILL		3	LIRR	STICS: LATERAL LIMITS: 5 NM EITHER SIDE CENTERLINE JOINING POINTS BULAR (3818.8N1047.7E) TO RITMO (3715.9N 1224.5E) TO CAT53 (3644N 1536E) TO ILL01 (3646N 1900E). ROMA CONTROL FREQUENCIES TO BE USED: BETWEEN CAR VOR AND BULAR, 132.525; BET	200211
+ILL		4	LIRR	WEEN BULAR AND SOUTHEAST CAT VOR (CAT53),128.8; BETWEEN SOUTHEAST CAT VOR (CAT53) AND FIR BOUNDARY ILL01, 133.25. ALTERNATE FREQUENCIES ARE ROMA MIL 123.25 AND 388.85. ILL CORRIDOR IS NOT PUBLISHED IN THE ITALIAN AIP BUT CAN BE ACTIVATED BY	200211
+ILL		5	LIRR	NOTAM. THE ACTIVATION REQUEST MUST BE SENT 10 DUTY DAYS IN ADVANCE IN ORDER TO ISSUE AN APPROPRIATE NOTAM WITH 7 DAYS PRIOR NOTICE.	200211
+JOJO	N	1	EDVV	Anchor area protected up to 4NM outside of defined anchor pattern. Left hand racetrack pattern, magnetic course 169/349, leg length 30NM, leg separation 12NM, refueling base level FL290.	200607
+KARPATHOS		1	LGGG	NOTE 1:  All requests should be forwarded thru EUCARF seven duty days in advance. The approved segment will be activated by a CL I NOTAM.	200010
+KARPATHOS		2	LGGG	NOTE 2:  Altitudes FL160 thru 280 are authorized within the established areas. Simultaneous usage will only be approved when the altitude blocks are separated by at least two usable flight levels (for example, FL150B160 and FL210B230, FL21	200010
+KARPATHOS		3	LGGG	0B230 and FL250B270 etc.).  Exceptions to the above must be coordinated with theHead of Athinai ATCC. NOTE 3:  Aircraft may operate within the specified dimensions.	200010
+KARPATHOS		4	LGGG	(EUCARF/HCAA MOU, 4/18/2000) NOTE 4:  a.  Five minutes prior to entering either corridor, transitioning from one corridor to another, or exiting either corridor, aircraft will broadcast in	200010
+KARPATHOS		5	LGGG	the blind on 299.6 aircraft's position, next position, ETA to next position, altitude, and cardinal direction (east, west). b.  While transiting either corridor, aircraft will monitor	200010
+KARPATHOS		6	LGGG	299.6.              c.  Transiting EASTBOUND-set APN/69 Beacon to 'Operate' and set code '2-0-0'; set Air-to-Air TACAN to '29Y'; utilize APN/59 Search Radar in 'Beacon' if conditions permit.	200010
+KARPATHOS		7	LGGG	d.  Transiting WESTBOUND-set APN/69 Beacon to 'Operate' and set code '2-0-3'; set Air-to-Air TACAN to '92Y'; utilize APN/59 Search Radar in 'Beacon' if conditions permit.	200010
+KARPATHOS		8	LGGG	(CORONET PLANNING ELEMENT MSG 10/99)	200010
+KARY	N	1	RJTG	REMARKS: ARCP/ANCHOR points and exit points for ANCHOR areas are identical. Tanker will file to ANCHOR point and request delay in appropriate ANCHOR area for the time required to complete air refueling.	200412
+KARY	S	1	RJTG	REMARKS: ARCP/ANCHOR points and exit points for ANCHOR areas are identical. Tanker will file to ANCHOR point and request delay in appropriate ANCHOR area for the time required to complete air refueling.	200412
+KIMLONG	NE	1	EDVV	Anchor only for refueling of NATO E-3A/D aircraft. Pattern entirely within ED-302(TRA). Note: ED-R34 A+B and ED-R13 A+B within ED-R302. Southern IP mag course 37 degrees for 80NM. Northern IP mag course 212 for 62NM. Anchor pattern left han	200607
+KIMLONG	NE	2	EDVV	d racetrack, magnetic headings 033/213, leg length 112NM, leg separation 16NM, refueling base level FL290.	200607
+KIMSHORT	NE	1	EDVV	Anchor only for refueling of NATO E-3A/D aircraft (exercises excepted). Pattern entirely within TRA ED-R302. Note: ED-R13 A+B and ED-R 34 A+B are within ED-R302. Southern IP mag course 034 for 55NM. Northern IP mag course 212 for 62NM. Left	200607
+KIMSHORT	NE	2	EDVV	hand racetrack pattern, mag course 035/215, leg length 50NM, leg separation 16NM, refueling base level FL290.	200607
+LPD47	N	1	LPPP	WITHIN CONFINES OF LPD-47. 40 NM LENGTHS	200201
+MAGGIE	N	1	EDBB	Located entirely within ED-R206 (TRA). Left hand racetrack pattern, magnetic course 013/193 degrees, leg length 40NM, leg separation 20NM, refueling base level FL120.	200607
+MALLIPO	N	1	RKRR	REMARKS: Mallipo and Cheollipo will not be scheduled simultaneously. Orbit is always to the West.	200412
+MALLIPO	S	1	RKRR	REMARKS: Mallipo and Cheollipo will not be scheduled simultaneously. Orbit is always to the West.	200412
+MALTA	E	1	LMMM	Activated on a tactical basis PPR only with appropriate NOTAM. Aircraft shall beRNAV equipped, RNP5 capable (track lateral limits 5NM either side). Submit refueling requests 6 days in advance by e-mail: airspace.cell@maltats.com or Fax 356	200512
+MALTA	E	2	LMMM	2369 5471. Submit standard FPL IAW EUROCONTROL CFMU procedures; insert SUBOK dct OMARA dct AMIBO dct ARLOS in Field 15 of FPL. Minor changes (less than 24 hours before departure) can be submitted to the Malta ATS supervisor at 356 2123 462	200512
+MALTA	E	3	LMMM	3 or 356 2369 6520. Emergency cell phone 356 9949 1234.	200512
+MALTA	W	1	LMMM	Activated on a tactical basis PPR only with appropriate NOTAM. Aircraft shall beRNAV equipped, RNP5 capable (track lateral limits 5NM either side). Submit refueling requests 6 days in advance by e-mail: airspace.cell@maltats.com or Fax 356	200512
+MALTA	W	2	LMMM	2369 5471. Submit standard FPL IAW EUROCONTROL CFMU procedures; insert ARLOS dct AMIBO dct OMARA dct SUBOK in Field 15 of FPL. Minor changes (less than 24 hours before departure) can be submitted to the Malta ATS supervisor at 356 2123 462	200512
+MALTA	W	3	LMMM	3 or 356 2369 6520. Emergency cell phone 356 9949 1234.	200512
+NORTHSEA	N	1	EDWW	Located entirely within ED-D44, 46, and 100. Note: Host defined Rendezvous Point, NDO 309/82, N54 36.67' E06 49.83'. Left hand racetrack, magnetic course 020/200, leg length 30NM, leg separation 16NM, refueling base altitude FL210.	200607
+ROSY	N	1	EDWW	Located entirely within TRA ED-R202. Note: ED-R34 AB and ED-R37A within ED-R202 on W and SW side of anchor pattern. IP inbound mag course 037 for 46NM, left hand racetrack pattern, mag course 020/200, leg length 30NM, leg separation 14NM, r	200607
+ROSY	N	2	EDWW	efueling base level will be defined prior to the tanker entering the anchor.	200607
+SAXON	SW	1	EDMM	Located entirely within (TRA)ED-R208. Note: Host defined Rendezvous Point, HOZ 204/59, N50 52.65' E12 30.46' Rednezvous Control; Munchen RADAR. Left hand racetrack, magnetic course 048/228, leg length 25NM, leg separation 10NM, refueling ba	200610
+SAXON	SW	2	EDMM	se altitude FL160.	200610
+SHOGUN	E	1	RJTG	REMARKS: ARCP/ANCHOR points and exit points for ANCHOR areas are identical. Tanker will file to ANCHOR point and request delay in appropriate ANCHOR area for the time required to complete air refueling.	200412
+SHOGUN	W	1	RJTG	REMARKS: ARCP/ANCHOR points and exit points for anchor areas are identical. Tanker will file to ANCHOR point and request delay in appropriate anchor area for the time required to complete air refueling. .	200610
+SUNSHINE	N	1	RJTG	REMARKS: ARCP/ANCHOR points and exit points for ANCHOR areas are identical. Tanker will file to ANCHOR point and request delay in appropriate ANCHOR area for the time required to complete air refueling.	200412
+SUNSHINE	S	1	RJTG	REMARKS: ARCP/ANCHOR points and exit points for ANCHOR areas are identical. Tanker will file to ANCHOR point and request delay in appropriate ANCHOR area for the time required to complete air refueling.	200412
+TORIIGATE	N	1	RORG	ASSIGNED AIRSPACE: Area coordinates 24 28N 125 20E, 21 32N 123 38E, 21 08N 124 25E, 24 04N 126 08E. Refueling area may be used as an anchor or tracks.	200412
+TORIIGATE	S	1	RORG	ASSIGNED AIRSPACE: Area coordinates 24 28N 125 20E, 21 32N 123 38E, 21 08N 124 25E, 24 04N 126 08E. Refueling area may be used as an anchor or tracks.	200412
+UTE	SE	1	EDFF	Located entirely within ED-R205B+C (TRA). Note: ED-R116 within ED-R205A on NW side of anchor pattern. RIGHT hand racetrack, magnetic course 153/333, leg length 26NM, leg separation 10NM, refueling base altitude FL150.	200607
+VIRGIN	E	1	EDFF	Located entirely within ED-R305 (TRA). Note: ED-R116 located underneath anchor pattern. Left hand racetrack pattern, magnetic course 104/284, leg length 40NM, leg separation 18NM, refueling base altitude FL280.	200607

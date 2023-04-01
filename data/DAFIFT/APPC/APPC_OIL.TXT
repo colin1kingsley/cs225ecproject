@@ -1,0 +1,23 @@
+OIL_CODE	FLIP_NATO	DESIGNATION	NEAREST_NATO	GRADE_TYPE
+A	AVBL			Available (Types unknown)
+C	O-113			1065, Reciprocating Engine Oil (MIL L 6082)
+D	O-117			1100, Reciprocating Engine Oil (MIL L 6082)
+E	O-117+			1100, O-117 plus cyclohexanone (MIL L 6082)
+F	O-123			1065,(Dispersant)Reciprocating Engine Oil(MIL L 22851 Type III)
+G	O-128			1100,(Dispersant)Reciprocating Engine Oil(MIL L 22851 Type II)
+H	O-132			1005, Jet Engine Oil (MIL L 6081)
+J	O-133			1010, jet Engine Oil (MIL l 6081)
+K	O-147			None, MIL L 6085A Lubrication Oil, Instrument Synthetic
+L	O-148			None, MIL L 7808 (Synthetic Base), Turboprop/Turboshaft Engine
+M	O-149			None, Aircraft Turbine Engine Synthetic 7.5c St
+N	O-155			None, MIL L 6068C, Aircraft Medium Grade
+P	O-156			None, MIL L 23699 (Synthetic Base)Turboprop/Turboshaft Engine
+Q	JOAP			Joint Oil Analysis Program
+R	SOAP			Spectrometric Oil Analysis Program
+S	O-MK6	MK-6	0-133	MIL-O-6081B, Grade 1010 (1005)
+T	O-MK8	MK-8	0-133	MIL-O-6081B, Grade 1010 (1005)
+U	O-MK8P	MK-8P	0-133	MIL-O-6081B, Grade 1010 (1005)
+V	O-MK22	MK-22	0-117	MIL-O-6082B, Grade 1100 (1065)
+Y	O-MS24	MK-24	0-117	MIL-O-6082B, Grade 1100 (1065)
+W	O-MS6	MS-6	0-133	MIL-O-6081B, Grade 1010 (1005)
+
