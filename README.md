@@ -1,3 +1,9 @@
+# Openflights Information
+- Github: https://github.com/jpatokal/openflights
+    - data folder: https://github.com/jpatokal/openflights/tree/master/data
+- Documentation: https://openflights.org/data.html
+
+
 # Team Contract
 
 ## Communication

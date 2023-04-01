@@ -1,0 +1,27 @@
+TIME_CODE	TIMES
+AO	First Sun in Apr at 0200 to last Sun in Oct at 0200 locl time
+AP	First Sun in Apr to last Sat in Oct
+AQ	First Sun in Apr to last Sun in Oct (outside U.S.)
+AR	1 Apr to 30 Sept
+AS	25 Apr to 26 Sept
+EG	Last Fri in Apr at 2101Z to last Thu in Sep at 2100Z
+IR	21 Mar at 1930Z to 20 Sep at 1930Z
+LD	13 Apr at 2359Z to 5 Oct at 2200Z
+LL	Last Sun in Apr to last Sun in Oct
+MA	Last Sun in May to last Sun in Sept
+MB	Last Sun in Mar to last Sun in Sept
+MC	Last Sun in Mar to last Sun in Oct
+MD	Last Sun in Mar to 27 Oct at 2300Z
+MM	2300Z last Sat in Mar to 2300Z last Sat in Oct
+MO	30 Mar at 0100Z to 26 Oct at 0100Z
+MP	31 Mar to 30 Sept
+MR	31 Mar at 0100Z to 27 Oct at 0100Z
+NN	None (No Daylight Savings Time observed)
+NO	Dates notified by NOTAM
+OA	1 Oct to 1 Apr
+OF	3rd Sun in Oct to 3rd Sun in Feb
+OM	2nd Sat in Oct to 2nd Sat in Mar
+OT	Other
+RU	Last Sat in Mar at 2300Z to last Sat in Oct at 2300Z
+UU	Unknown
+

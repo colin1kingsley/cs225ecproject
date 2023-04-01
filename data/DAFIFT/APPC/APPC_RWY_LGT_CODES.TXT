@@ -1,0 +1,58 @@
+LGT_CODE	SYS	DESCRIPTION
+1 	PCL	Pilot Controlled Lighting
+10	A	ALSF-2
+11	A1	ALSF-1
+12	A2	SALS or SALSF
+13	A3	SSALR
+14	A4	MALS and MALSF or SSLAS and SSALF
+15	A5	MALSR
+16	AF	Overrun Centerline
+17	AI	Centerline and Bar
+18	B	US Configuration (b)
+19	BE	Hong Kong Curve
+2 	SF	Sequenced Flashing Lights
+20	BF	Center ow
+21	BG	Left Center Row
+22	BN	Former NATO Standard (c)
+23	BO	Center Row
+24	BP	NATO standard
+25	BQ	Center and Double Row
+26	BR	Portable Approach
+27	BS	Center Row
+28	C	Neon Ladder
+29	D	Navy Parallel Row and Crossbar
+3 	TDZL	Touchdown Zone Lighting
+30	E	Two Parallel row
+31	F	Left Row (High Intensity)
+32	I	Air Force Overrun
+33	J	Calvert (British)
+34	M	Single Row Centerline
+35	N	Narrow Mulit-cross
+36	O	Centerline High Intensity
+37	Q	Alternate Centerline and Bar
+38	S	Cross
+39	T	Center Row
+4 	CL	Centerline Lighting System
+40	U	Singapore Centerline
+41	X	Centerline 2 Crossbars
+42	ODALS	Omnidirectional Approach Lighting System
+43	V (VASI)	Visual Approach Slope Indicator
+44	V1 (T-VASI)	T-Visual Approach Slope Indicator
+45	V2 (PVASI)	Pulsating Visual Approach Slope Indicator
+46	V3 (JUMBO)	VASI with a TCH to accommodate long bodied or jumbo aircraft
+47	V4	Tri-color Arrival Approach (TRICOLOR)
+48	V5 (APAP)	Alignment of Elements System
+49		Blank
+5 	HIRL	High Intensity Runway Lights
+50	PAPI	Precision Approach Path Indicator
+51	OLS	Optical landing System
+52	WAVEOFF	
+53	PORTABLE	
+54	FLOODS	
+55	LIGHTS	
+56	LCVASI	Low Cost Visual Approach Slope Indicator
+6 	MIRL	Medium Intensity Runway Lighting System
+7 	LIRL	Low Intensity Runway Lighting System
+8 	RAIL	Runway Alignment Lights
+9 	REIL	Runway End Identifier Lights
+

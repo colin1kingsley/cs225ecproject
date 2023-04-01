@@ -1,0 +1,53 @@
+CCPV	STATE
+US01	Alabama
+US02	Alaska
+US04	Arizona
+US05	Arkansas
+US06	California
+US08	Colorado
+US09	Connecticut
+US10	Delaware
+US11	District of Columbia
+US12	Florida
+US13	Georgia
+US15	Hawaii
+US16	Idaho
+US17	Illinois
+US18	Indiana
+US19	Iowa
+US20	Kansas
+US21	Kentucky
+US22	Louisiana
+US23	Maine
+US24	Maryland
+US25	Massachusetts
+US26	Michigan
+US27	Minnesota
+US28	Mississippi
+US29	Missouri
+US30	Montana
+US31	Nebraska
+US32	Nevada
+US33	New Hampshire
+US34	New Jersey
+US35	New Mexico
+US36	New York
+US37	North Carolina
+US38	North Dakota
+US39	Ohio
+US40	Oklahoma
+US41	Oregon
+US42	Pennsylvania
+US44	Rhode Island
+US45	South Carolina
+US46	South Dakota
+US47	Tennessee
+US48	Texas
+US49	Utah
+US50	Vermont
+US51	Virginia
+US53	Washington
+US54	West Virginia
+US55	Wisconsin
+US56	Wyoming
+

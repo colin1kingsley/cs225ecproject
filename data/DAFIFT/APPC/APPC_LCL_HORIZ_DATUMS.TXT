@@ -1,0 +1,79 @@
+DATUM_CODE	DATUM	COUNTRY
+ADI	Adindan	MEAN FOR Ethiopia, Sudan
+AFG	Afgooye	Somalia
+AIN	Ain el Abd 1970	Bahrain
+ANO	Anna 1 Astro 1965	Cocos Islands
+ARF	Arc 1950	MEAN FOR Botswana, Lesotho, Malawi,
+ARS	Arc 1960	MEAN FOR Kenya, Tanzania
+ASM	Montserrat Island Astro 1958	Montserrat (Leeward Islands)
+AUA	Australian Geodetic 1966	Australia, Tasmania
+AUG	Australian Geodetic 1984	Australia, Tasmania
+BAT	Djakarta (Batavia)	Indonesia (Sumatra)
+BER	Bermuda 1957	Bermuda
+BID	Bissau	Guinea-Bissau
+CAC	Cape Canaveral	Bahamas, Florida
+CAI	Campo Inchauspe	Argentina
+CAP	Cape	South Africa
+CAZ	Camp Area Astro	Antarctica (McMurdo Camp Area)
+CGE	Carthage	Tunisia
+DAL	Dabola	Guinea
+DOB	GUX 1 Astro	Guadalcanal Island
+ENW	Wake-Eniwetok 1960	Marshall Islands
+EUR	European 1950	MEAN FOR Austria, Belgium, Denmark,
+EUS	European 1979	MEAN FOR Austria, Finland,
+FAH	Oman	Oman
+GAA	Gan 1970	Republic of Maldives
+GEO	Geodetic Datum 1949	New Zealand
+GUA	Guam 1963	Guam
+HEN	Herat North	Afghanistan
+HJO	Hjorsey 1955	Iceland
+HKD	Hong Kong 1963	Hong Kong
+HTN	Hu-Tzu-Shan	Taiwan
+IND	Indian	India, Nepal
+INF	Indian 1954	Thailand
+INH	Indian 1975	Thailand
+IRL	Ireland 1965	Ireland
+JOH	Johnston Island 1961	Johnston Island
+KAN	Kandawala	Sri Lanka
+KEA	Kertau 1948	West Malaysia & Singapore
+KUS	KUSAIE ASTRO 1951	Federated States of Micronesia
+LCF	L. C. 5 Astro 1961	Cayman Brac Island
+LEH	Leigon	Ghana
+LIB	Liberia 1964	Liberia
+LUZ	Luzon	Philippines (Excluding Mindanao)
+MAS	Massawa	Ethiopia (Eritrea)
+MER	Merchich	Morocco
+MID	Midway Astro 1961	Midway Islands
+MIN	Minna	Nigeria
+MPO	M'Poraloko	Gabon
+MVS	Viti Levu 1916	Fiji (Viti Levu Island)
+N	WGS 1984	Over Water
+NAH	Nahrwan	Saudi Arabia
+NAP	Naparima BWI	Trinidad & Tobago
+NAR	North American 1983	Alaska, CA, CONUS, MX, and S Americal
+NAS	North American 1927	CONUS
+NSD	North Sahara 1959	Algeria
+OEG	Old Egyptian 1907	Egypt
+OGB	Ordnance Survey Great Britain 1936	MEAN FOR England, Isle of Man,
+PHA	Ayabelle Lighthouse	Djibouti
+PIT	Pitcairn Astro 1967	Pitcairn Island
+PLN	Pico de las Nieves	Canary Islands
+PUR	Puerto Rico	Puerto Rico, Virgin Islands
+QAT	Qatar National	Qatar
+QUO	Qornoq	Greenland (South)
+REU	Reunion	Mascarene Islands
+SAN	South American 1969	MEAN FOR Argentina, Bolivia,
+SAP	Sapper Hill 1943	East Falkland Island
+SCK	Schwarzeck	Namibia
+SHB	Astro DOS 71/4	St Helena Island
+TAN	Tananarive Observatory 1925	Madagascar
+TIL	Timbalai 1948	Brunei, E. Malaysia (Sabah Sarawak)
+TOY	Tokyo	Japan
+U	WGS 1984	Unknown
+WAK	Wake Island Astro 1952	Wake Atoll
+WGC	WGS 1972	Global Definition
+WGE	WGS 1984	Global Definition
+WGX	WGS 1984	GPS
+YAC	Yacare	Uruguay
+ZAN	Zanderij	Suriname
+

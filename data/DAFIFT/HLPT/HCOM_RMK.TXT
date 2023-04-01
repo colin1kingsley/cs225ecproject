@@ -1,0 +1,98 @@
+HELI_IDENT	COMM_TYPE	RMK_SEQ	REMARK	CYCLE_DATE
+GM00005	AFIS	1	Opr 0700-2200Z++ Mon-Thu, 0700-1700Z++ Fri. Clsd Sat, Sun, US/GM hol.	200608
+GM00005	PMSV	1	(Full svc dur wx fcst hr.)	199902
+GM00005	TWR	1	Opr 0700-2200Z++ Mon-Thu, 0700-1700Z++ Fri. Clsd Sat, Sun, US/GM hol.	200608
+GM00019	PMSV	1	(Full svc dur twr opr hr). Remote Wx briefs avbl H24 fr 21st Operational WX Squadron(OWS) DSN 496-6145-6 or C06302-67-6145-6.	200605
+GM00325	PTD	1	Relay down/off time to Stuttgart Base OPS.	200003
+GM00332	TWR	1	Rpt arr and dep to Coleman Twr.	200408
+GM00338	HEL	1	Rpt arr and dep to Coleman Twr.	200408
+GM00351	PTD	1	Relay down or off time to Stuttgart Base OPS. Ctc Stuttgart Twr prior to dep.	200008
+GM00357	PMSV	1	(Fone ETS 475-8349)	199908
+GM66879	AAS	1	Rpt arr CRPs and dep from helipad on 122.1 or 142.2 with intentions.	200506
+JA00007	TWR	1	ctc prior to ldg and after tkof dur nml duty hr, OT ctc KASTNER OPS.	200009
+JA00008	TWR	1	(Ctc prior to ldg and after tkof dur nml opr hr, OT ctc KASTNER OPS).	200003
+JA99921	APP	1	Class B airspace for Okinawa TCA, see Radar Advisory Service section.	200012
+JA99921	TWR	1	Ctc prior to ldg and tkof.	200009
+JA99922	OPS	1	(MARITIME CH 16 56)	200413
+JA99924	AWOS	1	fone DSN 229-3521	200003
+JA99924	TWR	1	Ctc twr prior to ldg and tkof.	200002
+KS00003	APP	1	Ctc prior to entry into CTLZ	200208
+KS00012	MISC	1	Opr dur maj exer only.	200205
+KS60058	POST	1	HF fone patch thru Yokota Awy.	200004
+KS99731	OPS	1	fone 734-5762 or 5156.	200204
+KS99774	CTAF	1	(US ARMY) FONE 732-5624.	200006
+KS99774	PMSV	1	RNG LTD IN ALL DIRECTIONS. FONE 732-5417.	200006
+KS99775	OPS	1	wx obsn 2200-1200Z wkd exe hol, fone M721-2200.	200205
+KS99779	CTAF	1	All acft will use UNICOM 41.4 when Walker Advisory is clsd.	200205
+KS99779	OPS	1	Fone 764-4072,4309	200205
+KS99794	PMSV	1	Remote wx briefing avbl fr Camp Humphreys fone M753-7572.	200204
+KS99794	TWR	1	When twr clsd YONGSAN OPS will provide advsy svc on 46.9 FM.	200003
+KS99795	TWR	1	Mission essential tfc only. Other tfc use H-207.	200003
+KS99796	TWR	1	Pad not vis from twr.	200003
+KS99802	A/G	1	Ctc CON 10 min prior to landing.	200003
+KS99802	FOC	1	Arr/dep info must be relayed to FOC by AIREDALE or KUNSAN APP CON.	200202
+KS99829	HEL	1	Ctc 30 min prior to landing. ROKAF - 278.4	200003
+KS99830	MISC	1	Ctc at least 15 min prior to ldg.	200208
+KS99833	AAS	1	Ctc for VFR ADVSY SVC.	200208
+KS99834	AAS	1	Ctc for VFR ADVSY SVC.	200208
+KS99835	FCC	1	Ctc for VFR ADVSY SVC.	200208
+KS99836	AAS	1	AIRCRAFT OPERATING WITHIN 30NM CONTACT VFR ADVISORY.	200411
+KS99836	FCC	1	Acft opr wi 30 NM ctc for VFR Advsy Svc.	200209
+KS99843	TWR	1	Ctc for VFR ADVSY SVC.	200208
+KS99844	TWR	1	Ctc CASEY twr for VFR ADVSY SVC.	200003
+KS99848	TWR	1	Ctc for VFR ADVSY SVC.	200208
+KS99849	TWR	1	Ctc for VFR ADVSY SVC.	200208
+KS99851	TWR	1	Ctc for VFR ADVSY SVC.	200208
+KS99852	OPS	1	Ctc 10 min prior to ldg.	200003
+KS99853	FCC	1	Ctc prior to ldg	200208
+KS99855	OPS	1	Ctc prior to ldg.	200208
+KS99856	MULT	1	Ctc prior to ldg.	200208
+KS99857	OPS	1	Ctc prior to ldg.	200208
+KS99863	OPS	1	Ctc 10 min prior to ldg.	200208
+KS99867	OPS	1	(Ctc 10 min prior to ldg)	200208
+KS99870	OPS	1	Ctc 10 min prior to ldg.	200208
+KS99871	OPS	1	Ctc 10 min prior to ldg.	200208
+KS99875	MISC	1	Ctc 10 min prior to ldg	200208
+KS99896	TWR	1	Ctc for VFR ADVSY SVC.	200208
+KS99904	TWR	1	Ctc for VFR ADVSY SVC.	200208
+KS99905	TWR	1	Ctc for VFR ADVSY SVC.	200208
+KS99909	TWR	1	Acft inbd for ldg ctc twr 5 min out.	200003
+KS99922	MISC	1	(ROKA only).	200208
+KS99933	AAS	1	Ctc before landing	200208
+KS99937	AAS	1	Ctc 10 prior to ldg.	200208
+KS99940	AAS	1	Ctc 10 min prior to ldg.	200208
+KS99941	AAS	1	Ctc prior to entry. If no ctc made, rng is cold.	200208
+KS99942	AAS	1	Ctc 10 min prior to ldg.	200208
+KS99943	MISC	1	Ctc 10 min prior to ldg.	200208
+KS99944	AAS	1	Ctc 10 min prior to ldg.	200208
+KS99946	AAS	1	Ctc 10 min prior to ldg.	200208
+KS99947	AAS	1	Ctc 10 min prior to ldg.	200208
+KS99949	A/G	1	Ctc 10 min prior to ldg.	200208
+KS99959	A/G	1	Ctc prior to ldg.	200208
+KS99961	A/G	1	Ctc prior to ldg.	200208
+KS99964	A/G	1	Ctc 5 min prior to arr or dep.	200208
+KS99965	RDO	1	Ctc prior to ldg.	200208
+KS99966	OPS	1	Ctc 10 min prior to ldg.	200208
+KU00006	APP	1	(HF ALE UDAIRI)	200606
+US01093	MISC	1	Ctc 15 NM out.	200205
+US01198	OPS	1	Call SAN LUIS OPS	200010
+US01542	MISC	1	11 Wg (Callsign Sabre OPS)	200609
+US03248	CNTR	1	(APP/DEP svc)	200107
+US03248	OPS	1	All acft ctc for advsy upon entering reservation.	200309
+US03665	AWOS	1	C317-955-3160.	200412
+US06333	OPS	1	PPR ARNG Flt OPS DSN 880-4609 4580, C973-724-4609 4580.	200205
+US08330	A/D	1	VFR advsy.	200109
+US08330	PMSV	1	Opr 1100-2330Z++ Mon-Fri, ltd svc 1300-1600Z++ wkend and hol. OT ctc Davis-Monthan AFB, 25th OWS DSN 228-7553/7644. ASOS not manually augmented and data only avbl via PMSV dur nml duty hr.	200406
+US09362	MISC	1	Opr H24 ctc prior entry R3701, R3702,128.75 285.625. When SABRE TWR-FLT DISPATCHclsd,open-close flt plan with CAMPBELL AAF FLT DISPATCH 130.65 142.9 230.1	200404
+US10092	APP	1	353.5. Class C 25 NM out on 118.05 353.5.-	200206
+US11670	AWOS	1	C212-425-1534.	199904
+US11752	MISC	1	KENNER	200005
+US11787	MISC	1	Req pilots mnt for company acft dispatch APACHE or call C480-891-3777.	200209
+US11790	CNTR	1	(APP/DEP svc)	200205
+US11836	MISC	1	Ctc for winds, alt, green or red deck info.	200602
+US11841	TWR	1	Opr 1300Z++-SS PPR. OT emerg use only - twr freq and arpt lgt ctl by HELIPORT Crash and Fire Rescue.	200206
+US11854	GND	1	Ctc BEAUFORT APP prior to entering CTLZ.	200205
+US11859	UNIC	1	Ctc Carlisle Base 126.2 when 10 NM fr ldg.	200001
+US11864	MISC	1	All acft mnt Air to Air freq, prim 227.2 altn 139.3, while opr in vcnty of MosbyAHP. All inbd acft ctc Mt Ranger 08 on 34.10, 73.00.	200206
+US11881	TWR	1	Req 10 min ntc prior to ETA.	200502
+US11881	TWR	1	Req 10 min ntc prior to ETA.	200502

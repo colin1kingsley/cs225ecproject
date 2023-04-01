@@ -1,0 +1,19 @@
+EN_CODE	TYPE	DESCRIPTION
+EA	61QSII	Barricade net system.
+EB	62NI	Net barrier with hook cable interconnect.
+EC	63PI	Dual cable interconnect for hook engagement.
+ED	A30	An AERAZUR 30-element net (F30).
+EE	A40	An AERAZUR 40-element net (F40).
+EF	BAK-11	A main strut engaging device.
+EG	BAK-14	Retractable hook cable engaging device, bi-directional.
+EH	BAK-15	Barricade net system, 61QSIIM stanchion and net.
+EI	HOOK CABLE	Unspecified type of tail hook engagement.
+EJ	HP-NET	ADEC high performance net.
+EK	J-BAR	Generic "barrier" (non-hook cable) engagement.
+EL	MA-1	Net barrier, main gear cable engagement.
+EM	MA-1A	Net barrier, main gear cable engagement.
+EN	MA-1A (MOD)	MA1A with interconnected hook cable.
+EO	NET	Unspecified type of net engagement.
+EP	UNK	Unknown.
+EQ	BAK-15(NI)	Web barrier interconnected with hook pickup cable.
+

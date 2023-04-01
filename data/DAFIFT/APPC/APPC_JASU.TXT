@@ -1,0 +1,131 @@
+JASU_CODE	TYPE	DESCRIPTION
+-60	AM32A-60	AIR: 120+/-4lb/min (1644+/-55cfm) at 49+/- 2psia AC: 120/208v,400 cycle, 3 phase, 75kva, 0.75pf, 4 wire 120v 1 phase, 25kva DC: 28v, 500 amp, 15kw
+-60A	AM32A-60A	AIR: 150+/-5lb/min (2055+/-68cfm) at 51+/- psia AC: 120/208v, 400 cycle, 3 phase, 75kva, 0.75pf, 4 wire DC:28v, 200 amp, 5.6kw
+-60B	AM32A-60B	AIR: 130lb/min, 50 psia AC: 120/208v, 400 cycle, 3 phase, 75kva, 0.75pf, 4 wire DC:28v, 200 amp, 5.6kw
+2A10	AF/M32A-10	AC:115/208v, 400 cycle, 3 phase, 20 kva, 0.75pf, 4wire amp DC: 28v, 500 amp, 15kw
+2A86	A/M32A-86	AC:115/200v, 3 phase, 90 kva, 0.8pf, 4 wire DC: 28v,1500 amp, 72kw
+59B2	59B2-1B	28v, 7.5kw, 280 amp
+90G	90G-20P	AC 115/200v 3 phase 400Hz 90 kva
+A1	A1	40psi/1.5 lb per sec (Palouste, LPAS Mk 2A)
+A2	A2	38 psi/2 lb er sec (LPAS Mk10)
+A3	A3	38.5 psi/ 2 lb per sec (LPAS Mk 11, LPAS Mk4)
+A3AE	A-3AE	DC 24/28, 5v22/40kw
+A4	A4	40 psi/2 lb/sec (LPAS Mk12, Mk12l, Mk12A, Mk1, Mk 2B)
+A5	A5	40-1200 psi (HP/LPAS 8 cylinder)
+A6	A6	38.5 psi/2 lb/sec (LPOAS Mk 17)
+AC35	AC-35	Atlas Copco 35 psi/120 lb/min
+AC37	ACE-37A	3600 psi, 18000 cu in capacity
+AGPU	AGPU	AC:115/200v, 400 cycle, 3 phase, 30kw gen DC: 28v, 700 amp AIR: 60lb/min@40 psig@ sea level
+AM32	AM32-95	150+/-5lb/min (2055+/- 68cfm) at 51+/- 2psia
+BC35	BC-3500	Technical data unknown.
+C	C	Series 9 and 10
+C1	C1	Percussion Nr1, Mk1
+C2	C2	Initiating 1 PN, Nr 2, Mk 2
+C21B	C-21-B	11kw 28v DC:8kva 380/980hz 115v 1 phase AC
+C26B	C-26B	AC:115/208v,380-800 cycles, 1 phase, 15 kva, 131 amp, 2 wire DC: 28v, 1500 amp, 45kw
+C26M	C-26-M	DC 28v 1000 amp
+C3	C3	Initiating 1 PN, Nr 2, Mk3
+C4	C4	Electric Nr5, Mk2
+C5	C5	Electric Nr9, Mk2
+C6	C6	Electric Nr10, Mk3
+C7	C7	Electric Nr14, Mk2
+CA1	CA1	MA1A 36-45psig, 82-90lb/min
+CA2	CA2	ASA 45.5 psig, 116.4 lb/min
+CA3	CA3	MC11 4000 psig, 15 cu ft/min
+CE1	CE1	AC 115/200v, 37.5kva, 400 hz, 3 phase
+CE10	CE10	AC 115/200v, 20kva, 400 hz, 3 phase
+CE11	CE11	AC 120/208v, 8.8kva, 400 hz, 3 phase
+CE12	CE12	AC 115/200v, 140kva, 400 hz, 3 phase
+CE13	CE13	AC 115/200v, 60kva, 400 hz, 3 phase
+CE14	CE14	AC/DC 115/200v, 140kva, 400 hz, 3 phase, 28vDC, 1500amp
+CE15	CE15	DC 22-35v, 500 amp continuous 1100 amp intermittent
+CE16	CE16	DC 22-35v, 500 amp continuous 1100 amp intermittent soft start
+CE2	CE2	AC 120/208v, 10kw, 400 hz, 3 phase
+CE3	CE3	AC 120/208v, 15kw, 400 hz, 3 phase
+CE4	CE4	AC 120/208v, 18kva, 400 hz, 3 phase
+CE5	CE5	AC 120/208v, 10kva, 400 hz, 3 phase
+CE6	CE6	AC 120/208v, 15kva, 400 hz, 3 phase
+CE7	CE7	AC 115v, 5kva, 400 hz, 1 phase
+CE8	CE8	AC 115/200v, 40kva, 400 hz, 3 phase
+CE9	CE9	AC 120/208v, 37.5kva, 400 hz, 3 phase
+CEA1	CEA1	AC 120/208v, 60kva, 400 hz, 3 phase DC 28v, 75 amp AIR 112.5 lb/min, 47psig
+CEA2	CEA2	AC 120/208v, 75kva, 400 hz, 3 phase AIR 116.4 lb/min, 47psig
+CM	CM	Type MXU/4/A/A
+DSA1	DSA 150	28v DC 25 amp, 115/208v AC 15kva 400hz 3 phase 4 wire
+DSA3	DSA 300	28v DC 35 amp 115/200v 30kva 400hz 3 phase 4 wire
+DSA5	DSA 560	16 kw 28v DC 800 amp 115/200v AC 400hz 3 phase 4 wire
+E1	E1	DC 24v 200-600 amp
+E10	E10	DC/AC 28v/200v 10kw/15kva
+E11	E11	DC/AC 28v/200v 6kw/25kva
+E12	E12	DC/AC 28v/200v 10kw/60kva
+E13	E13	AC 115v/10kva 2400hz
+E2	E2	DC 28v/9kw
+E3	E3	DC 28v/10kw
+E4	E4	DC 28v/20kw
+E5	E5	DC 28v/35kw
+E6	E6	DC 28v/112v 10/40kw
+E7	E7	DC 28v/112v 12/50kw
+E8	E8	DC 28v/112v 6/44kw
+E9	E9	DC 24v
+F1	F1	AVPIN Fliud
+F523	F-52372	182 lb/min 52.8 psia
+G10	G-10	10kw 28v DC Mk 4
+G38	G-38	38kw 24/28/32v DC 800/1000/1200 amp
+G40	G-40	40kw DC 1425 amp 28v
+G6	G-6	6kw 28v SC Mk 3
+G91	G-91	Cartridge (Shotgun)
+GPE	GPE-160	60kva AC 120/20v 3 phase 400hz AIR 112 lb/min@47 psi may have 28v max 1000ampDC
+GSU	GSU-160	47 lb sq in, 112 lb /min
+GTC	GTC-85/GTE-85	120 lbs/min@ 45psi
+JAS	JAS	Turbo Compressor, 35 psi/124 lb/min
+JEAS	JEAS	2100 psia 99 lb/min
+KM1	KM1	30 kva, 115/200v AC 87 amp, 3 phase 4 wire, 400Hz; 182 Air HP, 121 lb/min, 48 psi
+KM2	KM2	30 kva, 115/200v AC 87 amp, 3 phase 4 wire, 400Hz; 182 Air HP, 121 lb/min, 48 psi
+KM3	KM3	30 kva, 115/200v AC 87 amp, 3 phase 4 wire, 400Hz; 182 Air HP, 121 lb/min, 48 psi
+KM4	KM4	15 kva, 115/200v AC 54.2 amp, 3 phase 4 wire, 117 lb/min, 48 psi
+LASS	LASS	150+/-5lb/min@49+/- 2psia
+MA1	MA-1	150 Air HP, 115 lb/min 50 psia
+MA1A	MA-1A	82lb/min (1123cfm) at 130 deg air inlet temp,45psia(min) air outlet
+MA1M	MA-1MPSU	28V 500-1000 amp Split Bus 115/200v 25 kw 3 phase 400Hz 4 wire, 30kva 3500psi 45psia 1150 Air HP 117 lb/min 13 CFM
+MA2	MA-2	250 Air HP, 115 lb/min 65 psia
+MA2M	MA-2 MPSU	30 kva AC 115/200v 3 phase 400hz AIR 110 lb/min @25 psi and 28v 500/1000amp DC
+MA3M	MA-3MPSU	AIR: 150lb/min, 13.5cfm, 60 psia AC: 120/208v, 400 cycle, 3 phase, 60kva DC:28v, 1000 amp, 30kw
+MB1	MB-1	500 cu in cap, 3500 psig, 15cfm
+MB9	MB-9	4.01 cu ft cap (6930 cu in cap), 5cfm
+MC1	MC-1	15cfm, 3500psia
+MC11	MC-11	8,000 cu in cap, 4000psig, 15cfm
+MC1A	MC-1A	AC:115/208v,400 cycle, 3 phase, 37.5kva,0.8pf, 108 amp, 4 wire DC: 28v, 500 amp, 14kw
+MC1M	MC-1(Modified)	5,000 cu in cap, 3500 psia, 15 cfm
+MC2A	MC-2A	15 cfm, 200 psia
+MD1	MD-1	AC:120/208v, 400 cycle, 3 phase, 6.25kva, 0.8pf
+MD2	MD-2	AC:120/208v, 400 cycle, 3 phase, 10kva, 0.8pf
+MD3	MD-3	AC:115/208v, 400 cycle, 3 phase, 60 kva, 0.75 pf, 4 wire DC:28v, 1500 amp, 45 kw, split bus
+MD3A	MD-3A	AC:115/208v, 400 cycle, 3 phase, 60 kva, 0.75 pf, 4 wire DC:28v, 1500 amp, 45 kw, split bus
+MD3B	MD-3B	AC:115/208v, 400 cycle, 3 phase, 60 kva, 4 wire DC:28v, 500 amp
+MD3M	MD-3M	AC:115/208v, 400 cycle, 3 phase, 60 kva, 0.75 pf, 4 wire DC:28v, 500 amp, 15 kw
+MD4	MD-4	AC:120/208v, 400 cycle, 3 phase, 62.5kva, 0.8pf, 175 amp, "WYE" neutral ground, 4 wire, 120v 400 cycle, 3 phase, 62.5kva, 0.8pf, 303 amp, "DELTA" 3 wire, 120v, 400 cycle, 1 pase, 62.5 kva, 0.8pf, 520 amp, 2 wire
+MEP	MEP-116A	AC:115/208v and 240/446v, 400 cycle, 3 phase, 100kw, 0.8pf
+MJ1	MJ-1	3000-5000 psi, 30 GPM Flow, 110 HP
+MMG1	MMG-1/1A	DC: 500 amp constant, 1000 amp intermittent, 28v AC: 60kva@0.8 pf, 115/200v 3 phase 400hz Input(AC):220/400v, 3 phase, 60 hz
+MMG2	MMG-2	DC: 500 amp constant, 28v AC: 30kva @0.8pf 115/200v, 3 pahse, 400hz Input(AC):220/400v, 3 phase, 60 hz
+MXU1	MXU-129A	USAF
+MXU4	MXU-4A	USAF
+NC10	NC-10A/A1/B/C	DC: 750 amp constant, 1000 amp intermittent, 28v AC: 90kva, 115/200v, 3 phase, 400hz
+NC2A	NC-2A	DC: 500 amp constant, 28v AC: 30kva ,115/200v, 3 pahse, 400hz
+NC8A	NC-8A/A1	DC: 500 amp constant, 750 amp intermittent, 28v AC: 60kva@0.8pf, 115/200v, 3 phase, 400hz
+NCPP	NCPP-105/RCPT	180 lbs/min@75psi or 120lbs/min@ 45psi 700 amp, 28vDC, 120/208v, 400hz AC, 30kva
+PE75	PE-75	AC 120v 22 amp
+RST1	RST-180	75kva AC 115/200v 400hz AIR 145-155lb/min@ 47-51 psi
+ST22	ST-22/28	22kw 28v DC
+ST38	ST-38	38kw 24/28/33v DC 800/1000/1200 amp
+ST45	ST-45	45kw 28v DC 60kva 400hz 115/200v 3 phase AC
+ST56	ST-56	56kw 28v DC 700-1500 amp
+ST60	ST-60	45kw 28v DC 60 kva 400 +- 1hz 115/200v 1 or 3 phase AC
+STR3	STR-30	STRUVER 30 kva 115v AC 400 hz 3 phase
+STR4	STR-45	STRUVER 45kva 115v AC 400 hz 3 phase
+TASU	TASU	Turbine Air Starting Unit
+TC50	TC-50	Turbo Compressor
+U100	U-1000	DC 600 1200 amp 28v
+U103	U-1003	DC 600 1200 amp 28v 5v
+WELL	WELLS Air Start	180 lbs/min@ 75 psi or 120 lbs/min@ 45psi, Simultaneous Mulit start capability
+
